@@ -31,8 +31,7 @@ sections:
       - title: Gender
         title_align: left
         content: > 
-          Attac kämpft für Gleichberechtigung und gegen patriarchale Strukturen
-        in Gesellschaft und Staat.
+          Attac kämpft für Gleichberechtigung und gegen patriarchale Strukturen    in Gesellschaft und Staat.
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
