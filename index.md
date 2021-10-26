@@ -252,7 +252,7 @@ sections:
   - type: features_section
     title: Attac in Aktion
     features:
-      - title: Attac in Aktion
+      - title: Her mit der Demokratie!
         content: >-
           Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
           Crazy’ campaign and approached digital agency Matter Supply to launch
