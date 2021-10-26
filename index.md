@@ -12,7 +12,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     background_image: images/header_striped_cpr.jpg
     background_image_opacity: 20
     background_image_size: cover
@@ -31,7 +31,8 @@ sections:
       - title: Gender
         title_align: left
         content: >-
-          Attac kämpft für Gleichberechtigung und gegen patriarchale Strukturen in Gesellschaft und Staat.
+          Attac kämpft für Gleichberechtigung und gegen patriarchale Strukturen
+          in Gesellschaft und Staat.
         content_align: left
         image: images/feminismus.png
         image_alt: Section item 2 icon
@@ -39,7 +40,9 @@ sections:
         image_width: twenty-five
       - title: Demokratie
         title_align: left
-        content: Für eine gerechte Gestaltung der Globalisierung und friedliches Miteinander. Gegen Antisemitismus und rechtsradikales Gedankengut!
+        content: >-
+          Für eine gerechte Gestaltung der Globalisierung und friedliches
+          Miteinander. Gegen Antisemitismus und rechtsradikales Gedankengut!
         content_align: left
         image: images/rainy-chili.png
         image_alt: Section item 3 icon
@@ -262,7 +265,7 @@ sections:
           allowfullscreen></iframe>
         media_position: left
         media_width: sixty
-      - title: 'Europa geht anders.'
+      - title: Europa geht anders.
         content: "###### Verhindern wir die 'Troika für Alle' -\_Nein zum Wettbewerbspakt!\n\nDer\_Countdown\_läuft.\_Der Europäische Rat plant im Dezember 2013 einen Beschluss über einen Pakt für „Wettbewerbsfähigkeit und Konvergenz“. Damit soll die Krisenpolitik der Europäischen Union in Griechenland, Spanien oder Portugal auf ganz Europa ausgedehnt werden. Die Politik der Europäischen Union ist erfolglos, sie führt zu Massenarbeitslosigkeit und steigenden Schulden. Statt das neoliberale Rezept zu ändern, wird die Dosis erhöht. Der sogenannte „Wettbewerbspakt“ ist nichts anderes als ein Pakt für Lohndumping, Sozialabbau und Privatisierung.\n"
         image: images/titom_austerite.jpg
         image_alt: Sparpolitik in Europa
@@ -501,7 +504,7 @@ sections:
       - title: Folgen
         content: >
           [Facebook](https://www.facebook.com/Attac-Saar-wwwattac-saarde-159229390805900/)
-          
+
 
           [Youtube](https://www.youtube.com/user/AttacD)
 
