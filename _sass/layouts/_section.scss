@@ -214,8 +214,7 @@
 
 @include media-breakpoint-down(md) {
     .item {
-            margin-bottom: 2rem
-;
+            margin-bottom: 2rem;
     }
     .item__ {
         &title, &copy {
