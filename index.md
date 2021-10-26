@@ -356,6 +356,7 @@ sections:
 
 
           Ort: Restaurant Ivica (Nebenzimmer), Altneugasse 29, Alt-Saarbrücken
+        image: images/wahlkrampfabend.jpg
     feature_padding_vert: large
     align: center
     padding_top: large
