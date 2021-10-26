@@ -24,7 +24,7 @@ sections:
           Die Welt wächst zusammen, gleichzeitig wächst die Kluft zwischen Arm
           und Reich –  weltweit. Wir sagen: Eine andere Welt ist möglich!
         content_align: left
-        image: images/2-days.svg
+        image: images/globalisierung.png
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
