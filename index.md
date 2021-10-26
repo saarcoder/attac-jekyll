@@ -65,8 +65,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Sei Teil der Veränderung!
-        content: ''
+      - content: ''
         image: images/AttacSaar20Jahr.jpg
         image_alt: Feature 2 placeholder image
         media_position: center
