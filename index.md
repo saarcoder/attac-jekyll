@@ -70,16 +70,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: center
         media_width: fourty
-        actions:
-          - label: Mitmachen
-            url: 'https://www.attac.de/aktiv-werden/mitglied-werden'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
       - title: Immer weiter wachsen?
         content: >-
           Permanentes Wirtschaftswachstum erfüllt nicht das Versprechen auf
