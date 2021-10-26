@@ -212,7 +212,7 @@
 	}
 }
 
-@media screen and (max-width: small) {
+@include media-breakpoint-up(md) {
     item__ {
         &title h4, &copy {
             text-align: center;
