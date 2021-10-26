@@ -6,7 +6,7 @@ sections:
     subtitle: Eine andere Welt ist möglich.
     content: ''
     actions:
-      - label: Sei dabei!
+      - label: Mitmachen ist einfach!
         url: /unterstuetzen
         style: primary
     align: center
