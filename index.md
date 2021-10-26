@@ -353,8 +353,10 @@ sections:
           lange es Spass macht.
 
 
-          **Moderation**: Thomas SchulzPräsenz-Veranstaltung zu
-          Gastronomie-Bedingungen
+          **Moderation**: Thomas Schulz
+
+
+          Präsenz-Veranstaltung zu Gastronomie-Bedingungen
 
 
           **Ort**: Restaurant Ivica (Nebenzimmer), Altneugasse 29,
