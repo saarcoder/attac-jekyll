@@ -295,6 +295,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    subtitle: Was wir tun.
   - type: grid_section
     title: What People are Saying
     subtitle: Previous event attendees
