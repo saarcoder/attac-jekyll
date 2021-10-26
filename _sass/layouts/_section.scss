@@ -27,7 +27,9 @@
 }
 
 .section {
-    
+    &__title {
+        margin-bottom: -5rem;
+    }
 }
 .section__subtitle {
 	font-size: 0.88889em;
