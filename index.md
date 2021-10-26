@@ -110,9 +110,6 @@ sections:
     features:
       - actions: []
         image_alt: l20 Jahre Attac Saar
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fourty
         align: center
