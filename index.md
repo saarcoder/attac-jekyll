@@ -353,11 +353,12 @@ sections:
           lange es Spass macht.
 
 
-          Moderation: Thomas SchulzPräsenz-Veranstaltung zu
+          **Moderation**: Thomas SchulzPräsenz-Veranstaltung zu
           Gastronomie-Bedingungen
 
 
-          Ort: Restaurant Ivica (Nebenzimmer), Altneugasse 29, Alt-Saarbrücken
+          **Ort**: Restaurant Ivica (Nebenzimmer), Altneugasse 29,
+          Alt-Saarbrücken
         image: images/wahlkrampfabend.jpg
     feature_padding_vert: large
     align: center
