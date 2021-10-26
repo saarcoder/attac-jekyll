@@ -55,7 +55,7 @@ Einlass ab 18:30 Uhr (Begrüßungsgetränk) Beginn: 19:00 Uhr
 
 Per VideoChat in die Runde zugeschaltet:
 
-*   **Sven Giegold **(MdEP Grüne/EFA-Fraktion im Europaparlament, Sprecher Europagruppe Grüne)
+*   \*\*Sven Giegold \*\*(MdEP Grüne/EFA-Fraktion im Europaparlament, Sprecher Europagruppe Grüne)
 
 ##### 20:45-21:00 Uhr:
 
@@ -70,3 +70,5 @@ Per VideoChat in die Runde zugeschaltet:
 ##### 21:15-21:30 Uhr:
 
 „Acoustic Fight“ (live-Musik mit Pouya Nemati und Thomas Burckhardt)
+
+![](images/AttacSaar20Jahr.jpg)
