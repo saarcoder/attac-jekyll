@@ -88,7 +88,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: High-quality talks from field experts followed by Q&As
+      - title: Immer weiter wachsen?
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
