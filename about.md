@@ -1,7 +1,7 @@
 ---
 title: Über uns
 seo:
-  title: About
+  title: Über uns
   description: This is the about us page
   extra:
     - name: 'og:type'
