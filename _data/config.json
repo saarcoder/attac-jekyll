@@ -13,6 +13,16 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
+                "label": "20 Jahre Attac",
+                "url": "20-jahre",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Über uns",
                 "url": "/ueber-uns",
                 "style": "link"
@@ -31,16 +41,6 @@
                 "label": "Themen",
                 "url": "themen",
                 "style": "primary"
-            },
-            {
-                "label": "20 Jahre Attac",
-                "url": "20-jahre",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_anncmnt": false,
