@@ -308,14 +308,14 @@ sections:
 
           Unterhaltsame Infos zur Bundestagswahl, das 1. „Politische Pub-Quiz“
           und gemeinsames Fernsehen mit Analyse der Ergebnisse. DER Tipp für
-          „heimatlose“ politisch Interessierte.  
+          „heimatlose“ politisch Interessierte.
 
 
-          Die erste Getränkerunde geht auf Attac Saar. Kommt und bleibt, so
+          \<br>Die erste Getränkerunde geht auf Attac Saar. Kommt und bleibt, so
           lange es Spass macht.
 
 
-          **Moderation**: Thomas Schulz
+          \<br>**Moderation**: Thomas Schulz
 
 
           Präsenz-Veranstaltung zu Gastronomie-Bedingungen
