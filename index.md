@@ -330,7 +330,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - title: Kolumbien weint
+      - title: Der Wahlkrampfabend
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
