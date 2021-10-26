@@ -129,7 +129,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fourty
-        align: left
+        align: center
         image: images/AttacSaar20Jahr.jpg
     feature_padding_vert: medium
     align: center
