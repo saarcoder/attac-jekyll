@@ -76,12 +76,6 @@ sections:
           Wirtschaft.
 
           Auch dein Engagement wird gebraucht!
-        video_embed_html: >-
-          <iframe width="670" height="447"
-          src="https://www.youtube.com/embed/TZRqjd4ReY0" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
         actions:
           - label: Mitmachen
             url: 'https://www.attac.de/aktiv-werden/mitglied-werden'
