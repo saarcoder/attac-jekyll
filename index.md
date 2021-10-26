@@ -68,11 +68,11 @@ sections:
   - type: features_section
     features:
       - title: Sei Teil der Veränderung!
-        content: >-
+        content: ''
         image: images/AttacSaar20Jahr.jpg
         image_alt: Feature 2 placeholder image
         media_position: center
-        media_width: sixty
+        media_width: fourty
         actions:
           - label: Mitmachen
             url: 'https://www.attac.de/aktiv-werden/mitglied-werden'
