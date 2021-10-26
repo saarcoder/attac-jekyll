@@ -156,6 +156,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: images/colombia llora pero no se rinde.jpg
     feature_padding_vert: large
     align: center
     padding_top: none
