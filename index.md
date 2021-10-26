@@ -54,7 +54,6 @@ sections:
   - type: features_section
     title: Hintergünde verstehen. Impulse setzen.
     features:
-      - content: >- 
         align: center
     feature_padding_vert: medium
     align: center
