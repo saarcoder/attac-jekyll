@@ -13,10 +13,11 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Aktuell!",
+                "label": "Aktuell",
                 "url": "/aktuell",
                 "style": "link"
-            },            {
+            },
+            {
                 "label": "Über uns",
                 "url": "/ueber-uns",
                 "style": "link"
