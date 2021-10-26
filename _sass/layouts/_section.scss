@@ -212,7 +212,7 @@
 	}
 }
 
-@include media-breakpoint-down(sm) {
+@media and screen (max-width: sm) {
     item__ {
         &title h4, &copy {
             text-align: center;
