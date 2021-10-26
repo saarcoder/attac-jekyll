@@ -63,7 +63,7 @@ sections:
     subtitle: Wandel braucht Wissen.
   - type: features_section
     features:
-      - title: Hands-On Workshops
+      - title: Sei Teil der Veränderung!
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
