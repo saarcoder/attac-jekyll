@@ -342,9 +342,9 @@ sections:
           im Restaurant Ivica
 
 
-          ![](images/wahlkrampfabend.jpg)Unterhaltsame Infos zur Bundestagswahl,
-          das 1. „Politische Pub-Quiz“ und gemeinsames Fernsehen mit Analyse der
-          Ergebnisse. DER Tipp für „heimatlose“ politisch Interessierte.
+          Unterhaltsame Infos zur Bundestagswahl, das 1. „Politische Pub-Quiz“
+          und gemeinsames Fernsehen mit Analyse der Ergebnisse. DER Tipp für
+          „heimatlose“ politisch Interessierte.
 
 
           Die erste Getränkerunde geht auf Attac Saar. Kommt und bleibt, so
