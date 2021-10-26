@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: Über uns
       keyName: property
     - name: 'og:description'
       value: This is the about us page
@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About
+      value: Über uns
     - name: 'twitter:description'
       value: This is the about us page
     - name: 'twitter:image'
