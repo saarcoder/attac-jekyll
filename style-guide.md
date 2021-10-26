@@ -27,10 +27,6 @@ layout: page
 ---
 
 
-Vivamus tempus ornare urna, eget imperdiet quam venenatis ac. Donec fermentum massa id aliquet vulputate. Nam vestibulum ornare est, sed tincidunt mauris interdum a. In hac habitasse platea dictumst. Pellentesque sit amet arcu sed risus vehicula fermentum sit amet a neque. Sed imperdiet lacinia magna sit amet dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean non purus a quam placerat luctus. Proin orci risus, lobortis ut dictum at, gravida at nulla. 
-
-## Unordered and Ordered Lists
-
 + Donec non tortor in arcu mollis feugiat
 + Lorem ipsum dolor sit amet, consectetuer adipiscing elit
 + Donec id eros eget quam aliquam gravida
