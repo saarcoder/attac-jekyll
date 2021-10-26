@@ -55,6 +55,23 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
+  - type: cta_section
+    title: '"Morgen gehört uns." Donnerstag, 15. Juli ''21 Filmhaus Saarbrücken'
+    actions:
+      - label: Alle Infos
+        url: /danke
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/cta-background.png
+    background_image_opacity: 50
   - type: features_section
     features:
       - content: >
@@ -148,23 +165,6 @@ sections:
     background_color: none
     title: Attac Saar feiert 20 Jahre
     subtitle: Veranstaltung am 30. Oktober um 19 Uhr
-  - type: cta_section
-    title: '"Morgen gehört uns." Donnerstag, 15. Juli ''21 Filmhaus Saarbrücken'
-    actions:
-      - label: Alle Infos
-        url: /danke
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/cta-background.png
-    background_image_opacity: 50
   - type: grid_section
     title: Unsere Mitstreiter
     grid_items:
