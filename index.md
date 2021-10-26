@@ -3,7 +3,7 @@ title: Startseite
 sections:
   - type: hero_section
     title: Attac Saar
-    subtitle: Conference for Creative People
+    subtitle: Eine andere Welt ist möglich.
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
