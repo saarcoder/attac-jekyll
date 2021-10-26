@@ -63,6 +63,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+    subtitle: Wandel braucht Wissen.
   - type: features_section
     features:
       - title: Hands-On Workshops
