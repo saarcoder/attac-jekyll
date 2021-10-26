@@ -1,5 +1,5 @@
 ---
-title: Unterstützen Sie uns!
+title: Sei Teil der Veränderung!
 seo:
   title: Unterstützung
   description: This is the sponsorship page
