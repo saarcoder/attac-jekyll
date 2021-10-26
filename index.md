@@ -251,7 +251,6 @@ sections:
     background_color: none
   - type: features_section
     title: Attac in Aktion
-    subtitle: '2020'
     features:
       - title: Attac in Aktion
         content: >-
