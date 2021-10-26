@@ -62,17 +62,18 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
 
+          Am 30. Oktober 2021 feiert Attac Saar sein 20 jähriges Bestehen mit
+          einer Veranstaltung im Festsaal des Saarbrücker Schlosses: „20 Jahr‘
+          Attac Saar“ von 19 Uhr bis 21:30 Uhr, live-Musik und zahlreichen
+          Gästen, u.a. Sabine Leidig, Ulrich Commerçon, Eugen Roth, Susanne
+          Speicher und Sven Giegold (per Video zugeschaltet).
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Die Teilnahme ist für alle Interessierten kostenlos, Anmeldungen sind
+          erwünscht.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          eMail an: attac.saarland@gmail.com
         content_align: left
         actions: []
         actions_align: left
