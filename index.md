@@ -269,7 +269,7 @@ sections:
           src="https://www.youtube.com/embed/31WieWrYPqc" frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
-        media_position: left
+        media_position: right
         media_width: sixty
     feature_padding_vert: large
     align: center
