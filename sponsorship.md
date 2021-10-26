@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Sponsorship
+      value: Unterstützen Sie uns!
       keyName: property
     - name: 'og:description'
       value: This is the sponsorship page
@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Sponsorship
+      value: Unterstützen Sie uns!
     - name: 'twitter:description'
       value: This is the sponsorship page
 layout: page
