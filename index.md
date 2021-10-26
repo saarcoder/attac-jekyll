@@ -78,8 +78,8 @@ sections:
         image_has_padding: false
       - title_align: left
         content: >
-          Die Teilnahme ist für alle Interessierten kostenlos, Anmeldungen sind
-          erwünscht.
+          Die Teilnahme ist für alle Interessierten **kostenlos**,
+          **Anmeldungen** sind erwünscht.
 
 
           eMail an: <attac.saarland@gmail.com>
