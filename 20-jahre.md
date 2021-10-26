@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: 20 Jahre Attac Saar
       keyName: property
     - name: 'og:description'
       value: >-
