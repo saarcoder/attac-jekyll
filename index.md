@@ -58,10 +58,7 @@ sections:
   - type: features_section
     features:
       - content: >
-          ## Attac Saar feiert 20 Jahre:
-
-
-          Veranstaltung am **30.10. um 19 Uhr** im Saarbrücker Schloss
+          ## Veranstaltung am **30.10. um 19 Uhr** im Saarbrücker Schloss
           (Festsaal) mit live-Musik und Gästen
 
 
