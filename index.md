@@ -14,7 +14,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/BrueckenschuleIndien.jpg
-    background_image_opacity: 20
+    background_image_opacity: 40
     background_image_size: cover
   - type: grid_section
     grid_items:
