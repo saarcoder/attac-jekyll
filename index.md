@@ -57,7 +57,17 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - content: ''
+      - content: 'Attac Saar feiert 20 Jahre:
+
+Veranstaltung am 30.10. um 19 Uhr im Saarbrücker Schloss (Festsaal) mit live-Musik und Gästen 
+
+
+
+Am 30. Oktober 2021 feiert Attac Saar sein 20 jähriges Bestehen mit einer Veranstaltung im Festsaal des Saarbrücker Schlosses: „20 Jahr‘ Attac Saar“ von 19 Uhr bis 21:30 Uhr, live-Musik und zahlreichen Gästen, u.a. Sabine Leidig, Ulrich Commerçon, Eugen Roth, Susanne Speicher und Sven Giegold (per Video zugeschaltet).
+
+Die Teilnahme ist für alle Interessierten kostenlos, Anmeldungen sind erwünscht:
+
+eMail an: attac.saarland@gmail.com'
         image: images/AttacSaar20Jahr.jpg
         image_alt: Feature 2 placeholder image
         media_position: top
