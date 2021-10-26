@@ -72,10 +72,22 @@ sections:
           Wirtschaft.
 
           Auch dein Engagement wird gebraucht!
-        image: images/feature-1.jpg
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: sixty
+        video_embed_html: >-
+          <iframe width="670" height="447"
+          src="https://www.youtube.com/embed/TZRqjd4ReY0" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        actions:
+          - label: Mitmachen
+            url: 'https://www.attac.de/aktiv-werden/mitglied-werden'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: High-quality talks from field experts followed by Q&As
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
