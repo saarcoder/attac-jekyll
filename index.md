@@ -270,7 +270,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-              - title: Wohnen ist Gemeingut
+      - title: Wohnen ist Gemeingut
         subtitle: Vonovia enteignen!
         content: >
           Aktive aus Köln protestierten im Rahmen der Attac-Kampagne "Wohnen ist
