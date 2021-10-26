@@ -215,7 +215,7 @@
 @include media-breakpoint-down(md) {
     .item {
             margin-bottom: 2rem;
-        &__title, &copy {
+        &__title, &__copy {
             text-align: center;
         }
         &media img {
