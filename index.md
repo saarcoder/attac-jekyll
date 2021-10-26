@@ -381,16 +381,15 @@ sections:
         subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |-
-          ---
-          ### $139
+          ***
 
-          HD quality for Base camp and Summit tracks
+          ### Mitglied werden
 
-          * Interactive sessions with speakers
-          * Conference Stickers & more sent to your home
-          * Q&A with speakers
-          * Certificates on Workshops
-          * Technology discussion rooms
+          den Wandel aktiv fördern
+
+          *   Gemeinsame Ziele finden
+          *   Aktionen planen und durchführen
+          *   Andere inspirieren
         content_align: left
         actions:
           - label: Order Now
