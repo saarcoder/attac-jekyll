@@ -69,13 +69,6 @@ sections:
     features:
       - title: Sei Teil der Veränderung!
         content: >-
-          Im globalisierungskritschen Netzwerk Attac engagieren sich Menschen
-          aller Kontinente für eine soziale, gerechte, solidarische,
-          demokratische Welt – in Deutschland bereits seit zwanzig Jahren. Dabei
-          stellen sie die Interessen von Mensch und Natur vor die der
-          Wirtschaft.
-
-          Auch dein Engagement wird gebraucht!
         actions:
           - label: Mitmachen
             url: 'https://www.attac.de/aktiv-werden/mitglied-werden'
