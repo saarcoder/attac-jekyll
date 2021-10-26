@@ -1,5 +1,5 @@
 ---
-title: Danke!
+title: 20 Jahre Attac Saar
 sections:
   - type: hero_section
     title: Danke
