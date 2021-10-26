@@ -106,8 +106,7 @@ sections:
     title: >-
       Veranstaltung am 30.10. um 19 Uhr im Saarbrücker Schloss (Festsaal) mit
       live-Musik und Gästen
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     features:
       - actions: []
         image_alt: l20 Jahre Attac Saar
