@@ -410,7 +410,7 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: Raus aus der Meckerecke. Aktiv werden!
-    subtitle: We Are Supported by Awesome Companies
+    subtitle: Mitmachen
     align: center
     grid_items:
       - image: images/stackbit.svg
