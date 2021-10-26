@@ -213,7 +213,11 @@
 }
 
 @include media-breakpoint-down(md) {
-    .item 
+    .item {
+            margin-bottom: 2
+rem
+;
+    }
     .item__ {
         &title, &copy {
             text-align: center;
