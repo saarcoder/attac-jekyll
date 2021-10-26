@@ -331,7 +331,7 @@ sections:
         align: left
         type: feature
       - title: Der Wahlkrampfabend
-        subtitle: lorem-ipsum
+        subtitle: 'Politisch interessiert, aber nicht parteilich festgelegt?'
         actions: []
         image_alt: lorem-ipsum
         media_position: top
