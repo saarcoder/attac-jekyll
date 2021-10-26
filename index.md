@@ -298,7 +298,7 @@ sections:
     subtitle: Was wir tun.
   - type: grid_section
     title: Was die Medien schreiben.
-    subtitle: Attac in der Presse
+    subtitle: Previous event attendees
     grid_items:
       - content: >-
           I've had a wonderful few days at Event Conf. So grateful to have been
@@ -409,8 +409,8 @@ sections:
     background_image: images/pricing-background.jpg
     background_image_opacity: 10
   - type: grid_section
-    title: Raus aus der Meckerecke. Aktiv werden!
-    subtitle: Mitmachen
+    title: Our Sponsors
+    subtitle: We Are Supported by Awesome Companies
     align: center
     grid_items:
       - image: images/stackbit.svg
