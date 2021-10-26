@@ -337,11 +337,11 @@ sections:
         media_width: fifty
         align: left
         content: >
-          Sonntag, 26.09., 17:00-23:00 Uhr„Wahlk (r) ampf-Abend“ mit Attac Saar
-          im Restaurant Ivica
+          Sonntag, 26.09., 17:00-23:00 Uhr „Wahlk(r)ampf-Abend“ mit Attac Saar
+          **im Restaurant Ivica**
 
 
-          ##### Politisch interessiert, aber nicht parteilich festgelegt?
+          ##### **Politisch interessiert, aber nicht parteilich festgelegt?**
 
 
           Unterhaltsame Infos zur Bundestagswahl, das 1. „Politische Pub-Quiz“
