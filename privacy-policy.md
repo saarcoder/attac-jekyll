@@ -2,7 +2,7 @@
 title: Sklavenlos!
 seo:
   title: Sklavenlos!
-  description: This is the privacy policy page
+  description: 
   extra:
     - name: 'og:type'
       value: website
