@@ -1,5 +1,5 @@
 ---
-title: „20 JAHR ATTAC SAAR“
+title: 20 JAHR ATTAC SAAR
 seo:
   title: 20 Jahre Attac Saar
   description: Jubiläumsveranstaltung im Saarbrücker Schloss
