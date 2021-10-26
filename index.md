@@ -392,7 +392,7 @@ sections:
           *   Andere inspirieren
         content_align: left
         actions:
-          - label: Order Now
+          - label: Kontakt
             url: /thank-you
             style: primary
         actions_align: left
