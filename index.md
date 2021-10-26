@@ -254,9 +254,7 @@ sections:
     features:
       - title: Her mit der Demokratie!
         content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
+          "Attac besetzt Paulskirche\n\n[#Chemnitz](https://www.youtube.com/hashtag/chemnitz)\_[#HermitderDemokratie](https://www.youtube.com/hashtag/hermitderdemokratie)\n\nAm 15. September, dem internationalen Tag der Demokratie, haben Aktivist\\*innen von Attac die Frankfurter Paulskirche besetzt. Denn die Demokratie ist an vielen Stellen in größter Gefahr, wie nicht erst die\nEreignisse in [#Chemnitz](https://www.youtube.com/hashtag/chemnitz) deutlich machen. Wir wollen mit der Besetzung eine breite öffentliche Debatte über den Zustand der Demokratie anstoßen.\n\nwww.attac.de/her-mit-der-demokratie\n\n"
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/2rA_ucpQ_Fk" frameborder="0"
