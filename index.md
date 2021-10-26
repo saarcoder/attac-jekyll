@@ -412,7 +412,7 @@ sections:
     align: center
     grid_items:
       - image: images/stackbit.svg
-        image_alt: Stackbit logo
+        image_alt: Netzwerk Entwicklungspolitik im Saarland e.V.
         image_align: center
       - image: images/netlify.svg
         image_alt: Netlify logo
