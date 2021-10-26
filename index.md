@@ -413,7 +413,7 @@ sections:
     grid_items:
       - image: images/modern-steel.png
         image_alt: Netzwerk Entwicklungspolitik im Saarland e.V.
-        image_align: center
+        image_align: left
       - image: images/netlify.svg
         image_alt: Netlify logo
         image_align: center
