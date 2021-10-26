@@ -263,7 +263,7 @@ sections:
         media_position: left
         media_width: sixty
       - title: 'Europa geht anders.'
-        content: '###### Verhindern wir die \"Troika für Alle" -\_Nein zum Wettbewerbspakt!\n\nDer\_Countdown\_läuft.\_Der Europäische Rat plant im Dezember 2013 einen Beschluss über einen Pakt für „Wettbewerbsfähigkeit und Konvergenz“. Damit soll die Krisenpolitik der Europäischen Union in Griechenland, Spanien oder Portugal auf ganz Europa ausgedehnt werden. Die Politik der Europäischen Union ist erfolglos, sie führt zu Massenarbeitslosigkeit und steigenden Schulden. Statt das neoliberale Rezept zu ändern, wird die Dosis erhöht. Der sogenannte „Wettbewerbspakt“ ist nichts anderes als ein Pakt für Lohndumping, Sozialabbau und Privatisierung.\n'
+        content: '###### Verhindern wir die \"Troika für Alle\" -\_Nein zum Wettbewerbspakt!\n\nDer\_Countdown\_läuft.\_Der Europäische Rat plant im Dezember 2013 einen Beschluss über einen Pakt für „Wettbewerbsfähigkeit und Konvergenz“. Damit soll die Krisenpolitik der Europäischen Union in Griechenland, Spanien oder Portugal auf ganz Europa ausgedehnt werden. Die Politik der Europäischen Union ist erfolglos, sie führt zu Massenarbeitslosigkeit und steigenden Schulden. Statt das neoliberale Rezept zu ändern, wird die Dosis erhöht. Der sogenannte „Wettbewerbspakt“ ist nichts anderes als ein Pakt für Lohndumping, Sozialabbau und Privatisierung.\n'
         image: images/_titom_austerite.jpg
         image_alt: Europa
         media_position: right
