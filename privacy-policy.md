@@ -1,7 +1,7 @@
 ---
 title: Sklavenlos!
 seo:
-  title: Privacy Policy
+  title: Sklavenlos!
   description: This is the privacy policy page
   extra:
     - name: 'og:type'
