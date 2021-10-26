@@ -1,7 +1,7 @@
 ---
 title: 20 Jahre Attac Saar
 seo:
-  title: Theme Style Guide
+  title: 20 Jahre Attac Saar
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
