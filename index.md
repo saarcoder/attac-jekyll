@@ -55,8 +55,7 @@ sections:
     title: Hintergünde verstehen. Impulse setzen.
     features:
       - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+          
         align: center
     feature_padding_vert: medium
     align: center
