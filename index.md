@@ -504,10 +504,6 @@ sections:
           
           [Youtube](https://www.youtube.com/user/AttacD)
 
-
-          [Facebook](https://www.facebook.com/Attac-Saar-wwwattac-saarde-159229390805900/)
-
-
           [Twitter](https://twitter.com/hashtag/attacsaar?src=hashtag_click)
     grid_cols: two
     grid_gap_horiz: medium
