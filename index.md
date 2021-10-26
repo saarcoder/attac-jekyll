@@ -55,8 +55,7 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
-  - title: lorem-ipsum
-    subtitle: >-
+  - subtitle: >-
       Veranstaltung am 30.10. um 19 Uhr im Saarbrücker Schloss (Festsaal) mit
       live-Musik und Gästen
     actions: []
