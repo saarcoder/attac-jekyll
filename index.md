@@ -411,7 +411,7 @@ sections:
     subtitle: Regionale Bündnisse
     align: center
     grid_items:
-      - image: images/stackbit.svg
+      - image: images/modern-steel.png
         image_alt: Netzwerk Entwicklungspolitik im Saarland e.V.
         image_align: center
       - image: images/netlify.svg
