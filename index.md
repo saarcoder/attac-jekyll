@@ -339,7 +339,7 @@ sections:
     title: Raus aus der Meckerecke. Aktiv werden!
     subtitle: Mitmachen
     grid_items:
-      - title: Base Camp Ticket
+      - title: Reinschnupperer
         subtitle: April 14
         title_align: left
         content: |-
