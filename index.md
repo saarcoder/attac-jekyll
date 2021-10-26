@@ -6,7 +6,7 @@ sections:
     subtitle: Eine andere Welt ist möglich.
     content: ''
     actions:
-      - label: Get Your Ticket Today!
+      - label: Sei auch Du dabei!
         url: /about
         style: primary
     align: center
