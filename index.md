@@ -128,7 +128,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
-        media_width: fifty
+        media_width: fourty
         align: left
         image: images/AttacSaar20Jahr.jpg
     feature_padding_vert: medium
