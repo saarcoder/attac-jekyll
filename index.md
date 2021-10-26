@@ -346,11 +346,10 @@ sections:
           ---
           ### Ohne Anmeldung...
 
-          Watch only access for Base Camp track
+          einfach mal zu unseren Veranstaltungen kommen
 
-          * Conference Stickers
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
+          *   Aktuelle Aktionen
+          *   Jour fixe-Treffen (monatlich)
         content_align: left
         actions:
           - label: Registration
