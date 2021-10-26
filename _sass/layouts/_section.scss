@@ -223,8 +223,9 @@
         }
     }
     .feature {
-        &__title, &__copy {
+        &__title {
         text-align: center;
         }
+        &__copy
     }
 }
