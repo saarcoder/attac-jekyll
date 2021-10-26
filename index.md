@@ -33,7 +33,7 @@ sections:
         content: >-
           Attac kämpft für Gleichberechtigung und gegen patriarchale Strukturen in Gesellschaft und Staat.
         content_align: left
-        image: images/2-tracks.svg
+        image: images/feminismus.png
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
