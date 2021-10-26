@@ -43,7 +43,7 @@ Einlass ab 18:30 Uhr (Begrüßungsgetränk) Beginn: 19:00 Uhr
 
 Podiumsdiskussion: „Kritisches Engagement versus Parteienpolitik? Wie ist es um die politische Bedeutung von Attac, Campact und Co. bestellt?“
 
-Auf dem Podium:
+**Auf dem Podium:**
 
 *   Sabine Leidig (ehem. Attac-Bundesgeschäftsführerin, ehem. MdB Die Linke))
 
