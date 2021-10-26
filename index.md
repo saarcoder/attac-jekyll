@@ -57,14 +57,6 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - align: center
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
-  - type: features_section
-    features:
       - content: ''
         image: images/AttacSaar20Jahr.jpg
         image_alt: Feature 2 placeholder image
