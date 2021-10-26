@@ -357,7 +357,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Summit ticket
+      - title: Mitdenker
         subtitle: April 14 - 15
         title_align: left
         content: |-
