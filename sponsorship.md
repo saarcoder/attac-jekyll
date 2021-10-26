@@ -1,7 +1,7 @@
 ---
 title: Unterstützen Sie uns!
 seo:
-  title: Sponsorship
+  title: Unterstützen Sie uns!
   description: This is the sponsorship page
   extra:
     - name: 'og:type'
