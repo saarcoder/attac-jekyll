@@ -5,7 +5,7 @@ sections:
     title: Danke
     subtitle: Danke für Ihr Interesse an Attac!
     actions:
-      - label: Back to homepage
+      - label: Zurück zur Homepage
         url: /
         style: primary
         has_icon: true
