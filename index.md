@@ -516,30 +516,30 @@ sections:
     padding_bottom: medium
     background_color: none
 seo:
-  title: Stackbit Event Theme
-  description: The preview of the Event theme
+  title: Attac Saar
+  description: Attac Saar. Ein Knoten im internationalen Attac-Netzwerk.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: Attac Saar
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: Attac Saar. Ein Knoten im internationalen Attac-Netzwerk.
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: images/_titom_austerite.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: Attac Saar
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: Vorschau des Layouts
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: images/_titom_austerite.jpg
       relativeUrl: true
-layout: advanced
+template: advanced
 ---
