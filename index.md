@@ -128,7 +128,7 @@ sections:
     title: Attac Saar feiert 20 Jahre Veranstaltung am 30. Oktober um 19 Uhr
     actions:
       - label: Alle Infos
-        url: /danke
+        url: /20-jahre
         style: primary
         has_icon: true
         icon: arrow-right
