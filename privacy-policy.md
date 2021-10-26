@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:title'
       value: Sklavenlos!
     - name: 'twitter:description'
-      value: Aktuelle Informationenpage
+      value: This is the privacy policy page
 layout: page
 ---
 
