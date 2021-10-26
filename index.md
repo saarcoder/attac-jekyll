@@ -21,8 +21,8 @@ sections:
       - title: Eine Welt
         title_align: left
         content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+          Die Welt wächst zusammen, gleichzeitig wächst die Kluft zwischen Arm
+          und Reich –  weltweit. Wir sagen: Eine andere Welt ist möglich!
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
