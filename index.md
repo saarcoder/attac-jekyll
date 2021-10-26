@@ -265,9 +265,7 @@ sections:
         media_width: sixty
       - title: 'Um, its about your JavaScript...'
         content: >-
-          JAMstack is revolutionising the way we think about workflow by
-          providing a simpler developer experience, better performance, lower
-          cost and greater scalability. From JAMstack WTF
+          "###### Verhindern wir die 'Troika für Alle' -\_Nein zum Wettbewerbspakt!\n\nDer\_Countdown\_läuft.\_Der Europäische Rat plant im Dezember 2013 einen Beschluss über einen Pakt für „Wettbewerbsfähigkeit und Konvergenz“. Damit soll die Krisenpolitik der Europäischen Union in Griechenland, Spanien oder Portugal auf ganz Europa ausgedehnt werden. Die Politik der Europäischen Union ist erfolglos, sie führt zu Massenarbeitslosigkeit und steigenden Schulden. Statt das neoliberale Rezept zu ändern, wird die Dosis erhöht. Der sogenannte „Wettbewerbspakt“ ist nichts anderes als ein Pakt für Lohndumping, Sozialabbau und Privatisierung.\n"
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/31WieWrYPqc" frameborder="0"
