@@ -409,7 +409,7 @@ sections:
     background_image: images/pricing-background.jpg
     background_image_opacity: 10
   - type: grid_section
-    title: Our Sponsors
+    title: Raus aus der Meckerecke. Aktiv werden!
     subtitle: We Are Supported by Awesome Companies
     align: center
     grid_items:
