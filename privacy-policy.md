@@ -11,7 +11,7 @@ seo:
       value: Sklavenlos!
       keyName: property
     - name: 'og:description'
-      value: This is the privacy policy page
+      value: Aktuelle Informationen
       keyName: property
     - name: 'twitter:card'
       value: summary
