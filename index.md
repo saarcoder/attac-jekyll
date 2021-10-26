@@ -79,17 +79,12 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Die Teilnahme ist für alle Interessierten kostenlos, Anmeldungen sind
+          erwünscht.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          eMail an: <attac.saarland@gmail.com>
         content_align: left
         actions: []
         actions_align: left
