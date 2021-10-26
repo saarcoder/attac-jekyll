@@ -361,15 +361,15 @@ sections:
         subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |-
-          ---
-          ### $49
+          ***
 
-          Watch Only access to Summit & Base Camp Tracks
+          ### Im Austausch bleiben
 
-          * Conference Stickers
-          * Technology discussion rooms
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
+          und eigene Möglichkeiten entdecken
+
+          *   Verständnis vertiefen
+          *   Wissen, was geplant ist
+          *   Mitreden, mitgestalten
         content_align: left
         actions:
           - label: Registration
