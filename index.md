@@ -143,7 +143,7 @@ sections:
     title: '"Morgen gehört uns." Donnerstag, 15. Juli ''21 Filmhaus Saarbrücken'
     actions:
       - label: Alle Infos
-        url: /thank-you
+        url: /danke
         style: primary
         has_icon: true
         icon: arrow-right
