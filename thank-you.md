@@ -3,7 +3,7 @@ title: Danke!
 sections:
   - type: hero_section
     title: Danke
-    subtitle: Thank you for testing the Event theme!
+    subtitle: Danke für Ihr Interesse an Attac!
     actions:
       - label: Back to homepage
         url: /
