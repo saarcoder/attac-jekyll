@@ -8,6 +8,7 @@
     "header": {
         "title": "Event",
         "logo": "images/logo-ncs.png",
+        "logo_alt": "Logo Attac",
         "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
