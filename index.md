@@ -60,7 +60,7 @@ sections:
       - content: ''
         image: images/AttacSaar20Jahr.jpg
         image_alt: Feature 2 placeholder image
-        media_position: center
+        media_position: top
         media_width: fourty
         actions: []
       - title: Immer weiter wachsen?
