@@ -58,7 +58,7 @@ sections:
   - type: features_section
     features:
       - content: >
-          ## Veranstaltung am **30.10. um 19 Uhr** im Saarbrücker Schloss
+          #### Veranstaltung am **30.10. um 19 Uhr** im Saarbrücker Schloss
           (Festsaal) mit live-Musik und Gästen
 
 
