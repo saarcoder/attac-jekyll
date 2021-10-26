@@ -21,11 +21,13 @@ seo:
       value: Jubiläumsveranstaltung im Saarbrücker Schloss
 layout: page
 ---
-Ablauf der Jubiläumsveranstaltung im Saarbrücker Schloss (Festsaal):
+# Samstag, 30. Oktober 2021, 19:00-21:30 Uhr
+
+**Ablauf** der Jubiläumsveranstaltung im Saarbrücker Schloss (Festsaal):
 
 Einlass ab 18:30 Uhr (Begrüßungsgetränk) Beginn: 19:00 Uhr
 
-19:00-19:25 Uhr:
+##### 19:00-19:25 Uhr:
 
 „20 Jahre Globalisierungskritik. Was ging im Saarland?“
 
@@ -33,11 +35,11 @@ Einlass ab 18:30 Uhr (Begrüßungsgetränk) Beginn: 19:00 Uhr
 
 *   Sigi Becker (Liedermacher)
 
-19:25-19:45 Uhr:
+##### 19:25-19:45 Uhr:
 
 „Acoustic Fight” (live-Musik mit Pouya Nemati und Thomas Burckhardt)
 
-19:45-20:45 Uhr:
+##### 19:45-20:45 Uhr:
 
 Podiumsdiskussion: „Kritisches Engagement versus Parteienpolitik? Wie ist es um die politische Bedeutung von Attac, Campact und Co. bestellt?“
 
@@ -55,14 +57,16 @@ Per VideoChat in die Runde zugeschaltet:
 
 *   Sven Giegold (MdEP Grüne/EFA-Fraktion im Europaparlament, Sprecher Europagruppe Grüne)
 
-20:45-21:00 Uhr:
+##### 20:45-21:00 Uhr:
 
 „Acoustic Fight“ (live-Musik mit Pouya Nemati und Thomas Burckhardt)
 
-21:00-21:15 Uhr:
+##### 21:00-21:15 Uhr:
 
 „ATTACtivismus bereichert das Leben“
 
 Alfred Eibl, Attac-AG „Finanzmärkte und Steuern“
 
-21:15-21:30 Uhr: „Acoustic Fight“ (live-Musik mit Pouya Nemati und Thomas Burckhardt)
+##### 21:15-21:30 Uhr:
+
+„Acoustic Fight“ (live-Musik mit Pouya Nemati und Thomas Burckhardt)
