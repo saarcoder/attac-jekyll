@@ -2,7 +2,7 @@
 title: 20 Jahre Attac Saar
 sections:
   - type: hero_section
-    title: Danke
+    title: Dan20 Jahre Attac Saarke
     subtitle: Danke für Ihr Interesse an Attac!
     actions:
       - label: Zurück zur Homepage
