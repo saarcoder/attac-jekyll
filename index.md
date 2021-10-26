@@ -76,8 +76,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >
           Die Teilnahme ist für alle Interessierten kostenlos, Anmeldungen sind
           erwünscht.
