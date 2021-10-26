@@ -484,7 +484,7 @@ sections:
     title: Ein anderes Saarland ist möglich.
     actions:
       - label: Aktionen bei uns
-        url: /thank-you
+        url: /unterstuetzen
         style: primary
         has_icon: true
         icon: arrow-right
