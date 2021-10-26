@@ -214,7 +214,7 @@
 
 @include media-breakpoint-down(sm) {
     item__ {
-        &title h4 {
+        &title h4,  {
             text-align: center;
         }
         &media img {
