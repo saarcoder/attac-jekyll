@@ -211,6 +211,7 @@ sections:
     padding_top: none
     background_color: none
     title: Unsere Themen
+    subtitle: Wandel braucht Wissen.
   - type: grid_section
     title: Unsere Mitstreiter
     grid_items:
