@@ -416,15 +416,16 @@ sections:
         image_align: left
         image_position: left
         image_width: sixty
-      - image: images/netlify.svg
-        image_alt: Netlify logo
+      - image_alt: Friedensnetz Saar
         image_align: center
-      - image: images/github.svg
-        image_alt: GitHub logo
-        image_align: center
-      - image: images/sticker-mule.svg
-        image_alt: Sticker Mule logo
-        image_align: center
+        image_position: right
+        image_width: sixty
+        image: images/maroon-octopus.gif
+      - image_alt: Saarländischer Flüchtlingsrat
+        image_align: right
+        image_position: right
+        image: images/graceful-owl.gif
+        image_width: sixty
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
