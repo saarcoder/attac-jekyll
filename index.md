@@ -143,11 +143,6 @@ sections:
     background_image_opacity: 50
   - type: features_section
     features:
-      - image: images/AttacSaar20Jahr.jpg
-        image_alt: Feature 2 placeholder image
-        media_position: top
-        media_width: fourty
-        actions: []
       - title: Immer weiter wachsen?
         content: >-
           Permanentes Wirtschaftswachstum erfüllt nicht das Versprechen auf
