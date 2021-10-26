@@ -226,6 +226,8 @@
         &__title {
         text-align: center;
         }
-        &__copy
+        &__copy {
+            hyphens: auto;
+        }
     }
 }
