@@ -90,9 +90,20 @@ sections:
             type: action
       - title: Immer weiter wachsen?
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+          Permanentes Wirtschaftswachstum erfüllt nicht das Versprechen auf
+          Wohlstand und ein besseres Leben, sondern sprengt die ökologischen
+          Grenzen der Erde und macht sie unbewohnbar.
+
+          Ein grundlegender sozial-ökologischer Wandel ist nicht nur notwendig,
+          sondern durch eine ressourcenschonende Kreislaufwirtschaft auch
+          möglich.
+
+
+          Der am 20. August 2018 veröffentlichte Attac-Clip erklärt das
+          anschaulich.
+
+
+          www.jenseits-des-wachstums.de
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
