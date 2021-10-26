@@ -23,7 +23,7 @@
                 "style": "link"
             },
             {
-                "label": "Tickets",
+                "label": "Themen",
                 "url": "themen",
                 "style": "primary"
             }
