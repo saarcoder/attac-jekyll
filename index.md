@@ -250,7 +250,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Watch Favorite Talks From Past Events
+    title: Attac in Aktion
     subtitle: '2020'
     features:
       - title: Attac in Aktion
