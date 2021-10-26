@@ -56,7 +56,9 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: '"Morgen gehört uns." Donnerstag, 15. Juli ''21 Filmhaus Saarbrücken'
+    title: >-
+      "Morgen gehört uns." Donnerstag, 15. Juli '21 Filmhaus SaarbrückenAttac
+      Saar feiert 20 Jahre
     actions:
       - label: Alle Infos
         url: /danke
