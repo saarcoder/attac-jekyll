@@ -337,6 +337,22 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        content: >
+          Sonntag, 26.09., 17:00-23:00 Uhr„Wahlk (r) ampf-Abend“ mit Attac Saar
+          im Restaurant IvicaUnterhaltsame Infos zur Bundestagswahl, das 1.
+          „Politische Pub-Quiz“ und gemeinsames Fernsehen mit Analyse der
+          Ergebnisse. DER Tipp für „heimatlose“ politisch Interessierte.
+
+
+          Die erste Getränkerunde geht auf Attac Saar. Kommt und bleibt, so
+          lange es Spass macht.
+
+
+          Moderation: Thomas SchulzPräsenz-Veranstaltung zu
+          Gastronomie-Bedingungen
+
+
+          Ort: Restaurant Ivica (Nebenzimmer), Altneugasse 29, Alt-Saarbrücken
     feature_padding_vert: large
     align: center
     padding_top: large
