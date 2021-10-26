@@ -212,7 +212,7 @@
 	}
 }
 
-@include media-breakpoint-up(md) {
+@include media-breakpoint-down(md) {
     item__ {
         &title h4, &copy {
             text-align: center;
