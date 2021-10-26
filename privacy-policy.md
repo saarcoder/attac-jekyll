@@ -2,7 +2,7 @@
 title: Sklavenlos!
 seo:
   title: Sklavenlos!
-  description: ''
+  description: 'Aktuelle Informationen'
   extra:
     - name: 'og:type'
       value: website
