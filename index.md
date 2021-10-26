@@ -7,7 +7,7 @@ sections:
     content: ''
     actions:
       - label: Sei auch Du dabei!
-        url: /ueber-uns
+        url: /unterstuetzen
         style: primary
     align: center
     padding_top: large
