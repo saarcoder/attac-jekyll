@@ -21,7 +21,7 @@ seo:
       value: Jubiläumsveranstaltung im Saarbrücker Schloss
 layout: page
 ---
-# Samstag, 30. Oktober 2021, 19:00-21:30 Uhr
+### Samstag, 30. Oktober 2021, 19:00-21:30 Uhr
 
 **Ablauf** der Jubiläumsveranstaltung im Saarbrücker Schloss (Festsaal):
 
