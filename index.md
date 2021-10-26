@@ -378,7 +378,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Mitstreiter
-        subtitle: April 14 - 16
+        subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |-
           ---
