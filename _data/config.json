@@ -13,6 +13,10 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
+                "label": "Unterstützen!",
+                "url": "/unterstuetzen",
+                "style": "link"
+            },            {
                 "label": "Über uns",
                 "url": "/ueber-uns",
                 "style": "link"
