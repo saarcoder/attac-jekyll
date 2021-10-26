@@ -82,7 +82,7 @@ sections:
           **Anmeldungen** sind erwünscht.
 
 
-          eMail an: <attac.saarland@gmail.com>
+          **eMail** an: <attac.saarland@gmail.com>
         content_align: left
         actions: []
         actions_align: left
