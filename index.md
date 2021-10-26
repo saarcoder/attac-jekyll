@@ -60,8 +60,7 @@ sections:
       live-Musik und Gästen
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >
 
           Am 30. Oktober 2021 feiert Attac Saar sein 20 jähriges Bestehen mit
