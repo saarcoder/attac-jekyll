@@ -71,7 +71,7 @@ sections:
         content: >-
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
-        media_position: left
+        media_position: center
         media_width: sixty
         actions:
           - label: Mitmachen
