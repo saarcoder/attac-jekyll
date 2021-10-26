@@ -64,7 +64,7 @@ sections:
           Jahr‘ Attac Saar“ von 19 Uhr bis 21:30 Uhr, live-Musik und zahlreichen
           Gästen, u.a. **Sabine Leidig, Ulrich Commerçon, Eugen Roth, Susanne
           Speicher und Sven Giegold** (per Video zugeschaltet).
-        content_align: center
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
