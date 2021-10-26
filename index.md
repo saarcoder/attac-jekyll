@@ -439,10 +439,14 @@ sections:
       - title: Was hinter den Finanzkrisen steckt
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+          Gezielte Spekulationsattacken auf ganze Volkswirtschaften,
+          Finanzagenturen, die Regierungen in die Knie zwingen, und ohnmächtige
+          Politiker, die gebetsmühlenartig wiederholen, es gäbe keine
+          Alternative: Europa befindet sich im Wirtschaftskrieg. Wie entstand
+          dieses unumstößlich scheinende System?
+
+
+          WDR5-Sendung vom 26.08.2012
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
