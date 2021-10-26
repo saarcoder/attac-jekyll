@@ -110,7 +110,7 @@ sections:
     subtitle: lorem-ipsum
     features:
       - actions: []
-        image_alt: lorem-ipsum
+        image_alt: l20 Jahre Attac Saar
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
