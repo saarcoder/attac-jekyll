@@ -448,29 +448,22 @@ sections:
 
           WDR5-Sendung vom 26.08.2012
         content_align: left
-      - title: What about accommodation for attendees?
+      - title: "Die Globalisierungsfalle. Der Angriff auf\_Demokratie und Wohlstand"
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Werden die Standards in Umweltschutz, sozialer Sicherheit ausgehebelt,
+          die Löhne gedrückt? Was bleibt von unserer Volksvertretung?
+
+
+          SR-Podcast vom 8.12.1996 mit **Hans Peter Martin**
         content_align: left
-      - title: Can I get a refund on my tickets?
+      - title: 50 Vorschläge für eine gerechtere Welt
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: "Wie kann die Wirtschaft dem Gemeinwohl dienen? Finanz-Transaktionssteuer, soziale Gerechtigkeit, Umweltschutz. Brauchen wir ein neues Finanzsystem?\_\n\nSR2-Sendung vom 31.08.2011 mit\_**Christian Felber**\n"
         content_align: left
-      - title: What payment types do you accept?
+      - title: Machtwahn. Wie eine mittelmäßige Führungselite uns zugrunde richtet
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: "Ist unsere Führungsschicht ideologisch verblendet? Versteht sie volkswirtschaftliche Zusammenhänge nicht mehr? Was bleibt von unserer Demokratie?\_\n\nSR2-Podcast vom 13.07.2011 mit\_**Albrecht Müller**\n"
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
