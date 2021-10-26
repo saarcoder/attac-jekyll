@@ -344,7 +344,7 @@ sections:
         title_align: left
         content: |-
           ---
-          ### Free
+          ### Ohne Anmeldung...
 
           Watch only access for Base Camp track
 
