@@ -292,6 +292,38 @@ sections:
   - type: features_section
     title: Attac in Aktion
     features:
+      - title: Der Wahlkrampfabend
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: right
+        media_width: fifty
+        align: left
+        content: >
+          Sonntag, 26.09., 17:00-23:00 Uhr „Wahlk(r)ampf-Abend“ mit Attac Saar
+          **im Restaurant Ivica**
+
+
+          ##### **Politisch interessiert, aber nicht parteilich festgelegt?**
+
+
+          Unterhaltsame Infos zur Bundestagswahl, das 1. „Politische Pub-Quiz“
+          und gemeinsames Fernsehen mit Analyse der Ergebnisse. DER Tipp für
+          „heimatlose“ politisch Interessierte.
+
+
+          Die erste Getränkerunde geht auf Attac Saar. Kommt und bleibt, so
+          lange es Spass macht.
+
+
+          **Moderation**: Thomas Schulz
+
+
+          Präsenz-Veranstaltung zu Gastronomie-Bedingungen
+
+
+          **Ort**: Restaurant Ivica (Nebenzimmer), Altneugasse 29,
+          Alt-Saarbrücken
+        image: images/wahlkrampfabend.jpg
       - title: Her mit der Demokratie!
         content: "Attac besetzt Paulskirche\n\n[#Chemnitz](https://www.youtube.com/hashtag/chemnitz)\_[#HermitderDemokratie](https://www.youtube.com/hashtag/hermitderdemokratie)\n\nAm 15. September, dem internationalen Tag der Demokratie, haben Aktivist\\*innen von Attac die Frankfurter Paulskirche besetzt. Denn die Demokratie ist an vielen Stellen in größter Gefahr, wie nicht erst die\nEreignisse in [#Chemnitz](https://www.youtube.com/hashtag/chemnitz) deutlich machen. Wir wollen mit der Besetzung eine breite öffentliche Debatte über den Zustand der Demokratie anstoßen.\n\nwww.attac.de/her-mit-der-demokratie\n\n"
         video_embed_html: >-
@@ -330,38 +362,6 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - title: Der Wahlkrampfabend
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: right
-        media_width: fifty
-        align: left
-        content: >
-          Sonntag, 26.09., 17:00-23:00 Uhr „Wahlk(r)ampf-Abend“ mit Attac Saar
-          **im Restaurant Ivica**
-
-
-          ##### **Politisch interessiert, aber nicht parteilich festgelegt?**
-
-
-          Unterhaltsame Infos zur Bundestagswahl, das 1. „Politische Pub-Quiz“
-          und gemeinsames Fernsehen mit Analyse der Ergebnisse. DER Tipp für
-          „heimatlose“ politisch Interessierte.
-
-
-          Die erste Getränkerunde geht auf Attac Saar. Kommt und bleibt, so
-          lange es Spass macht.
-
-
-          **Moderation**: Thomas Schulz
-
-
-          Präsenz-Veranstaltung zu Gastronomie-Bedingungen
-
-
-          **Ort**: Restaurant Ivica (Nebenzimmer), Altneugasse 29,
-          Alt-Saarbrücken
-        image: images/wahlkrampfabend.jpg
     feature_padding_vert: large
     align: center
     padding_top: large
