@@ -210,6 +210,7 @@ sections:
     align: center
     padding_top: none
     background_color: none
+    title: Unsere Themen
   - type: grid_section
     title: Unsere Mitstreiter
     grid_items:
