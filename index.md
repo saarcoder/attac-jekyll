@@ -12,7 +12,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
     background_image: images/header_striped_cpr.jpg
     background_image_opacity: 20
     background_image_size: cover
