@@ -187,25 +187,6 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      - title: Kolumbien weint
-        subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: fourty
-        align: left
-        image: images/colombia llora pero no se rinde.jpg
     feature_padding_vert: large
     align: center
     padding_top: none
