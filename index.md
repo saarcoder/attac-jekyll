@@ -434,7 +434,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Mehr wissen.
-    subtitle: Our vision
+    subtitle: Tiefergehende Analysen
     grid_items:
       - title: How can I get to the venue?
         title_align: left
