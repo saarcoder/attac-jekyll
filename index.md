@@ -330,7 +330,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: Kolumbien weint
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
