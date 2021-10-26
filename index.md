@@ -132,7 +132,6 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-
     feature_padding_vert: large
     align: center
     padding_top: none
