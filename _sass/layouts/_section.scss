@@ -59,7 +59,12 @@
 }
 
 // Features section
-.feature
+.feature {
+            &__copy {
+            text-align: justify;
+            hyphens: auto;
+        }
+}
 .feature__subtitle {
 	font-size: 1.33333em;
 	line-height: 1.25;
