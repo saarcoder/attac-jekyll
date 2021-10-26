@@ -26,9 +26,6 @@ seo:
 layout: page
 ---
 
-In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean sed adipiscing diam. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Justo laoreet sit amet cursus sit amet dictum. Turpis tincidunt id aliquet risus feugiat in ante metus.
-
-In non tempus urna, non blandit nisl. Phasellus aliquam, tellus et lobortis dictum, justo turpis placerat est, sed luctus nunc elit eu odio. Phasellus imperdiet, nulla a elementum tempor, nisi elit tincidunt dolor, eget venenatis metus libero et elit.
 
 Vivamus tempus ornare urna, eget imperdiet quam venenatis ac. Donec fermentum massa id aliquet vulputate. Nam vestibulum ornare est, sed tincidunt mauris interdum a. In hac habitasse platea dictumst. Pellentesque sit amet arcu sed risus vehicula fermentum sit amet a neque. Sed imperdiet lacinia magna sit amet dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean non purus a quam placerat luctus. Proin orci risus, lobortis ut dictum at, gravida at nulla. 
 
