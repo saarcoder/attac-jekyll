@@ -311,11 +311,11 @@ sections:
           „heimatlose“ politisch Interessierte.
 
 
-          \<br>Die erste Getränkerunde geht auf Attac Saar. Kommt und bleibt, so
-          lange es Spass macht.
+          \<br/>Die erste Getränkerunde geht auf Attac Saar. Kommt und bleibt,
+          so lange es Spass macht.
 
 
-          \<br>**Moderation**: Thomas Schulz
+          \<br/>**Moderation**: Thomas Schulz
 
 
           Präsenz-Veranstaltung zu Gastronomie-Bedingungen
