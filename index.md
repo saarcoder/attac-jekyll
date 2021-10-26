@@ -496,20 +496,17 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     grid_items:
-      - title: Address
-        content: |-
-          1234 Some St.<br/>
-          Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)<br/>
+      - title: Addresse
+        content: "Haus der Umwelt\n\nEvangelisch-Kirch-Str. 8\n\n66111 Saarbrücken\n\n***\n\n### **Treffen**\n\nErster Mittwoch im Monat, 18:30h\n\nHaus der Umwelt\_\n"
+      - title: Folgen
+        content: >
+          [Youtube](https://www.youtube.com/channel/UCIEi4NIAMhAMeBg_jBC\_2Tg/videos)
 
-          **Time:** 9:30 AM to 3:30 PM
-      - title: Follow Us
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
+
+          [Facebook](https://www.facebook.com/Attac-Saar-wwwattac-saarde-159229390805900/)
+
+
+          [Twitter](https://twitter.com/hashtag/attacsaar?src=hashtag_click)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
