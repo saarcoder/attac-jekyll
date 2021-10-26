@@ -56,9 +56,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: >-
-      "Morgen gehört uns." Donnerstag, 15. Juli '21 Filmhaus SaarbrückenAttac
-      Saar feiert 20 Jahre
+    title: Attac Saar feiert 20 Jahre Veranstaltung am 30. Oktober um 19 Uhr
     actions:
       - label: Alle Infos
         url: /danke
