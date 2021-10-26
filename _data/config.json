@@ -14,7 +14,7 @@
         "secondary_nav_links": [
             {
                 "label": "Aktuell!",
-                "url": "/unterstuetzen",
+                "url": "/aktuell",
                 "style": "link"
             },            {
                 "label": "Über uns",
