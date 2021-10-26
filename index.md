@@ -340,7 +340,7 @@ sections:
     subtitle: Mitmachen
     grid_items:
       - title: Reinschnupperer
-        subtitle: April 14
+        subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |-
           ---
