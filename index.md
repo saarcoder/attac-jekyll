@@ -541,5 +541,5 @@ seo:
     - name: 'twitter:image'
       value: images/_titom_austerite.jpg
       relativeUrl: true
-template: advanced
+layout: advanced
 ---
