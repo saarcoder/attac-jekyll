@@ -165,7 +165,6 @@ sections:
     align: center
     padding_top: none
     background_color: none
-    subtitle: Veranstaltung am 30. Oktober um 19 Uhr
   - type: grid_section
     title: Unsere Mitstreiter
     grid_items:
