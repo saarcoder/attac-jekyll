@@ -109,8 +109,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
