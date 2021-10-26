@@ -297,7 +297,7 @@ sections:
     background_color: secondary
     subtitle: Was wir tun.
   - type: grid_section
-    title: Was die Medien schreiben.
+    title: What People are Saying
     subtitle: Previous event attendees
     grid_items:
       - content: >-
