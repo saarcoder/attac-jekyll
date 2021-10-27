@@ -384,7 +384,7 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
         image_width: thirty-three
-      - title: Indigo Violet
+      - title: Eugen Georg
         subtitle: 'Microsoft, USA'
         content: >+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
