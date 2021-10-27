@@ -252,11 +252,11 @@ sections:
           in Saarbrücken gemeinsam verbringen:
 
 
-          *   Von 17 bis 21 Uhr, mit wichtigen Infos aus Kolumbien, einem
-          "Latino Pub Quiz" und einem Chat mit Eliana Medina in Cali
+          *   Von 17 bis 21 Uhr mit wichtigen Infos aus Kolumbien, einem "Latino
+          Pub Quiz" und einem Chat mit Eliana Medina in Cali
 
 
-          *   ab 18:30 Uhr live-Musik mit dem großartigen Héctor Zamora.
+          *   ab 18:30 Uhr mit Live-Musik von dem großartigen Héctor Zamora.
 
 
           Das Ganze findet unter freiem Himmel vor dem Café/Bistro "mocca chili"
