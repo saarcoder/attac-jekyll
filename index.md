@@ -419,7 +419,7 @@ sections:
         image: images/klDSCF1427_500.jpg
         image_alt: Speaker 6 photo
         image_position: top
-      - title: Hugh Millie-Yate
+      - title: Marie-Louise Innocent
         subtitle: 'Random CMS, Sweden'
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
