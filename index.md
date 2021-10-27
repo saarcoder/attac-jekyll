@@ -367,6 +367,15 @@ sections:
   - type: grid_section
     title: Unsere Mitstreiter
     grid_items:
+      - title: Tamara Enhuber
+        subtitle: 'Libris, USA'
+        content: >+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+        image_alt: Speaker 4 photo
+        image_position: top
+        image: images/kl2021_0926_19443400_500.jpg
       - title: Stefan E. Winkler
         subtitle: 'React Awesome, USA'
         content: >
@@ -393,15 +402,6 @@ sections:
         image_alt: Speaker 3 photo
         image_position: top
         image: images/kl2021_0926_19374400_500.jpg
-      - title: Tamara Enhuber
-        subtitle: 'Libris, USA'
-        content: >+
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-        image_alt: Speaker 4 photo
-        image_position: top
-        image: images/kl2021_0926_19443400_500.jpg
       - title: Peter Weichardt
         subtitle: 'Exto, Canada'
         content: >+
