@@ -437,7 +437,7 @@ sections:
         image_alt: Speaker 8 photo
         image_position: top
       - title: lorem-ipsum
-        subtitle: 'Mailgun, Idaho'
+        subtitle: 'Mailgun, USA'
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
