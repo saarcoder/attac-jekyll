@@ -419,7 +419,7 @@ sections:
         image_has_padding: false
         image: images/klDSCF9852_500.jpg
       - title: Thomas Schulz
-        subtitle: 'The Studio, Distributed, Estonia'
+        subtitle: Regionalsprecher
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
