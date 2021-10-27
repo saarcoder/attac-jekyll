@@ -485,7 +485,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: "Foto:\_Gerhard Schaal"
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
