@@ -668,7 +668,7 @@ seo:
       value: 20 Jahre Attac Saar
       keyName: property
     - name: 'og:description'
-      value: 20 Jahre Attac Saar. Ein Knoten im internationalen Attac-Netzwerk.
+      value: Ein Knoten im internationalen Attac-Netzwerk.
       keyName: property
     - name: 'og:image'
       value: images/finance-for-the-people.jpg
