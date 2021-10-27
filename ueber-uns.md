@@ -40,5 +40,4 @@ Der Vorstand des Deutschen Gewerkschaftsbundes im Saarland ist Mitglied bei Atta
 
 Die Abkürzung Attac steht im Deutschen für: „Vereinigung zur Besteuerung von Finanztransaktionen zur Hilfe der Bürger“.
 
-
-
+![](images/k2021\_0821\_11430400\_990.jpg)
