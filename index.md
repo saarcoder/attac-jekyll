@@ -484,7 +484,7 @@ sections:
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-      - title: lorem-ipsum
+      - title: Attak in Aktion
         subtitle: "Foto:\_Gerhard Schaal"
         title_align: left
         content: >
