@@ -417,9 +417,6 @@ sections:
         image: images/klDSCF9852_500.jpg
       - title: Thomas Schulz
         subtitle: Regionalsprecher
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
         image: images/kl2021_0926_19165400_500.jpg
         image_alt: Speaker 2 photo
         image_position: top
