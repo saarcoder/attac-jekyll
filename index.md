@@ -106,7 +106,7 @@ sections:
   - features:
       - actions: []
         image_alt: l20 Jahre Attac Saar
-        media_position: top
+        media_position: bottom
         media_width: fourty
         align: center
         image: images/AttacSaar20Jahr.jpg
