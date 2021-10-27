@@ -679,7 +679,7 @@ seo:
     - name: 'twitter:title'
       value: 20 Jahre Attac Saar
     - name: 'twitter:description'
-      value: Vorschau des Layouts
+      value: Ein Knoten im internationalen Attac-Netzwerk.
     - name: 'twitter:image'
       value: images/finance-for-the-people.jpg
       relativeUrl: true
