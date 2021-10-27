@@ -540,15 +540,6 @@ sections:
           Evangelisch-Kirch-Str. 8
 
           66111 Saarbrücken
-      - title: Folgen
-        content: >
-          [Facebook](https://www.facebook.com/Attac-Saar-wwwattac-saarde-159229390805900/)
-
-
-          [Youtube](https://www.youtube.com/user/AttacD)
-
-
-          [Twitter](https://twitter.com/hashtag/attacsaar?src=hashtag_click)
       - title: Treffen
         title_align: left
         content: "Erster Mittwoch im Monat, 18:30h\n\nHaus der Umwelt\_\n"
@@ -561,6 +552,15 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+      - title: Folgen
+        content: >
+          [Facebook](https://www.facebook.com/Attac-Saar-wwwattac-saarde-159229390805900/)
+
+
+          [Youtube](https://www.youtube.com/user/AttacD)
+
+
+          [Twitter](https://twitter.com/hashtag/attacsaar?src=hashtag_click)
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
