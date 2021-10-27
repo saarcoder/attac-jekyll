@@ -658,7 +658,7 @@ sections:
     padding_bottom: medium
     background_color: none
 seo:
-  title: Attac Saar
+  title: 20 Jahre Attac Saar
   description: Attac Saar. Ein Knoten im internationalen Attac-Netzwerk.
   extra:
     - name: 'og:type'
