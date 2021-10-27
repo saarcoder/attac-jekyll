@@ -296,9 +296,8 @@ sections:
         subtitle: Kundgebung am Landwehrplatz Saarbrücken
         content: >
           Kundgebung mit Redebeiträgen auf Deutsch und Spanisch und
-          musikalischem Zwischenspiel** am 7. Juni 2021** von 18 bis 19 Uhr auf
-          dem Saarbrücker Landwehrplatz (Alte Feuerwache /
-          Saarbahn-Haltestelle).
+          musikalischem Zwischenspiel am 7. Juni 2021 von 18 bis 19 Uhr auf dem
+          Saarbrücker Landwehrplatz (Alte Feuerwache / Saarbahn-Haltestelle).
 
 
           **Veranstalter**: ATTAC SAAR (Lateinamerikazirkel).
