@@ -389,6 +389,7 @@ sections:
         image: images/kl2021_0926_19165400_500.jpg
         image_alt: Speaker 2 photo
         image_position: top
+        image_width: thirty-three
       - title: Indigo Violet
         subtitle: 'Microsoft, USA'
         content: >-
