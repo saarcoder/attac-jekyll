@@ -5,7 +5,7 @@
     "palette": "red",
     "mode": "light",
     "base_font": "sans-serif",
-    "favicon": "images/"
+    "favicon": "images/favicon.png",
     "header": {
         "title": "Attac Saar",
         "logo": "images/attac.svg",
