@@ -469,7 +469,7 @@ sections:
         image_has_padding: false
         image: images/klVolkerWielandDSCF9941_500.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: 'Foto: Gerhard Schaal'
         title_align: left
         content_align: left
         actions: []
