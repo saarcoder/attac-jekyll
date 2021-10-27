@@ -411,7 +411,7 @@ sections:
         image: images/kl2021_0926_22505500_500.jpg
         image_alt: Speaker 5 photo
         image_position: top
-      - title: Linguina Nettlewater
+      - title: Michael Sperlich
         subtitle: 'CSS Rocks, Sweden'
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
