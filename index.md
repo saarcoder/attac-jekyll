@@ -235,7 +235,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - title: für die Einführung eines bedingungslosen Grundeinkommens
+      - title: Für die Einführung eines bedingungslosen Grundeinkommens
         subtitle: Abschlussveranstaltung der BGE-Tour Saar Sommer 2021
         content: >
           Eintritt frei, Anmeldung erbeten.Programmpunkte und Uhrzeiten:14:00
