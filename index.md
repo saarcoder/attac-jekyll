@@ -108,7 +108,7 @@ sections:
     background_image_opacity: 50
   - type: features_section
     features:
-      - title: lorem-ipsum
+      - title: TTIP
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
