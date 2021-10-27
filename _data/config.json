@@ -55,8 +55,7 @@
                 "new_window": false,
                 "no_follow": false
             }
-        ],
-        "logo": "images/logoAttacSaar.jpg"
+        ]
     },
     "footer": {
         "has_primary_nav": false,
