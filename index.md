@@ -375,7 +375,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_1.jpg
+        image: images/klDSCF9869_500.jpg
         image_alt: Speaker 1 photo
         image_position: top
       - title: Parsley Montana
