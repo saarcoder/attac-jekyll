@@ -395,7 +395,7 @@ sections:
         image_position: top
         image: images/kl2021_0926_19374400_500.jpg
       - title: Marie-Louise Innocent
-        subtitle: 'Random CMS, Sweden'
+        subtitle: Gründungsmitglied
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
