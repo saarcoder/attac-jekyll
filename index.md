@@ -433,9 +433,6 @@ sections:
         image_position: top
       - title: Stefan E. Winkler
         subtitle: 'React Awesome, USA'
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
         image: images/klDSCF9869_500.jpg
         image_alt: Speaker 1 photo
         image_position: top
