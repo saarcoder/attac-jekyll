@@ -425,12 +425,9 @@ sections:
         image_position: top
       - title: Linguina Nettlewater
         subtitle: 'CSS Rocks, Sweden'
-        content: >-
+        content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
         image: images/klDSCF1427_500.jpg
         image_alt: Speaker 6 photo
         image_position: top
