@@ -14,7 +14,7 @@ seo:
       value: This is the about us page
       keyName: property
     - name: 'og:image'
-      value: images/ueber-uns/finance-for-the-people_900.jpg
+      value: images/ueber-uns/finance-for-the-people-900.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
