@@ -111,10 +111,8 @@ sections:
       - title: TTIP. CETA. TISA.
         content: >
           Attac Saar diskutierte 2017 mit Abgeordneten des Saarländischen
-          Landtags über das Freihandelsabkommen TTIP.
-
-
-          Sprecher des Intros war der Musiker und Journalist Roland Helm.
+          Landtags über das Freihandelsabkommen TTIP. Sprecher: Musiker und
+          Journalist Roland Helm.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
