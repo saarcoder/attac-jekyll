@@ -367,6 +367,15 @@ sections:
   - type: grid_section
     title: Unsere Mitstreiter
     grid_items:
+      - title: Michaela Couturier
+        subtitle: 'ReactEvent, Israel'
+        content: >+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+        image: images/klDSCF4168_500.jpg
+        image_alt: Speaker 8 photo
+        image_position: top
       - title: Tamara Enhuber
         subtitle: 'Libris, USA'
         content: >+
@@ -392,15 +401,6 @@ sections:
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
         image: images/klDSCF1442_500.jpg
         image_alt: Speaker 7 photo
-        image_position: top
-      - title: Michaela Couturier
-        subtitle: 'ReactEvent, Israel'
-        content: >+
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-        image: images/klDSCF4168_500.jpg
-        image_alt: Speaker 8 photo
         image_position: top
       - title: Werner Langefeld
         subtitle: 'Mailgun, USA'
