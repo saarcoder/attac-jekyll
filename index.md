@@ -530,7 +530,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     enable_cards: false
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     background_color: none
