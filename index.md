@@ -427,7 +427,7 @@ sections:
         image: images/klDSCF1442_500.jpg
         image_alt: Speaker 7 photo
         image_position: top
-      - title: Michaela Cou
+      - title: Michaela Couturier
         subtitle: 'ReactEvent, Israel'
         content: >+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
