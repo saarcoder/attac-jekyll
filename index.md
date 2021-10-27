@@ -314,17 +314,41 @@ sections:
         type: feature
       - title: SOS Colombia - für ein Ende der Regierungsgewalt in Kolumbien!
         subtitle: Kundgebung am Landwehrplatz Saarbrücken
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Kundgebung mit Redebeiträgen auf Deutsch und Spanisch und
+          musikalischem Zwischenspiel am 7. Juni 2021 von 18 bis 19 Uhr auf dem
+          Saarbrücker Landwehrplatz (Alte Feuerwache/Saarbahnhaltestelle).
+          Veranstalter: ATTAC SAAR (Lateinamerikazirkel).
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Kolumbien braucht die internationale Solidarität. Stoppt Präsident
+          Duque und seine Gewaltherrschaft! Am 7. Juni demonstrieren wir für die
+          Einhaltung der Menschenrechte in Kolumbien. Warum?
 
 
-          - Lorem ipsum
+          Seit dem 28. April 2021 befindet sich Kolumbien in einem
+          Generalstreik, der seitdem das gesamte Land paralysiert. Anfangs ging
+          es "nur" um eine Steuerreform auf Kosten der Armen, doch auch nach
+          Rücktritten des Finanzministers und der Außenministerin ist die
+          Empörung der Bevölkerung nicht geringer geworden. Unverändert ist das
+          brutale Vorgehen des Staatsapparates unter Präsident Iván Duque, der
+          gegen die friedlichen Proteste der Zivilbevölkerung von Beginn an mit
+          Militär, Polizei, Panzern, Hubschraubern, Wasserwerfern, Tränengas,
+          Vergewaltigungen, Exekutionen und öffentlichen Lügen vorgegangen ist.
+          Selbst internationale Menschenrechtsdelegationen wurden beschossen,
+          sogar zahlreiche durch Westen gekennzeichnete
+          "Menschenrechtsverteidiger" angegriffen und zum Teil schwer verletzt. 
 
-          - dolor sit amet
+
+          Die Menschenrechtsorganisationen "Human Rights Watch", "Indepaz" und
+          "Temblores" sprechen von bereits 60 ermordeten Menschen im
+          Zusammenhang mit den Protesten. Mindestens 43 der registrierten Opfer
+          gehen direkt auf das Konto der staatlichen Ordnungsmacht. 46
+          Demonstrierende leiden unter Augenverletzungen, die durch Projektile
+          von Polizei- und Militärwaffen verursacht wurden. Auf Seiten der
+          Ordnungskräfte sind zwei Personen getötet worden. Die Opferzahlen
+          steigen täglich, es gibt Tausende Verletzte und Hunderte
+          "Verschwundene".
         actions: []
         image_alt: lorem-ipsum
         media_position: top
