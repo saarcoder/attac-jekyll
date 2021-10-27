@@ -89,17 +89,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title_align: center
-        content_align: center
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        image: images/AttacSaar20Jahr.jpg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
