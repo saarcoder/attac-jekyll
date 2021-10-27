@@ -505,6 +505,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
+    subtitle: Die Attackies
   - type: grid_section
     title: Raus aus der Meckerecke. Aktiv werden!
     subtitle: Mitmachen
