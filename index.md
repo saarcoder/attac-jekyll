@@ -14,7 +14,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/kolumbien.jpg
-    background_image_opacity: 40
+    background_image_opacity: 30
     background_image_size: cover
     background_image_position: center top
   - type: grid_section
