@@ -442,7 +442,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_7.jpg
+        image: images/klDSCF1442_500.jpg
         image_alt: Speaker 7 photo
         image_position: top
       - title: Theodore Handle
