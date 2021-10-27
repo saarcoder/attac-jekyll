@@ -468,7 +468,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/klVolkerWielandDSCF9941_500.jpg
-      - title: lorem-ipsum
+      - title: Attak in Aktion
         subtitle: 'Foto: Gerhard Schaal'
         title_align: left
         content_align: left
