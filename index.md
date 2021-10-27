@@ -376,15 +376,6 @@ sections:
         image_alt: Speaker 4 photo
         image_position: top
         image: images/kl2021_0926_19443400_500.jpg
-      - title: Thomas Schulz
-        subtitle: 'The Studio, Distributed, Estonia'
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-        image: images/kl2021_0926_19165400_500.jpg
-        image_alt: Speaker 2 photo
-        image_position: top
-        image_width: thirty-three
       - title: Eugen Georg
         subtitle: 'Microsoft, USA'
         content: >+
@@ -444,6 +435,15 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/klDSCF9852_500.jpg
+      - title: Thomas Schulz
+        subtitle: 'The Studio, Distributed, Estonia'
+        content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+        image: images/kl2021_0926_19165400_500.jpg
+        image_alt: Speaker 2 photo
+        image_position: top
+        image_width: thirty-three
       - title: Stefan E. Winkler
         subtitle: 'React Awesome, USA'
         content: >
