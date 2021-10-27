@@ -275,7 +275,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: 'Kolumbien weint, aber ergibt sich nicht!'
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
