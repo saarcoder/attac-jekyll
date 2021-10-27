@@ -235,7 +235,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: 'BGE: Abschlussveranstaltung'
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
