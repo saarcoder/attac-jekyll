@@ -456,7 +456,7 @@ sections:
         image: images/avatar_8.jpg
         image_alt: Speaker 8 photo
         image_position: top
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
