@@ -72,4 +72,4 @@ Per VideoChat in die Runde zugeschaltet:
 „Acoustic Fight“ (live-Musik mit Pouya Nemati und Thomas Burckhardt)  
 <br>
 
-![](images/AttacSaar20Jahr_990.jpg)
+![](images/20Jahr_990.jpg)
