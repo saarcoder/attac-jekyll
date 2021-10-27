@@ -428,10 +428,6 @@ sections:
         image_position: top
       - title: Peter Weichardt
         subtitle: 'Exto, Canada'
-        content: >+
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
         image: images/kl2021_0926_22505500_500.jpg
         image_alt: Speaker 5 photo
         image_position: top
