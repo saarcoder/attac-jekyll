@@ -312,7 +312,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: SOS Colombia - für ein Ende der Regierungsgewalt in Kolumbien!
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
