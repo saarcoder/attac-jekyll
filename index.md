@@ -110,6 +110,9 @@ sections:
         media_width: fourty
         align: center
         image: images/AttacSaar20Jahr.jpg
+        title: >-
+          Veranstaltung am 30.10. um 19 Uhr im Saarbrücker Schloss (Festsaal)
+          mit Live-Musik und Gästen
     feature_padding_vert: medium
     align: center
     padding_top: medium
