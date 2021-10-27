@@ -453,7 +453,7 @@ sections:
         image_alt: Speaker 1 photo
         image_position: top
       - title: Volker Wieland
-        subtitle: lorem-ipsum
+        subtitle: Wald- und Wiesenläufer
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
