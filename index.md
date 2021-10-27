@@ -281,6 +281,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: images/bge-abschluss.jpg
     feature_padding_vert: large
     align: center
     padding_top: large
