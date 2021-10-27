@@ -386,7 +386,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_2.jpg
+        image: images/kl2021_0926_19165400_500.jpg
         image_alt: Speaker 2 photo
         image_position: top
       - title: Indigo Violet
