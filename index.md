@@ -545,7 +545,6 @@ sections:
         image_align: center
         image_position: right
         image_width: sixty
-        image: images/maroon-octopus.gif
       - image_alt: Saarländischer Flüchtlingsrat
         image_align: right
         image_position: right
