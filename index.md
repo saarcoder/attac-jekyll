@@ -402,7 +402,7 @@ sections:
         image_alt: Speaker 4 photo
         image_position: top
         image: images/kl2021_0926_19443400_500.jpg
-      - title: Shequondolisa Bivouac
+      - title: Peter Weichardt
         subtitle: 'Exto, Canada'
         content: >+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
