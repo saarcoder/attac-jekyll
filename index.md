@@ -399,9 +399,6 @@ sections:
         image: images/kl2021_0926_19374400_500.jpg
       - title: Marie-Louise Innocent
         subtitle: Gründungsmitglied
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
         image: images/klDSCF1442_500.jpg
         image_alt: Speaker 7 photo
         image_position: top
