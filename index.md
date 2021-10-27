@@ -403,12 +403,10 @@ sections:
         image: images/kl2021_0926_19374400_500.jpg
       - title: Penny Tool
         subtitle: 'Libris, USA'
-        content: >-
+        content: >+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
 
-
-          **[Twitter](https://twitter.com/)**
         image_alt: Speaker 4 photo
         image_position: top
         image: images/kl2021_0926_19443400_500.jpg
