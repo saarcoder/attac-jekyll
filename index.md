@@ -312,7 +312,7 @@ sections:
           steigen täglich, es gibt Tausende Verletzte und Hunderte
           "Verschwundene".
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Kolumbien weint
         media_position: top
         media_width: fifty
         align: left
