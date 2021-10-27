@@ -42,6 +42,6 @@ Attac Saar unterhält ein Büro im Saarbrücker „Haus der Umwelt“, wo auch d
 Der Vorstand des Deutschen Gewerkschaftsbundes im Saarland ist Mitglied bei Attac Saar, einzigartig in Deutschland.
 
 Die Abkürzung Attac steht im Deutschen für: „Vereinigung zur Besteuerung von Finanztransaktionen zur Hilfe der Bürger“.
-
+<br>
 ![5 Jahre Attac](images/5-jahre-attac.png)
 Rückblick auf 5 Jahre Attac 2007
