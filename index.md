@@ -89,8 +89,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - subtitle: lorem-ipsum
-        title_align: center
+      - title_align: center
         content: >-
           ## Lorem ipsum
 
