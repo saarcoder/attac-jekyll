@@ -681,7 +681,7 @@ seo:
     - name: 'twitter:description'
       value: Vorschau des Layouts
     - name: 'twitter:image'
-      value: images/_titom_austerite.jpg
+      value: images/finance-for-the-people.jpg
       relativeUrl: true
 layout: advanced
 ---
