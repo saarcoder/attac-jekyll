@@ -8,7 +8,6 @@
     "favicon": "images/favicon.ico",
     "header": {
         "title": "Attac Saar",
-        "logo": "images/attac.svg",
         "logo_alt": "Logo Attac",
         "has_primary_nav": false,
         "has_secondary_nav": true,
