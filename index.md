@@ -239,6 +239,9 @@ sections:
         image: images/bge-abschluss.jpg
       - title: 'Kolumbien weint, aber ergibt sich nicht!'
         content: >
+          ##### La noche de la Independencia
+
+
           Am Dienstag, 20. Juli 2021, feiert Kolumbien zum 211. Male die
           Unabhängigkeit von der spanischen Krone.
 
@@ -253,7 +256,7 @@ sections:
           "Latino Pub Quiz" und einem Chat mit Eliana Medina in Cali
 
 
-          *   ab 18:30 Uhr live-Musik mit dem großartigen Héctor Zamora. 
+          *   ab 18:30 Uhr live-Musik mit dem großartigen Héctor Zamora.
 
 
           Das Ganze findet unter freiem Himmel vor dem Café/Bistro "mocca chili"
