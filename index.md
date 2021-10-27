@@ -550,7 +550,6 @@ sections:
 
           [Twitter](https://twitter.com/hashtag/attacsaar?src=hashtag_click)
       - title: Treffen
-        subtitle: lorem-ipsum
         title_align: left
         content: "Erster Mittwoch im Monat, 18:30h\n\nHaus der Umwelt\_\n"
         content_align: left
