@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about us page
     - name: 'twitter:image'
-      value: images/images/finance-for-the-people_900.jpg
+      value: images/ueber-uns/finance-for-the-people_900.jpg
       relativeUrl: true
 layout: page
 ---
