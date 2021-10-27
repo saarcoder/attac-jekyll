@@ -420,7 +420,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_5.jpg
+        image: images/kl2021_0926_22505500_500.jpg
         image_alt: Speaker 5 photo
         image_position: top
       - title: Linguina Nettlewater
