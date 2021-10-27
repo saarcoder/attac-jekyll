@@ -313,7 +313,7 @@ sections:
         align: left
         type: feature
       - title: SOS Colombia - für ein Ende der Regierungsgewalt in Kolumbien!
-        subtitle: lorem-ipsum
+        subtitle: Kundgebung am Landwehrplatz Saarbrücken
         content: >-
           ## Lorem ipsum
 
