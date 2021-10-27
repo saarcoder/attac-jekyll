@@ -113,6 +113,13 @@ sections:
           Jahr‘ Attac Saar“ von 19 Uhr bis 21:30 Uhr, live-Musik und zahlreichen
           Gästen, u.a. **Sabine Leidig, Ulrich Commerçon, Eugen Roth, Susanne
           Speicher und Sven Giegold** (per Video zugeschaltet).
+
+
+          Die Teilnahme ist für alle Interessierten **kostenlos**. **Anmeldung**
+          erwünscht.
+
+
+          **eMail** an: <attac.saarland@gmail.com>
     feature_padding_vert: medium
     align: center
     padding_top: medium
