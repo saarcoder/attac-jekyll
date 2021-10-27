@@ -23,7 +23,7 @@ layout: page
 ---
 ### Samstag, 30. Oktober 2021, 19:00-21:30 Uhr
 
-****
+***
 
 **Ablauf** der Jubiläumsveranstaltung im Saarbrücker Schloss (Festsaal):
 
@@ -73,4 +73,3 @@ Per VideoChat in die Runde zugeschaltet:
 
 „Acoustic Fight“ (live-Musik mit Pouya Nemati und Thomas Burckhardt)
 
-![](images/20-jahre-f3bba8d3.jpg)
