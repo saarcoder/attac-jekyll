@@ -242,7 +242,7 @@ sections:
           ### La noche de la Independencia
 
 
-          Am Dienstag, 20. Juli 2021, feiert Kolumbien zum 211. Male die
+          Am Dienstag, **20. Juli 2021**, feiert Kolumbien zum 211. Male die
           Unabhängigkeit von der spanischen Krone.
 
 
@@ -263,8 +263,8 @@ sections:
           statt.
 
 
-          Die Teilnahme ist kostenlos, die Platzwahl frei. Querdenker bleiben
-          bitte zu Hause.
+          Die **Teilnahme ist kostenlos**, die Platzwahl frei. Querdenker
+          bleiben bitte zu Hause.
 
 
           "Kolumbien weint, aber ergibt sich nicht!"
