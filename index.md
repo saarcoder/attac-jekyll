@@ -436,7 +436,7 @@ sections:
         image: images/klDSCF4168_500.jpg
         image_alt: Speaker 8 photo
         image_position: top
-      - title: lorem-ipsum
+      - title: Bankroft Michaels
         subtitle: 'Mailgun, USA'
         title_align: left
         content: >
