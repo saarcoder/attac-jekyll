@@ -35,3 +35,5 @@ Mit über 700 Mitgliedern gehört **Attac Saar** zu den größeren Regionalgrupp
 Attac-Saar-Gründungsmitglied Marie-Louise Innocent ist Mitglied des bundesweiten Attac-Rates. Regionalsprecher von Attac Saar ist Thomas Schulz. Attac Saar unterhält ein Büro im Saarbrücker „Haus der Umwelt“, wo auch die Gruppentreffen stattfinden. Attac Saar ist u.a. Mitglied im Netzwerk Entwicklungspolitik (NES), im Saarland Sozialgipfel, in der Menschenrechtskoordination Kolumbien (kolko) und veranstaltet seit dem Jahr 2003 in unregelmäßigen Abständen das Filmfestival „GLOBALE“. der Vorstand des Deutschen Gewerkschaftsbundes im Saarland ist Mitglied bei Attac Saar, einzigartig in Deutschland.
 
 Die Abkürzung Attac steht im Deutschen für: „Vereinigung zur Besteuerung von Finanztransaktionen zur Hilfe der Bürger“.
+
+![](images/weltkeineware.jpeg)
