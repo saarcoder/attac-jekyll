@@ -367,7 +367,7 @@ sections:
   - type: grid_section
     title: Unsere Mitstreiter
     grid_items:
-      - title: Eric Widget
+      - title: Stefan E. Winkler
         subtitle: 'React Awesome, USA'
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
