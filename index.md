@@ -375,7 +375,7 @@ sections:
         image: images/klDSCF9869_500.jpg
         image_alt: Speaker 1 photo
         image_position: top
-      - title: Parsley Montana
+      - title: Thomas Schulz
         subtitle: 'The Studio, Distributed, Estonia'
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
