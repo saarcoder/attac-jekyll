@@ -423,9 +423,6 @@ sections:
         image_width: thirty-three
       - title: Michael Sperlich
         subtitle: 'CSS Rocks, Sweden'
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
         image: images/klDSCF1427_500.jpg
         image_alt: Speaker 6 photo
         image_position: top
