@@ -384,10 +384,6 @@ sections:
     grid_items:
       - title: Michaela Couturier
         subtitle: 'ReactEvent, Israel'
-        content: >+
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
         image: images/klDSCF4168_500.jpg
         image_alt: Speaker 8 photo
         image_position: top
