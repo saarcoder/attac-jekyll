@@ -110,17 +110,12 @@ sections:
     features:
       - title: TTIP
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Attac Saar diskutiert mit Abgeordneten des Saarländischen Landtags
+          über das Freihandelsabkommen TTIP. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Sprecher des Intros ist der Musiker und Journalist Roland Helm.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
