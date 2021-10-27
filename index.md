@@ -409,7 +409,6 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_4.jpg
         image_alt: Speaker 4 photo
         image_position: top
       - title: Shequondolisa Bivouac
