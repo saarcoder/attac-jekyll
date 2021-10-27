@@ -108,7 +108,7 @@ sections:
     background_image_opacity: 50
   - type: features_section
     features:
-      - title: TTIP. CETA. TISA. Was war das noch alles?
+      - title: TTIP. CETA. TISA??
         content: >
           Attac Saar diskutierte 2017 mit Abgeordneten des Saarländischen
           Landtags über das Freihandelsabkommen TTIP. Sprecher des Intros ist
