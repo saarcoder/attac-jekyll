@@ -72,4 +72,3 @@ Per VideoChat in die Runde zugeschaltet:
 ##### 21:15-21:30 Uhr:
 
 „Acoustic Fight“ (live-Musik mit Pouya Nemati und Thomas Burckhardt)
-
