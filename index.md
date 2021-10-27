@@ -389,10 +389,6 @@ sections:
         image_position: top
       - title: Tamara Enhuber
         subtitle: 'Libris, USA'
-        content: >+
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
         image_alt: Speaker 4 photo
         image_position: top
         image: images/kl2021_0926_19443400_500.jpg
