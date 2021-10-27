@@ -385,15 +385,6 @@ sections:
         image_alt: Speaker 3 photo
         image_position: top
         image: images/kl2021_0926_19374400_500.jpg
-      - title: Peter Weichardt
-        subtitle: 'Exto, Canada'
-        content: >+
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-        image: images/kl2021_0926_22505500_500.jpg
-        image_alt: Speaker 5 photo
-        image_position: top
       - title: Michael Sperlich
         subtitle: 'CSS Rocks, Sweden'
         content: >
@@ -444,6 +435,15 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
         image_width: thirty-three
+      - title: Peter Weichardt
+        subtitle: 'Exto, Canada'
+        content: >+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+        image: images/kl2021_0926_22505500_500.jpg
+        image_alt: Speaker 5 photo
+        image_position: top
       - title: Stefan E. Winkler
         subtitle: 'React Awesome, USA'
         content: >
