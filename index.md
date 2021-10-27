@@ -276,7 +276,7 @@ sections:
         align: left
         type: feature
       - title: 'Kolumbien weint, aber ergibt sich nicht!'
-        subtitle: lorem-ipsum
+        subtitle: La noche de la Independencia
         content: >-
           ## Lorem ipsum
 
