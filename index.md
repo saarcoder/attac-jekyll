@@ -61,7 +61,7 @@ sections:
         media_position: bottom
         media_width: fourty
         align: center
-        image: images/20Jahr_990.jpg
+        image: images/20-jahre.jpg
         title: >-
           Veranstaltung am 30.10. um 19 Uhr im Saarbrücker Schloss (Festsaal)
           mit Live-Musik und Gästen
