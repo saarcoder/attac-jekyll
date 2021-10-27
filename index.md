@@ -237,17 +237,40 @@ sections:
         type: feature
       - title: 'BGE: Abschlussveranstaltung'
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Eintritt frei, Anmeldung erbeten.Programmpunkte und Uhrzeiten:14:00
+          Uhr: Begrüßung und Puppenspielerin Melanie Streibelt
+          (www.kleines-paeckchen.de) mit einer Einführung in die Thematik
+          (Fairer Handel und BGE).14:30 Uhr: Fragen am „fairen Glücksrad“ mit
+          Puppenspielerin Melanie Streibelt und „Päckchen“14:45 Uhr: Vorstellung
+          der BGE-Sommertour und der Europäischen Bürgerinitiative (EBI)15:00
+          Uhr: Autorenlesung, Daniel Weißbrodt aus seinem Buch: „Kurzer Abriss
+          der deutschen Geschichte 2022-2050. Wie das bedingungslose
+          Grundeinkommen unser Leben und unsere Gesellschaft verändert hat.“
+          Moderierte Diskussion.16:30 Uhr: Podiumsdiskussion: „Das BGE, die
+          Zukunft Deutschlands und seine Verantwortung in der globalen
+          Gemeinschaft.“
 
+          Auf dem Podium:
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Hans-Florian Hoyer (ehem. GLS-Bank)
 
+          Michaela Couturier (Greenpeace-Gruppe Saarland)
 
-          - Lorem ipsum
+          Roland König (FDP-Kreisvorsitzender Saarbrücken-Stadt)
 
-          - dolor sit amet
+          Moderation: Roland Maltha (BUND Saar)18:00 Uhr: live-Musik: Projekt
+          „MUSIKANDES” (Daniel Osorio & David Beyer) (https://musikandes.de)
+
+          Ende gegen 20 Uhr.Wichtiger Hinweis zur Anmeldung:
+
+          Der Eintritt ist frei, Anmeldung erbeten, Zutritt nur mit aktuellem
+          negativen Corona-Schnelltest oder doppelter Impfung sowie einer
+          Mund-Nasen-Bedeckung (FFP2-Maske). Wir halten Abstand mit Anstand.
+
+          Anmeldung bitte an: bedingungslosesgrundeinkommen@posteo.de mit voller
+          Namensangabe und der ungefähren Dauer der Teilnahme. Telefonische
+          Anmeldungen und Rückfragen: 01525-7178850 (Thomas Schulz, Attac Saar)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
