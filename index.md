@@ -236,7 +236,9 @@ sections:
         align: left
         type: feature
       - title: 'BGE: Abschlussveranstaltung'
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Abschlussveranstaltung der BGE-Tour Saar Sommer 2021 für die
+          Einführung eines bedingungslosen Grundeinkommens
         content: >
           Eintritt frei, Anmeldung erbeten.Programmpunkte und Uhrzeiten:14:00
           Uhr: Begrüßung und Puppenspielerin Melanie Streibelt
