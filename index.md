@@ -239,7 +239,7 @@ sections:
         image: images/bge-abschluss.jpg
       - title: 'Kolumbien weint, aber ergibt sich nicht!'
         content: >
-          ##### La noche de la Independencia
+          ### La noche de la Independencia
 
 
           Am Dienstag, 20. Juli 2021, feiert Kolumbien zum 211. Male die
