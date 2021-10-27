@@ -31,5 +31,3 @@ Und um uns nicht zuletzt auch mit *unserer* Mitverantwortung und *unseren* k
 Weitere Informationen hierzu siehe unter  [>> www.sklavenlos.de](http://www.sklavenlos.de/). 
 
 Im Rahmen dieser Thematik hat Attac Saar bereits im Frühjahr 2013 ein Kooperationsprojekt mit der indischen Gewerkschaftsbewegung Jeevika gestartet: die **"Schule in die Freiheit"**.
-
-![Attak in Aktion](/ueber-uns/images/k2021_0821_11430400_990.jpg)
