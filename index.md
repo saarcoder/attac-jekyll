@@ -549,7 +549,6 @@ sections:
       - image_alt: Saarländischer Flüchtlingsrat
         image_align: right
         image_position: right
-        image: images/graceful-owl.gif
         image_width: sixty
     grid_cols: three
     grid_gap_horiz: medium
