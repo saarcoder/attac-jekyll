@@ -90,8 +90,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title_align: center
-        content: |
-          ![](images/AttacSaar20Jahr.jpg)
         content_align: center
         actions: []
         actions_align: left
