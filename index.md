@@ -124,6 +124,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        subtitle: Worum es geht und ging
       - title: Immer weiter wachsen?
         content: >-
           Permanentes Wirtschaftswachstum erfüllt nicht das Versprechen auf
