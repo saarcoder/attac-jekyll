@@ -279,7 +279,9 @@ sections:
         content: >
           Kundgebung mit Redebeiträgen auf Deutsch und Spanisch und
           musikalischem Zwischenspiel am 7. Juni 2021 von 18 bis 19 Uhr auf dem
-          Saarbrücker Landwehrplatz (Alte Feuerwache/Saarbahnhaltestelle).
+          Saarbrücker Landwehrplatz (Alte Feuerwache/Saarbahnhaltestelle). 
+
+
           Veranstalter: ATTAC SAAR (Lateinamerikazirkel).
 
 
@@ -299,7 +301,7 @@ sections:
           Vergewaltigungen, Exekutionen und öffentlichen Lügen vorgegangen ist.
           Selbst internationale Menschenrechtsdelegationen wurden beschossen,
           sogar zahlreiche durch Westen gekennzeichnete
-          "Menschenrechtsverteidiger" angegriffen und zum Teil schwer verletzt. 
+          "Menschenrechtsverteidiger" angegriffen und zum Teil schwer verletzt.
 
 
           Die Menschenrechtsorganisationen "Human Rights Watch", "Indepaz" und
