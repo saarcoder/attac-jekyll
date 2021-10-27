@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:title'
       value: Sklavenlos!
     - name: 'twitter:description'
-      value: Aktuelle Informationen
+      value: Saar-Bündnis gegen globale Sklaverei heute
 layout: page
 ---
 ## Saar-Bündnis gegen globale Sklaverei heute
