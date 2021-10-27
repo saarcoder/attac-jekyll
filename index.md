@@ -238,35 +238,45 @@ sections:
       - title: Für die Einführung eines bedingungslosen Grundeinkommens
         subtitle: Abschlussveranstaltung der BGE-Tour Saar Sommer 2021
         content: >
-          Eintritt frei, Anmeldung erbeten.Programmpunkte und Uhrzeiten:14:00
-          Uhr: Begrüßung und Puppenspielerin Melanie Streibelt
-          (www.kleines-paeckchen.de) mit einer Einführung in die Thematik
-          (Fairer Handel und BGE).14:30 Uhr: Fragen am „fairen Glücksrad“ mit
-          Puppenspielerin Melanie Streibelt und „Päckchen“14:45 Uhr: Vorstellung
-          der BGE-Sommertour und der Europäischen Bürgerinitiative (EBI)15:00
-          Uhr: Autorenlesung, Daniel Weißbrodt aus seinem Buch: „Kurzer Abriss
-          der deutschen Geschichte 2022-2050. Wie das bedingungslose
-          Grundeinkommen unser Leben und unsere Gesellschaft verändert hat.“
-          Moderierte Diskussion.16:30 Uhr: Podiumsdiskussion: „Das BGE, die
-          Zukunft Deutschlands und seine Verantwortung in der globalen
-          Gemeinschaft.“
+          ![](images/bge-abschluss.jpg)
+
+
+          Eintritt frei, Anmeldung erbeten.
+
+
+          Programmpunkte und Uhrzeiten:14:00 Uhr: Begrüßung und Puppenspielerin
+          Melanie Streibelt (www.kleines-paeckchen.de) mit einer Einführung in
+          die Thematik (Fairer Handel und BGE).14:30 Uhr: Fragen am „fairen
+          Glücksrad“ mit Puppenspielerin Melanie Streibelt und „Päckchen“14:45
+          Uhr: Vorstellung der BGE-Sommertour und der Europäischen
+          Bürgerinitiative (EBI)15:00 Uhr: Autorenlesung, Daniel Weißbrodt aus
+          seinem Buch: „Kurzer Abriss der deutschen Geschichte 2022-2050. Wie
+          das bedingungslose Grundeinkommen unser Leben und unsere Gesellschaft
+          verändert hat.“ Moderierte Diskussion.16:30 Uhr: Podiumsdiskussion:
+          „Das BGE, die Zukunft Deutschlands und seine Verantwortung in der
+          globalen Gemeinschaft.“
+
 
           Auf dem Podium:
 
-          Hans-Florian Hoyer (ehem. GLS-Bank)
+          Hans-Florian Hoyer (ehem. GLS-Bank), Michaela Couturier
+          (Greenpeace-Gruppe Saarland), Roland König (FDP-Kreisvorsitzender
+          Saarbrücken-Stadt)
 
-          Michaela Couturier (Greenpeace-Gruppe Saarland)
 
-          Roland König (FDP-Kreisvorsitzender Saarbrücken-Stadt)
 
-          Moderation: Roland Maltha (BUND Saar)18:00 Uhr: live-Musik: Projekt
-          „MUSIKANDES” (Daniel Osorio & David Beyer) (https://musikandes.de)
+          Moderation: Roland Maltha (BUND Saar)
 
-          Ende gegen 20 Uhr.Wichtiger Hinweis zur Anmeldung:
+
+          Live-Musik: Projekt „MUSIKANDES” (Daniel Osorio & David Beyer)
+          (https://musikandes.de)
+
 
           Der Eintritt ist frei, Anmeldung erbeten, Zutritt nur mit aktuellem
           negativen Corona-Schnelltest oder doppelter Impfung sowie einer
           Mund-Nasen-Bedeckung (FFP2-Maske). Wir halten Abstand mit Anstand.
+
+
 
           Anmeldung bitte an: bedingungslosesgrundeinkommen@posteo.de mit voller
           Namensangabe und der ungefähren Dauer der Teilnahme. Telefonische
