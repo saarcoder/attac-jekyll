@@ -256,7 +256,7 @@ sections:
           ![](images/la-noche-de-la-independencia.png)
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         image: images/colombia llora pero no se rinde.jpg
