@@ -238,7 +238,6 @@ sections:
         align: left
         image: images/bge-abschluss.jpg
       - title: 'Kolumbien weint, aber ergibt sich nicht!'
-        subtitle: La noche de la Independencia
         content: >
           Am Dienstag, 20. Juli 2021, feiert Kolumbien zum 211. Male die
           Unabhängigkeit von der spanischen Krone.
