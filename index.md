@@ -452,7 +452,7 @@ sections:
         image: images/klDSCF9869_500.jpg
         image_alt: Speaker 1 photo
         image_position: top
-      - title: lorem-ipsum
+      - title: Volker Wieland
         subtitle: lorem-ipsum
         title_align: left
         content: >
