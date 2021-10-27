@@ -313,7 +313,7 @@ sections:
           "Verschwundene".
         actions: []
         image_alt: Kolumbien weint
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         image: images/colombia llora pero no se rinde.jpg
