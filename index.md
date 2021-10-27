@@ -278,7 +278,7 @@ sections:
           Anmeldungen und Rückfragen: 01525-7178850 (Thomas Schulz, Attac Saar)
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         image: images/bge-abschluss.jpg
