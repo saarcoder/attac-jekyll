@@ -481,6 +481,9 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/k2021_0720_21295400_500.jpg
+        content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
