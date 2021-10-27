@@ -376,14 +376,6 @@ sections:
         image_alt: Speaker 4 photo
         image_position: top
         image: images/kl2021_0926_19443400_500.jpg
-      - title: Stefan E. Winkler
-        subtitle: 'React Awesome, USA'
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-        image: images/klDSCF9869_500.jpg
-        image_alt: Speaker 1 photo
-        image_position: top
       - title: Thomas Schulz
         subtitle: 'The Studio, Distributed, Estonia'
         content: >
@@ -452,6 +444,14 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/klDSCF9852_500.jpg
+      - title: Stefan E. Winkler
+        subtitle: 'React Awesome, USA'
+        content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+        image: images/klDSCF9869_500.jpg
+        image_alt: Speaker 1 photo
+        image_position: top
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
