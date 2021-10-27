@@ -665,7 +665,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Attac Saar
+      value: 20 Jahre Attac Saar
       keyName: property
     - name: 'og:description'
       value: 20 Jahre Attac Saar. Ein Knoten im internationalen Attac-Netzwerk.
