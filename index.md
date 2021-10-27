@@ -453,7 +453,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_8.jpg
+        image: images/klDSCF4168_500.jpg
         image_alt: Speaker 8 photo
         image_position: top
     grid_cols: three
