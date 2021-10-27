@@ -274,44 +274,6 @@ sections:
         media_width: fifty
         align: left
         image: images/la-noche-de-la-independencia.png
-      - title: Her mit der Demokratie!
-        content: "Attac besetzt Paulskirche\n\n[#Chemnitz](https://www.youtube.com/hashtag/chemnitz)\_[#HermitderDemokratie](https://www.youtube.com/hashtag/hermitderdemokratie)\n\nAm 15. September, dem internationalen Tag der Demokratie, haben Aktivist\\*innen von Attac die Frankfurter Paulskirche besetzt. Denn die Demokratie ist an vielen Stellen in größter Gefahr, wie nicht erst die\nEreignisse in [#Chemnitz](https://www.youtube.com/hashtag/chemnitz) deutlich machen. Wir wollen mit der Besetzung eine breite öffentliche Debatte über den Zustand der Demokratie anstoßen.\n\nwww.attac.de/her-mit-der-demokratie\n\n"
-        video_embed_html: >-
-          <iframe width="670" height="477"
-          src="https://www.youtube.com/embed/Dgga1RJh7fI" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: left
-        media_width: sixty
-      - title: Europa geht anders.
-        content: "###### Verhindern wir die 'Troika für Alle' -\_Nein zum Wettbewerbspakt!\n\nDer\_Countdown\_läuft.\_Der Europäische Rat plant im Dezember 2013 einen Beschluss über einen Pakt für „Wettbewerbsfähigkeit und Konvergenz“. Damit soll die Krisenpolitik der Europäischen Union in Griechenland, Spanien oder Portugal auf ganz Europa ausgedehnt werden. Die Politik der Europäischen Union ist erfolglos, sie führt zu Massenarbeitslosigkeit und steigenden Schulden. Statt das neoliberale Rezept zu ändern, wird die Dosis erhöht. Der sogenannte „Wettbewerbspakt“ ist nichts anderes als ein Pakt für Lohndumping, Sozialabbau und Privatisierung.\n"
-        image: images/titom_austerite.jpg
-        image_alt: Sparpolitik in Europa
-        media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-      - title: Wohnen ist Gemeingut
-        subtitle: Vonovia enteignen!
-        content: >
-          Aktive aus Köln protestierten im Rahmen der Attac-Kampagne "Wohnen ist
-          Gemeingut" gegen den Wohnungskonzern "Vonovia" vor zwei seiner Kölner
-          Büros. Unter dem Motto "Keine Sonne für Vonovia" beklebten sie
-          Schaufensterscheiben und forderten die Demokratisierung der
-          Wohnungswirtschaft.
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          <iframe width="670" height="477"
-          src="https://www.youtube.com/embed/m-dyEZpX33E" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: left
-        media_width: sixty
-        align: left
-        type: feature
       - title: SOS Colombia - für ein Ende der Regierungsgewalt in Kolumbien!
         subtitle: Kundgebung am Landwehrplatz Saarbrücken
         content: >
@@ -354,6 +316,44 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+      - title: Her mit der Demokratie!
+        content: "Attac besetzt Paulskirche\n\n[#Chemnitz](https://www.youtube.com/hashtag/chemnitz)\_[#HermitderDemokratie](https://www.youtube.com/hashtag/hermitderdemokratie)\n\nAm 15. September, dem internationalen Tag der Demokratie, haben Aktivist\\*innen von Attac die Frankfurter Paulskirche besetzt. Denn die Demokratie ist an vielen Stellen in größter Gefahr, wie nicht erst die\nEreignisse in [#Chemnitz](https://www.youtube.com/hashtag/chemnitz) deutlich machen. Wir wollen mit der Besetzung eine breite öffentliche Debatte über den Zustand der Demokratie anstoßen.\n\nwww.attac.de/her-mit-der-demokratie\n\n"
+        video_embed_html: >-
+          <iframe width="670" height="477"
+          src="https://www.youtube.com/embed/Dgga1RJh7fI" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: left
+        media_width: sixty
+      - title: Europa geht anders.
+        content: "###### Verhindern wir die 'Troika für Alle' -\_Nein zum Wettbewerbspakt!\n\nDer\_Countdown\_läuft.\_Der Europäische Rat plant im Dezember 2013 einen Beschluss über einen Pakt für „Wettbewerbsfähigkeit und Konvergenz“. Damit soll die Krisenpolitik der Europäischen Union in Griechenland, Spanien oder Portugal auf ganz Europa ausgedehnt werden. Die Politik der Europäischen Union ist erfolglos, sie führt zu Massenarbeitslosigkeit und steigenden Schulden. Statt das neoliberale Rezept zu ändern, wird die Dosis erhöht. Der sogenannte „Wettbewerbspakt“ ist nichts anderes als ein Pakt für Lohndumping, Sozialabbau und Privatisierung.\n"
+        image: images/titom_austerite.jpg
+        image_alt: Sparpolitik in Europa
+        media_position: right
+        media_width: fifty
+        align: left
+        type: feature
+      - title: Wohnen ist Gemeingut
+        subtitle: Vonovia enteignen!
+        content: >
+          Aktive aus Köln protestierten im Rahmen der Attac-Kampagne "Wohnen ist
+          Gemeingut" gegen den Wohnungskonzern "Vonovia" vor zwei seiner Kölner
+          Büros. Unter dem Motto "Keine Sonne für Vonovia" beklebten sie
+          Schaufensterscheiben und forderten die Demokratisierung der
+          Wohnungswirtschaft.
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="670" height="477"
+          src="https://www.youtube.com/embed/m-dyEZpX33E" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: left
+        media_width: sixty
+        align: left
+        type: feature
     feature_padding_vert: large
     align: center
     padding_top: large
