@@ -393,7 +393,7 @@ sections:
         image_alt: Speaker 3 photo
         image_position: top
         image: images/kl2021_0926_19374400_500.jpg
-      - title: Penny Tool
+      - title: Tamara Enhuber
         subtitle: 'Libris, USA'
         content: >+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
