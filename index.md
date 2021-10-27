@@ -677,7 +677,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Attac Saar
+      value: 20 Jahre Attac Saar
     - name: 'twitter:description'
       value: Vorschau des Layouts
     - name: 'twitter:image'
