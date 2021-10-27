@@ -108,7 +108,7 @@ sections:
     background_image_opacity: 50
   - type: features_section
     features:
-      - title: TTIP
+      - title: TTIP. CETA. TISA.
         content: >
           Attac Saar diskutiert mit Abgeordneten des Saarländischen Landtags
           über das Freihandelsabkommen TTIP. 
