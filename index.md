@@ -91,7 +91,7 @@ sections:
         image_has_padding: false
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
