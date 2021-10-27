@@ -51,6 +51,7 @@
         {% assign favicon_is_not_empty = site.data.config.favicon | is_not_empty %}
         {% if favicon_is_not_empty %}
         <link rel="icon" href="{{ site.data.config.favicon | relative_url }}" sizes="any">
+        <link rel="icon" href="/icon.svg" type="image/svg+xml">
         {% endif %}
         
     </head>
