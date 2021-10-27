@@ -238,34 +238,27 @@ sections:
       - title: Für die Einführung eines bedingungslosen Grundeinkommens
         subtitle: Abschlussveranstaltung der BGE-Tour Saar Sommer 2021
         content: >
-          Eintritt frei, Anmeldung erbeten.
+          Eintritt frei, Anmeldung erbeten. Mit Puppenspielerin Melanie
+          Streibelt (www.kleines-paeckchen.de) und Live-Musik vom Projekt
+          „MUSIKANDES” (Daniel Osorio & David Beyer) (https://musikandes.de)
 
 
-          Programmpunkte und Uhrzeiten:14:00 Uhr: Begrüßung und Puppenspielerin
-          Melanie Streibelt (www.kleines-paeckchen.de) mit einer Einführung in
-          die Thematik (Fairer Handel und BGE).14:30 Uhr: Fragen am „fairen
-          Glücksrad“ mit Puppenspielerin Melanie Streibelt und „Päckchen“14:45
-          Uhr: Vorstellung der BGE-Sommertour und der Europäischen
-          Bürgerinitiative (EBI)15:00 Uhr: Autorenlesung, Daniel Weißbrodt aus
-          seinem Buch: „Kurzer Abriss der deutschen Geschichte 2022-2050. Wie
-          das bedingungslose Grundeinkommen unser Leben und unsere Gesellschaft
-          verändert hat.“ Moderierte Diskussion.16:30 Uhr: Podiumsdiskussion:
-          „Das BGE, die Zukunft Deutschlands und seine Verantwortung in der
-          globalen Gemeinschaft.“
+          Außerdem: Autorenlesung **mit Daniel Weißbrodt** aus seinem Buch
+          „Kurzer Abriss der deutschen Geschichte 2022-2050. Wie das
+          bedingungslose Grundeinkommen unser Leben und unsere Gesellschaft
+          verändert hat.“ 
 
 
-          Auf dem Podium:
-
-          Hans-Florian Hoyer (ehem. GLS-Bank), Michaela Couturier
-          (Greenpeace-Gruppe Saarland), Roland König (FDP-Kreisvorsitzender
-          Saarbrücken-Stadt)
+          Anschließend Podiumsdiskussion „Das BGE, die Zukunft Deutschlands und
+          seine Verantwortung in der globalen Gemeinschaft.“
 
 
-          Moderation: Roland Maltha (BUND Saar)
+          **Auf dem Podium**: Hans-Florian Hoyer (ehem. GLS-Bank), Michaela
+          Couturier (Greenpeace-Gruppe Saarland), Roland König
+          (FDP-Kreisvorsitzender Saarbrücken-Stadt)
 
 
-          Live-Musik: Projekt „MUSIKANDES” (Daniel Osorio & David Beyer)
-          (https://musikandes.de)
+          **Moderation**: Roland Maltha (BUND Saar)
 
 
           Der Eintritt ist frei, Anmeldung erbeten, Zutritt nur mit aktuellem
