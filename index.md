@@ -237,6 +237,28 @@ sections:
         media_width: fifty
         align: left
         image: images/bge-abschluss.jpg
+      - title: 'Kolumbien weint, aber ergibt sich nicht!'
+        subtitle: La noche de la Independencia
+        content: >
+          Am Dienstag, 20. Juli 2021, feiert Kolumbien zum 211. Male die
+          Unabhängigkeit von der spanischen Krone. Auch wenn es zur Zeit eher
+          darum geht, dass sich die kolumbianische Bevölkerung von der
+          faschistischen Regierung unter Präsident Iván Duque unabhängig macht
+          und weiterstreikt, wollen wir den Sommerabend in Saarbrücken gemeinsam
+          verbringen: Von 17 bis 21 Uhr, mit wichtigen Infos aus Kolumbien,
+          einem "Latino Pub Quiz", einem Chat mit Eliana Medina in Cali - und ab
+          18:30 Uhr live-Musik mit dem großartigen Héctor Zamora. Das Ganze
+          findet unter freiem Himmel vor dem Café/Bistro "mocca chili" stattDie
+          Teilnahme ist kostenlos, die Platzwahl frei. Querdenker bleiben bitte
+          zu Hause."Kolumbien weint, aber ergibt sich nicht!"
+
+
+          ![](images/la-noche-de-la-independencia.png)
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: top
+        media_width: fifty
+        align: left
       - title: Her mit der Demokratie!
         content: "Attac besetzt Paulskirche\n\n[#Chemnitz](https://www.youtube.com/hashtag/chemnitz)\_[#HermitderDemokratie](https://www.youtube.com/hashtag/hermitderdemokratie)\n\nAm 15. September, dem internationalen Tag der Demokratie, haben Aktivist\\*innen von Attac die Frankfurter Paulskirche besetzt. Denn die Demokratie ist an vielen Stellen in größter Gefahr, wie nicht erst die\nEreignisse in [#Chemnitz](https://www.youtube.com/hashtag/chemnitz) deutlich machen. Wir wollen mit der Besetzung eine breite öffentliche Debatte über den Zustand der Demokratie anstoßen.\n\nwww.attac.de/her-mit-der-demokratie\n\n"
         video_embed_html: >-
@@ -275,28 +297,6 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - title: 'Kolumbien weint, aber ergibt sich nicht!'
-        subtitle: La noche de la Independencia
-        content: >
-          Am Dienstag, 20. Juli 2021, feiert Kolumbien zum 211. Male die
-          Unabhängigkeit von der spanischen Krone. Auch wenn es zur Zeit eher
-          darum geht, dass sich die kolumbianische Bevölkerung von der
-          faschistischen Regierung unter Präsident Iván Duque unabhängig macht
-          und weiterstreikt, wollen wir den Sommerabend in Saarbrücken gemeinsam
-          verbringen: Von 17 bis 21 Uhr, mit wichtigen Infos aus Kolumbien,
-          einem "Latino Pub Quiz", einem Chat mit Eliana Medina in Cali - und ab
-          18:30 Uhr live-Musik mit dem großartigen Héctor Zamora. Das Ganze
-          findet unter freiem Himmel vor dem Café/Bistro "mocca chili" stattDie
-          Teilnahme ist kostenlos, die Platzwahl frei. Querdenker bleiben bitte
-          zu Hause."Kolumbien weint, aber ergibt sich nicht!"
-
-
-          ![](images/la-noche-de-la-independencia.png)
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
     feature_padding_vert: large
     align: center
     padding_top: large
