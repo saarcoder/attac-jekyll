@@ -405,9 +405,6 @@ sections:
       - title: Werner Langefeld
         subtitle: 'Mailgun, USA'
         title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
         content_align: left
         actions: []
         actions_align: left
