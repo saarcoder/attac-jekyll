@@ -238,9 +238,6 @@ sections:
       - title: Für die Einführung eines bedingungslosen Grundeinkommens
         subtitle: Abschlussveranstaltung der BGE-Tour Saar Sommer 2021
         content: >
-          ![](images/bge-abschluss.jpg)
-
-
           Eintritt frei, Anmeldung erbeten.
 
 
@@ -264,7 +261,6 @@ sections:
           Saarbrücken-Stadt)
 
 
-
           Moderation: Roland Maltha (BUND Saar)
 
 
@@ -275,7 +271,6 @@ sections:
           Der Eintritt ist frei, Anmeldung erbeten, Zutritt nur mit aktuellem
           negativen Corona-Schnelltest oder doppelter Impfung sowie einer
           Mund-Nasen-Bedeckung (FFP2-Maske). Wir halten Abstand mit Anstand.
-
 
 
           Anmeldung bitte an: bedingungslosesgrundeinkommen@posteo.de mit voller
