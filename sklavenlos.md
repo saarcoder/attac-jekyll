@@ -2,7 +2,7 @@
 title: Sklavenlos!
 seo:
   title: Sklavenlos!
-  description: Aktuelle Informationen
+  description: Saar-Bündnis gegen globale Sklaverei heute
   extra:
     - name: 'og:type'
       value: website
