@@ -109,7 +109,6 @@ sections:
   - type: features_section
     features:
       - title: TTIP
-        subtitle: lorem-ipsum
         content: >
           Attac Saar diskutiert mit Abgeordneten des Saarländischen Landtags
           über das Freihandelsabkommen TTIP. 
