@@ -505,7 +505,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
-    subtitle: Attackies
+    subtitle: Saar-Attackies
   - type: grid_section
     title: Raus aus der Meckerecke. Aktiv werden!
     subtitle: Mitmachen
