@@ -479,6 +479,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/klDSCF9852_500.jpg
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
