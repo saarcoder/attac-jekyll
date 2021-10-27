@@ -411,6 +411,7 @@ sections:
           **[Twitter](https://twitter.com/)**
         image_alt: Speaker 4 photo
         image_position: top
+        image: images/kl2021_0926_19443400_500.jpg
       - title: Shequondolisa Bivouac
         subtitle: 'Exto, Canada'
         content: >-
