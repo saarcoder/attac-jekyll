@@ -36,4 +36,4 @@ Attac-Saar-Gründungsmitglied Marie-Louise Innocent ist Mitglied des bundesweite
 
 Die Abkürzung Attac steht im Deutschen für: „Vereinigung zur Besteuerung von Finanztransaktionen zur Hilfe der Bürger“.
 
-![](images/weltkeineware.jpeg)
+![Demo](images/weltkeineware.jpeg)
