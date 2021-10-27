@@ -385,14 +385,6 @@ sections:
         image_alt: Speaker 3 photo
         image_position: top
         image: images/kl2021_0926_19374400_500.jpg
-      - title: Michael Sperlich
-        subtitle: 'CSS Rocks, Sweden'
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-        image: images/klDSCF1427_500.jpg
-        image_alt: Speaker 6 photo
-        image_position: top
       - title: Marie-Louise Innocent
         subtitle: 'Random CMS, Sweden'
         content: >
@@ -435,6 +427,14 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
         image_width: thirty-three
+      - title: Michael Sperlich
+        subtitle: 'CSS Rocks, Sweden'
+        content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+        image: images/klDSCF1427_500.jpg
+        image_alt: Speaker 6 photo
+        image_position: top
       - title: Peter Weichardt
         subtitle: 'Exto, Canada'
         content: >+
