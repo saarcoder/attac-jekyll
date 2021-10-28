@@ -1270,7 +1270,7 @@ models:
         required: true
       - type: enum
         name: align_vert
-        label: Section vertical alignment
+        label: vertikale Ausrichtung Abschnitt
         options:
           - top
           - middle
