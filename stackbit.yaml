@@ -376,7 +376,7 @@ models:
           - person
       - type: list
         name: categories
-        label: Categories
+        label: Kategorien
         description: The categories of the post
         items:
           type: reference
