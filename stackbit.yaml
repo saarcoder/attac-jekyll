@@ -1533,7 +1533,7 @@ models:
           set to true
   form_field:
     type: object
-    label: Form field
+    label: Formular-Feld
     labelField: name
     fields:
       - type: enum
