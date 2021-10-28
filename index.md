@@ -498,6 +498,9 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/klVolkerWielandDSCF9941_500.jpg
+        content: |+
+          Klimagerechte Mobilität beginnt mit dem ersten Schritt.
+
       - title: Attac in Aktion
         subtitle: 'Foto: Gerhard Schaal'
         title_align: left
