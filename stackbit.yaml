@@ -214,7 +214,7 @@ models:
         description: The title of the secondary navigation menu
       - type: list
         name: secondary_nav_links
-        label: Menü-Links
+        label: Menü-Links Sekundärnavigation
         description: List of secondary navigation links
         items:
           type: model
