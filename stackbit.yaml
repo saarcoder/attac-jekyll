@@ -1517,7 +1517,7 @@ models:
           when the image position is set to "left" or "right"
       - type: enum
         name: image_align
-        label: Image alignment
+        label: Ausrichtung Bild
         options:
           - left
           - right
