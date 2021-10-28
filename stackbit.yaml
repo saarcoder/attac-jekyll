@@ -1372,7 +1372,7 @@ models:
         description: The subtitle of the feature displayed below the title
       - type: markdown
         name: content
-        label: Content
+        label: Inhalt
         description: The text content of the feature
       - type: list
         name: actions
