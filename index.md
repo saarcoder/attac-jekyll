@@ -394,30 +394,6 @@ sections:
           bis zum Ende des Jahrhunderts um weitere vier Grad ansteigen. Dagegen
           kämpft Greenpeace gemeinsam mit Attac.
 
-      - title: Tamara Enhuber
-        subtitle: 'Libris, USA'
-        image_alt: Speaker 4 photo
-        image_position: top
-        image: images/kl2021_0926_19443400_500.jpg
-        content: >
-          Sklaverei, sklavereiähnliche Bedingungen, Zwangsarbeit und
-          Menschenhandel existieren noch heute. Weltweit. Auch in Deutschland.
-          Deshalb haben
-
-          wir das „Saar-Bündnis und –Kampagne Sklaven*los*! Gegen globale
-          Sklaverei heute“ gegründet.
-
-
-          <http://www.sklavenlos.de/>
-        actions:
-          - label: Sklavenlos.de
-            url: 'http://www.sklavenlos.de/'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
       - title: Eugen Georg
         subtitle: 'Microsoft, USA'
         image_alt: Speaker 3 photo
