@@ -370,7 +370,7 @@ models:
         required: true
       - type: reference
         name: author
-        label: Author
+        label: Autor
         description: The author of the post
         models:
           - person
