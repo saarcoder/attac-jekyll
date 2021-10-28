@@ -239,7 +239,7 @@ models:
             - action
       - type: boolean
         name: has_social
-        label: Social-NetworksLinks anzeigen
+        label: Social-Networks anzeigen
         description: Display the social links
         default: true
       - type: list
