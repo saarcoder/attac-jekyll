@@ -399,6 +399,13 @@ sections:
         image_alt: Speaker 4 photo
         image_position: top
         image: images/kl2021_0926_19443400_500.jpg
+        content: >
+          Sklaverei, sklavereiähnliche Bedingungen, Zwangsarbeit und
+          Menschenhandel existieren noch heute. Weltweit. Auch in Deutschland.
+          Deshalb haben
+
+          wir das „Saar-Bündnis und –Kampagne Sklaven*los*! Gegen globale
+          Sklaverei heute“ gegründet.
       - title: Eugen Georg
         subtitle: 'Microsoft, USA'
         image_alt: Speaker 3 photo
