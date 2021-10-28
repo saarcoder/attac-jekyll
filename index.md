@@ -467,6 +467,8 @@ sections:
         image: images/klDSCF1427_500.jpg
         image_alt: Speaker 6 photo
         image_position: top
+        content: |
+          Es ist genug für alle da. Es muss nur gerecht verteilt werden.
       - title: Peter Weichardt
         subtitle: 'Exto, Canada'
         image: images/kl2021_0926_22505500_500.jpg
