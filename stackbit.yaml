@@ -169,7 +169,7 @@ models:
         default: false
       - type: string
         name: anncmnt_id
-        label: Announcement ID
+        label: ID Ankündigung
         description: >-
           A unique identifier, required if close button is enabled. Must be
           updated each time the announcement content changes
