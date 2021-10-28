@@ -491,7 +491,7 @@ models:
         description: The HTML embed code for your video
       - type: enum
         name: media_position
-        label: Image or video position
+        label: Position
         options:
           - left
           - right
