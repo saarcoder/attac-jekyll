@@ -16,4 +16,4 @@ sections:
     background_color: none
 layout: advanced
 ---
-## Vielen Dank, dass Sie 
+## Vielen Dank für Ihre Spende
