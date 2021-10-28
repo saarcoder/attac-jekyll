@@ -449,6 +449,9 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/klDSCF9852_500.jpg
+        content: >
+          Wie unter einem Brennglas werden die Schwächen der neoliberalen
+          Gestaltung des Welthandels in der Corona-Pandemie verstärkt sichtbar.
       - title: Thomas Schulz
         subtitle: Regionalsprecher
         image: images/kl2021_0926_19165400_500.jpg
