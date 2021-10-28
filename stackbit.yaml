@@ -771,7 +771,7 @@ models:
         description: The horizontal spacing between grid items
       - type: boolean
         name: enable_cards
-        label: Kartenformat aktivieren
+        label: Karten-Format aktivieren
         description: >-
           Display items as cards, i.e. add border, background and some padding
           around the item content
