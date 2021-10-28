@@ -1259,7 +1259,7 @@ models:
           default success message.
       - type: list
         name: form_fields
-        label: Form fields
+        label: Formular-Feler
         items:
           type: model
           models:
