@@ -600,7 +600,7 @@ models:
         description: Repeat the image to cover the whole area
   features_section:
     type: object
-    label: Features
+    label: Abschnitt Features
     labelField: title
     fields:
       - type: string
