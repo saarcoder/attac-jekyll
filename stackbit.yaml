@@ -1478,7 +1478,7 @@ models:
         description: The horizontal alignment of the item action buttons
       - type: enum
         name: actions_width
-        label: Action-Buttons
+        label: Breite Action-Buttons
         options:
           - auto
           - full-width
