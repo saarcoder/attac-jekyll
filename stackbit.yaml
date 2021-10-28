@@ -609,7 +609,7 @@ models:
         description: The title of the section
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Untertitel
         description: The subtitle of the section displayed above the title
       - type: list
         name: features
