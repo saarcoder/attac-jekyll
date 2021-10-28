@@ -1560,7 +1560,7 @@ models:
         description: 'The caption of the field, shown above the field input'
       - type: string
         name: default_value
-        label: Placeholder text or default value
+        label: Platzhalter-Text
         description: >-
           The placeholder for textual field types or default option for select
           field
