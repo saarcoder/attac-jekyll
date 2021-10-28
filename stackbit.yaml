@@ -762,7 +762,7 @@ models:
         description: The vertical spacing between grid items
       - type: enum
         name: grid_gap_horiz
-        label: horizontaler RasterAbstand
+        label: horizontaler Raster-Abstand
         options:
           - small
           - medium
