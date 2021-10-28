@@ -1526,7 +1526,7 @@ models:
         description: The horizontal alignment of the image
       - type: boolean
         name: image_has_padding
-        label: Image padding
+        label: Ausrichtung Bild
         default: false
         description: >-
           Add padding (space) around the image. Used only when "Enable cards" is
