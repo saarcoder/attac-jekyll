@@ -427,7 +427,7 @@ models:
           - stackbit_page_meta
   advanced:
     type: page
-    label: Advanced
+    label: Seitentyp Advanced
     layout: advanced
     hideContent: true
     fields:
