@@ -501,7 +501,7 @@ models:
         description: The position of the image or video relative to the text content
       - type: enum
         name: media_width
-        label: Image or video width
+        label: Position Bild oder Video
         options:
           - fourty
           - fifty
