@@ -433,6 +433,10 @@ sections:
         image: images/klDSCF1442_500.jpg
         image_alt: Speaker 7 photo
         image_position: top
+        content: >+
+          Die Welt ist keine Ware. Man kann das gar nicht oft genug wiederholen,
+          denn um die Ecke wartet bereits das nächste Privatisierungsprojekt.
+
       - title: Werner Langefeld
         subtitle: 'Mailgun, USA'
         title_align: left
