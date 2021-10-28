@@ -1038,7 +1038,7 @@ models:
           horizontal position, and the second value is the vertical
       - type: enum
         name: background_image_repeat
-        label: Background image repeat
+        label: Wiederholung Hintergrund-Bild
         options:
           - repeat
           - no-repeat
