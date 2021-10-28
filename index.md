@@ -481,6 +481,10 @@ sections:
         image: images/klDSCF9869_500.jpg
         image_alt: Speaker 1 photo
         image_position: top
+        content: >+
+          Attac setzt sich für gerechte Welthandelsregeln jenseits von
+          Freihandel und nationalistisch motiviertem Protektionismus ein.
+
       - title: Volker Wieland
         subtitle: Wald- und Wiesenläufer
         title_align: left
