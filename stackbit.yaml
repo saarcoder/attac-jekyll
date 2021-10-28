@@ -620,7 +620,7 @@ models:
             - feature
       - type: enum
         name: feature_padding_vert
-        label: Abstand Abstand Feature oben und unten
+        label: Abstand Abschnitt Feature oben und unten
         options:
           - small
           - medium
