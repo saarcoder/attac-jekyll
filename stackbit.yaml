@@ -914,7 +914,7 @@ models:
         label: Anzahl der letzten anzuzeigenden Beiträge
       - type: reference
         name: author
-        label: Author filter
+        label: Autor filter
         description: Filter posts by an author
         models:
           - person
