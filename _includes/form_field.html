@@ -13,7 +13,15 @@
 		{% if label_is_not_empty %}
 		<label for="{{ field.name }}" id="{{ field.name }}-label">{{ field.label }}</label>
 		{% endif %}
-	</div>
+    </div>
+
+{% elsif field.input_type == 'radio' %}
+    <div class="form-radio">
+        {% for option in field.options %}
+        <input type="radio" id="{{ option }}" name="{{ field.name }}" value="{{ option }}"{% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %} aria-labelledby="{{ field.name }}-label"{% endif %}>
+        {% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %}<label for="{{ option }}">{{ option }}</label>{% endif %}
+        {% endfor %}
+    </div>
 {% elsif field.input_type == 'select' %}
 	<div class="form-select">
 		<select id="{{ field.name }}" name="{{ field.name }}"{% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %} aria-labelledby="{{ field.name }}-label"{% endif %}{% assign is_required_is_not_empty = field.is_required | is_not_empty %}{% if is_required_is_not_empty %} required{% endif %}>
@@ -25,9 +33,16 @@
 				<option value="{{ option }}">{{ option }}</option>
 			{% endfor %}
 		</select>
-	</div>
+    </div>
 {% elsif field.input_type == 'textarea' %}
-	<textarea id="{{ field.name }}" name="{{ field.name }}" rows="5"{% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %} aria-labelledby="{{ field.name }}-label"{% endif %}{% assign default_value_is_not_empty = field.default_value | is_not_empty %}{% if default_value_is_not_empty %} placeholder="{{ field.default_value }}"{% endif %}{% assign is_required_is_not_empty = field.is_required | is_not_empty %}{% if is_required_is_not_empty %} required{% endif %}></textarea>
+    <textarea id="{{ field.name }}" name="{{ field.name }}" rows="5"{% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %} aria-labelledby="{{ field.name }}-label"{% endif %}{% assign default_value_is_not_empty = field.default_value | is_not_empty %}{% if default_value_is_not_empty %} placeholder="{{ field.default_value }}"{% endif %}{% assign is_required_is_not_empty = field.is_required | is_not_empty %}{% if is_required_is_not_empty %} required{% endif %}></textarea>
+    <div class="lastschrift">
+        <h3>Kontoinformationen</h3>
+        <p>Ich ermächtige den Attac Trägerverein e.V. den angegebenen Betrag von meinem Konto durch Lastschrift einzuziehen. Diese Einzugsermächtigung kann ich jederzeit widerrufen.</p>
+        <br><p>Bank</p>
+    </div>
+{% elsif field.input_type == 'text' && field.name == 'iban' || field.input_type == 'text' && field.name == 'bic'  || field.input_type == 'text' && field.name == 'first' || field.input_type == 'text' && field.name == 'last'   %}
+<input id="{{ field.name }}" type="{{ field.input_type }}" name="{{ field.name }}" {% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %} aria-labelledby="{{ field.name }}-label"{% endif %}{% assign default_value_is_not_empty = field.default_value | is_not_empty %}{% if default_value_is_not_empty %} placeholder="{{ field.default_value }}"{% endif %}{% assign is_required_is_not_empty = field.is_required | is_not_empty %}{% if is_required_is_not_empty %} required{% endif %} />
 {% else %}
 	<input id="{{ field.name }}" type="{{ field.input_type }}" name="{{ field.name }}" {% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %} aria-labelledby="{{ field.name }}-label"{% endif %}{% assign default_value_is_not_empty = field.default_value | is_not_empty %}{% if default_value_is_not_empty %} placeholder="{{ field.default_value }}"{% endif %}{% assign is_required_is_not_empty = field.is_required | is_not_empty %}{% if is_required_is_not_empty %} required{% endif %} />
 {% endif %}
