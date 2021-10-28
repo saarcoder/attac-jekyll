@@ -3,7 +3,7 @@ title: Danke!
 sections:
   - type: hero_section
     title: Danke
-    subtitle: Danke für Ihr Interesse an Attac!
+    subtitle: Danke für Ihre Spende!
     actions:
       - label: Zurück zur Homepage
         url: /
@@ -16,5 +16,5 @@ sections:
     background_color: none
 layout: advanced
 ---
-## Vielen Dank für Ihre Spende
-### Daten verarbeitet
+
+### Ihre Daten wurden an uns weitergeleitet
