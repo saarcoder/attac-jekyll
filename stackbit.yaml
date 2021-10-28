@@ -282,7 +282,7 @@ models:
         required: true
       - type: string
         name: last_name
-        label: Last name
+        label: Nachname
       - type: image
         name: photo
         label: Image
