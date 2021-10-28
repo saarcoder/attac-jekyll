@@ -942,7 +942,7 @@ models:
         default: false
       - type: boolean
         name: show_author
-        label: Autor
+        label: Autor anzeigen
         description: Show the author of the post
         default: false
       - type: boolean
