@@ -679,7 +679,7 @@ sections:
     title: Ein anderes Saarland ist möglich.
     actions:
       - label: Spenden
-        url: /unterstuetzen
+        url: /spenden
         style: primary
         has_icon: true
         icon: arrow-right
