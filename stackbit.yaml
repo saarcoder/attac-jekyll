@@ -345,7 +345,7 @@ models:
   post:
     type: page
     urlPath: '/blog/{slug}'
-    label: Post
+    label: Beitrag
     layout: post
     folder: blog
     exclude:
