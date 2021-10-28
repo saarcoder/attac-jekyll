@@ -1301,7 +1301,7 @@ models:
         description: The padding area (space) on the bottom of the section
       - type: boolean
         name: has_border
-        label: SRahmenlinie Abschnitt
+        label: Rahmenlinie Abschnitt
         default: false
         description: Add section bottom border
       - type: enum
