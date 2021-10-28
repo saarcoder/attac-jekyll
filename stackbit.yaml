@@ -90,7 +90,7 @@ models:
           - header
       - type: model
         name: footer
-        label: Footer configuration
+        label: Fußzeile
         models:
           - footer
     file: config.json
