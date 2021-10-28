@@ -96,7 +96,7 @@ models:
     file: config.json
   header:
     type: object
-    label: Header configuration
+    label: Kopfzeile
     labelField: title
     fields:
       - type: string
