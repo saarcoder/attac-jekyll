@@ -551,7 +551,7 @@ sections:
         content_align: left
         actions:
           - label: Kontakt
-            url: mailto
+            url: 'mailto:'
             style: primary
         actions_align: left
         actions_width: full-width
