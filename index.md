@@ -406,6 +406,9 @@ sections:
 
           wir das „Saar-Bündnis und –Kampagne Sklaven*los*! Gegen globale
           Sklaverei heute“ gegründet.
+
+
+          <http://www.sklavenlos.de/>
       - title: Eugen Georg
         subtitle: 'Microsoft, USA'
         image_alt: Speaker 3 photo
