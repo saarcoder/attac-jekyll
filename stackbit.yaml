@@ -47,7 +47,7 @@ models:
         required: true
       - type: enum
         name: style
-        label: Stile
+        label: Stil
         options:
           - minimal
           - classic
