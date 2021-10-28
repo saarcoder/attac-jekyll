@@ -1066,7 +1066,7 @@ models:
             - action
       - type: enum
         name: actions_position
-        label: Action buttons position
+        label: Action buttons
         options:
           - top
           - bottom
