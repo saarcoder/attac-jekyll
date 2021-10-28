@@ -968,7 +968,7 @@ models:
           action buttons)
       - type: enum
         name: padding_top
-        label: Section top padding
+        label: Abschnitts-Abstand oben
         options:
           - none
           - small
