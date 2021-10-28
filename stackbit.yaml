@@ -682,7 +682,7 @@ models:
           transparent
       - type: enum
         name: background_image_size
-        label: Background image size
+        label: Größe Hintergrund-Bild
         options:
           - auto
           - contain
