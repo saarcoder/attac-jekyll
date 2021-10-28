@@ -10,6 +10,11 @@ label {
 	margin-bottom: 0.3em;
 }
 
+.form-radio label {
+    display: inline;
+    margin-right: 1rem;
+}
+
 input[type="text"],
 input[type="password"],
 input[type="email"],
@@ -126,4 +131,12 @@ textarea {
 		background: $color-bold-input-bg;
 		border-color: transparent;
 	}
+}
+.spendenkonto {
+    background-color: $color-action-highlight-bg;
+    color: $color-dark-body-text;
+    padding: 2rem 1rem;
+}
+.lastschrift {
+    margin-top: 2rem;
 }
