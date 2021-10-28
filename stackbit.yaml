@@ -556,7 +556,7 @@ models:
         description: The background color of the section
       - type: image
         name: background_image
-        label: Background image
+        label: Hintergrundfarbe
         description: The image displayed in the background of the section
       - type: number
         name: background_image_opacity
