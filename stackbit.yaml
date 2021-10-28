@@ -1088,7 +1088,7 @@ models:
           "right"
       - type: enum
         name: align
-        label: Section alignment
+        label: Ausrichtung Abschnitt
         options:
           - left
           - right
