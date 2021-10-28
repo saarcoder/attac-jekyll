@@ -896,7 +896,7 @@ models:
         description: Show the specified number of posts in a blog feed grid row
       - type: boolean
         name: enable_cards
-        label: Enable cards
+        label: Karten-Format aktivieren
         description: >-
           Display posts as cards, i.e. add border, background and some padding
           around post content
