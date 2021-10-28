@@ -1613,7 +1613,7 @@ models:
           - youtube
       - type: enum
         name: icon_position
-        label: Icon position
+        label: Icon Position
         options:
           - left
           - right
