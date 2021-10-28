@@ -1469,7 +1469,7 @@ models:
             - action
       - type: enum
         name: actions_align
-        label: Action buttons alignment
+        label: Action buttons
         options:
           - left
           - right
