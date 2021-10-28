@@ -1188,7 +1188,7 @@ models:
         description: The subtitle of the section displayed below the title
       - type: enum
         name: title_align
-        label: 'Titel, Untertitel alignment'
+        label: 'Titel, Untertitel'
         options:
           - left
           - right
