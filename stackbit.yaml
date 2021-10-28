@@ -222,7 +222,7 @@ models:
             - action
       - type: boolean
         name: has_tertiary_nav
-        label: Enable tertiary navigation menu
+        label: Tertiärnavigation aktivieren
         description: Display the tertiary navigation menu
         default: true
       - type: string
