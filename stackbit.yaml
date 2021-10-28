@@ -1210,7 +1210,7 @@ models:
         description: The horizontal alignment of the section text content
       - type: enum
         name: form_position
-        label: position Formular
+        label: Position Formular
         options:
           - left
           - right
