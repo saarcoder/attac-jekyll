@@ -1012,7 +1012,7 @@ models:
           transparent
       - type: enum
         name: background_image_size
-        label: Grö
+        label: Grö´ße
         options:
           - auto
           - contain
