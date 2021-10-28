@@ -903,7 +903,7 @@ models:
         default: false
       - type: boolean
         name: show_recent
-        label: Show recent posts only
+        label: Nur die letzten Beiträge anzeigen
         description: >-
           Show the specified number of recent posts. Should not be used with
           author, category and tag filters
