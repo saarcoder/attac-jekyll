@@ -833,7 +833,7 @@ models:
           transparent
       - type: enum
         name: background_image_size
-        label: Gr
+        label: Gröe
         options:
           - auto
           - contain
