@@ -329,7 +329,7 @@ models:
         description: The title of the tag
   page:
     type: page
-    label: Page
+    label: Seite
     layout: page
     exclude: blog/**/*
     fields:
