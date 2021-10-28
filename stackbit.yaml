@@ -926,7 +926,7 @@ models:
           - category
       - type: reference
         name: tag
-        label: Tagilter
+        label: Tag-Filter
         description: Filter posts by a tag
         models:
           - tag
