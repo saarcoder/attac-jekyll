@@ -952,7 +952,7 @@ models:
         default: false
       - type: boolean
         name: show_image
-        label: Show image
+        label: Bild anzeigen
         description: Show the post image thumbnail
         default: true
       - type: enum
