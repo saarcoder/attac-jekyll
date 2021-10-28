@@ -1241,7 +1241,7 @@ models:
           has one input field
       - type: boolean
         name: enable_card
-        label: Display form in a box
+        label: Boxlayout Formular
         default: false
         description: >-
           Display form inside a box, i.e. add border and background to the form
