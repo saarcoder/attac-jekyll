@@ -1220,7 +1220,7 @@ models:
         description: The position of the form relative to the text content of the section
       - type: enum
         name: form_width
-        label: Form
+        label: Breite Form
         options:
           - fourty
           - fifty
