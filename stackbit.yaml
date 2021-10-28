@@ -19,7 +19,7 @@ logicFields:
 models:
   config:
     type: data
-    label: Site configuration
+    label: Seitenkonfiguration
     fields:
       - type: string
         name: title
