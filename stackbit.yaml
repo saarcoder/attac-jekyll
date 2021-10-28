@@ -133,7 +133,7 @@ models:
         default: true
       - type: list
         name: secondary_nav_links
-        label: Secondary navigation menu links
+        label: Menülinks
         description: List of navigation links
         items:
           type: model
