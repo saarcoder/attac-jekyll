@@ -113,7 +113,7 @@ models:
         description: The alt text of the logo image
       - type: boolean
         name: has_primary_nav
-        label: Enable primary navigation menu
+        label: Primärnavigation aktivieren
         description: >-
           Display the navigation menu on the left side, next to the site
           title/logo
