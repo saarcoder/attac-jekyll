@@ -1291,7 +1291,7 @@ models:
         description: The padding area (space) on the top of the section
       - type: enum
         name: padding_bottom
-        label: Abschnitts-Abstand oben
+        label: Abschnitts-Abstand unten
         options:
           - none
           - small
