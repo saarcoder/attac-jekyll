@@ -291,7 +291,7 @@ models:
         label: Alternativtext Bild
   category:
     type: data
-    label: Category
+    label: Kategorie
     folder: categories
     fields:
       - type: string
