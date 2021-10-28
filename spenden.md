@@ -12,8 +12,11 @@ sections:
 
       [**Kampagnen**](https://www.attac.de/kampagnen) sind ein wichtiges Element
       unserer politischen Arbeit. Jede Kampagne bringt uns unseren Visionen ein
-      Stückchen näher. [Weitere Infos](https://www.attac.de/kampagnen)
+      Stückchen näher. [Weitere Infos](https://www.attac.de/kampagnen)  
 
+
+
+      <br>
       Bei Attac ist [**finanzielle
       Transparenz**](http://www.attac-netzwerk.de/index.php?id=1429)
       selbstverständlich – Mitglieder und Spender_innen haben ein Recht darauf
@@ -512,7 +515,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Ich habe die <a href="https://www.attac.de/datenschutz">Datenschutzbestimmungen</a>
+          Ich habe die <a
+          href="https://www.attac.de/datenschutz">Datenschutzbestimmungen</a>
           gelesen und erkenne sie an.
         is_required: true
     submit_label: Spenden
