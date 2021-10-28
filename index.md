@@ -678,7 +678,7 @@ sections:
   - type: cta_section
     title: Ein anderes Saarland ist möglich.
     actions:
-      - label: Unterstützen
+      - label: Spenden
         url: /unterstuetzen
         style: primary
         has_icon: true
