@@ -410,7 +410,7 @@ sections:
 
           <http://www.sklavenlos.de/>
         actions:
-          - label: lorem-ipsum
+          - label: sklavenlos.de
             url: 'http://www.sklavenlos.de/'
             style: link
             has_icon: false
