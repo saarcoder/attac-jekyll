@@ -288,7 +288,7 @@ models:
         label: Bild
       - type: string
         name: photo_alt
-        label: Image alt text
+        label: Bild alt text
   category:
     type: data
     label: Category
