@@ -1427,7 +1427,7 @@ models:
         description: The horizontal alignment of the feature content
   grid_item:
     type: object
-    label: Item
+    label: Eintrag
     labelField: title
     fields:
       - type: string
