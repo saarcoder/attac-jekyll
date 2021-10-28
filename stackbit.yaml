@@ -164,7 +164,7 @@ models:
         default: false
       - type: boolean
         name: anncmnt_has_close
-        label: Enable announcement close
+        label: der Ankündigung
         description: Display the announcement close button
         default: false
       - type: string
