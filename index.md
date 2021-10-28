@@ -422,6 +422,14 @@ sections:
         image_alt: Speaker 3 photo
         image_position: top
         image: images/kl2021_0926_19374400_500.jpg
+        content: >
+          Attac war die erste international ausgerichtete NGO. Das ist wichtig,
+          denn auch die Welt wird immer vernetzter. Im „Arrival Room“ bieten wir
+          Menschen aus aller Welt die Möglichkeit, ihr Herzensprojekt zu
+          verwirklichen.
+
+
+          [**Arrival Room**](https://arrivalroom.wordpress.com/home/)
       - title: Marie-Louise Innocent
         subtitle: Gründungsmitglied
         image: images/klDSCF1442_500.jpg
