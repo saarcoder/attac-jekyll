@@ -937,7 +937,7 @@ models:
         default: true
       - type: boolean
         name: show_categories
-        label: Kategories
+        label: Kategorien anzeigen
         description: Show the categories of the post
         default: false
       - type: boolean
