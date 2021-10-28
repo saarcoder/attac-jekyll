@@ -175,7 +175,7 @@ models:
           updated each time the announcement content changes
   footer:
     type: object
-    label: Footer configuration
+    label: Konfiguration
     labelField: content
     fields:
       - type: image
