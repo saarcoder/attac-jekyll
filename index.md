@@ -478,7 +478,6 @@ sections:
           verschrieben.
 
       - title: Stefan E. Winkler
-        subtitle: 'React Awesome, USA'
         image: images/klDSCF9869_500.jpg
         image_alt: Speaker 1 photo
         image_position: top
