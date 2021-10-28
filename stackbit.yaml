@@ -164,7 +164,7 @@ models:
         default: false
       - type: boolean
         name: anncmnt_has_close
-        label: Schließbutton Ankündigung
+        label: Schließ-Button Ankündigung
         description: Display the announcement close button
         default: false
       - type: string
