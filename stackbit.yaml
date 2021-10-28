@@ -1494,7 +1494,7 @@ models:
         description: The alt text of the item image
       - type: enum
         name: image_position
-        label: Position
+        label: Position Bild
         options:
           - left
           - right
