@@ -1231,7 +1231,7 @@ models:
           only when the form position is set to "left" or "right"
       - type: enum
         name: form_layout
-        label: Form layout
+        label: Layout Formular
         options:
           - stacked
           - inline
