@@ -753,7 +753,7 @@ models:
         description: Show the specified number of items in a grid row
       - type: enum
         name: grid_gap_vert
-        label: vertikaler Abstand Raster
+        label: vertikaler Raster-Abstand
         options:
           - small
           - medium
