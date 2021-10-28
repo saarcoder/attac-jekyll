@@ -1376,7 +1376,7 @@ models:
         description: The text content of the feature
       - type: list
         name: actions
-        label: Action buttons
+        label: Action-Buttons
         items:
           type: model
           models:
