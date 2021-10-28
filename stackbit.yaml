@@ -932,7 +932,7 @@ models:
           - tag
       - type: boolean
         name: show_date
-        label: Show date
+        label: Datum anzeigen
         description: Show the publish date of the post
         default: true
       - type: boolean
