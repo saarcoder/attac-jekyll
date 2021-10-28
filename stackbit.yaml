@@ -455,7 +455,7 @@ models:
           - stackbit_page_meta
   hero_section:
     type: object
-    label: Abschnitt
+    label: Abschnitt Hero
     labelField: title
     fields:
       - type: string
