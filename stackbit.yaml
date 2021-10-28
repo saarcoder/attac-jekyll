@@ -205,7 +205,7 @@ models:
             - action
       - type: boolean
         name: has_secondary_nav
-        label: Enable secondary navigation menu
+        label: Menü Sekundärnavigation aktivieren
         description: Display the secondary navigation menu
         default: true
       - type: string
