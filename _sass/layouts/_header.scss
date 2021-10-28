@@ -35,6 +35,9 @@
 }
 
 @include media-breakpoint-down(md) {
+    .navbar__branding {
+    position: absolute;
+}
 	.navbar__container {
 		-webkit-backface-visibility: hidden;
 		backface-visibility: hidden;
