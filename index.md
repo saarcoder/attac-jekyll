@@ -458,6 +458,11 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
         image_width: thirty-three
+        content: >
+          Der so genannte Freihandel macht die Länder des globalen Südens noch
+          ärmer. Deswegen stehen wir dieser neoliberalen Globalisierung kritisch
+
+          gegenüber.
       - title: Michael Sperlich
         subtitle: 'CSS Rocks, Sweden'
         image: images/klDSCF1427_500.jpg
