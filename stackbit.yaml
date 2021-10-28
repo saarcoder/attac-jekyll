@@ -721,7 +721,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Titel
         description: The title of the section
       - type: string
         name: subtitle
