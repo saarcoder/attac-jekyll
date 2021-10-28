@@ -115,6 +115,12 @@
 }
 
 @include media-breakpoint-up(md) {
+        .navbar__branding {
+        position: absolute;
+    }
+    .navbar__logo img {
+        max-height: 2.5rem;
+    }
 	.navbar__menu-btn,
 	.navbar__close-btn {
 		display: none;
