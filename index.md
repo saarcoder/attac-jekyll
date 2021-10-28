@@ -499,6 +499,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/kl2021_0926_19443400_500.jpg
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
