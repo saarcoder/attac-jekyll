@@ -231,7 +231,7 @@ models:
         description: The title of the tertiary navigation menu
       - type: list
         name: tertiary_nav_links
-        label: Tertiary navigation menu links
+        label: Links Tertiärnavigation
         description: List of tertiary navigation links
         items:
           type: model
