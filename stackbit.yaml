@@ -1387,7 +1387,7 @@ models:
         description: The image of the feature
       - type: string
         name: image_alt
-        label: Image alt text
+        label: Bild
         description: The alt text of the feature image
       - type: text
         name: video_embed_html
