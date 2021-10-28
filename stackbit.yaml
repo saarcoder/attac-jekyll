@@ -159,7 +159,7 @@ models:
         description: The horizontal alignment of the announcement content
       - type: boolean
         name: anncmnt_is_home_only
-        label: Show on home page
+        label: Auf der Startseite anzeigen
         description: Display the announcement on the home page only.
         default: false
       - type: boolean
