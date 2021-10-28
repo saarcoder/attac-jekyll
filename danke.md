@@ -17,4 +17,4 @@ sections:
 layout: advanced
 ---
 
-### Ihre Daten verarbeitet
+### Ihre Daten wurden an uns weitergeleitet
