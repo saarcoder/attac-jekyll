@@ -842,7 +842,7 @@ models:
         description: The size of the background image
       - type: enum
         name: background_image_position
-        label: Background image position
+        label: Position
         options:
           - left top
           - left center
