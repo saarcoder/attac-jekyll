@@ -1440,7 +1440,7 @@ models:
         description: The subtitle of the item displayed below the title
       - type: enum
         name: title_align
-        label: 'Titel, Untertitel'
+        label: 'Ausrichtung Titel, Untertitel'
         options:
           - left
           - right
