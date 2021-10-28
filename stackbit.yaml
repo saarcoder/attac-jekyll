@@ -1175,7 +1175,7 @@ models:
         description: Repeat the image to cover the whole area
   form_section:
     type: object
-    label: Abscvhnitt Formular
+    label: Abschnitt Formular
     labelField: title
     fields:
       - type: string
