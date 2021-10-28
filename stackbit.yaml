@@ -729,7 +729,7 @@ models:
         description: The subtitle of the section displayed above the title
       - type: list
         name: actions
-        label: Action buttons
+        label: Action-Buttons
         items:
           type: model
           models:
