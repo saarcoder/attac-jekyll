@@ -188,7 +188,7 @@ models:
         description: The alt text of the logo image
       - type: boolean
         name: has_primary_nav
-        label: Enable primary navigation menu
+        label: Primärnavigation aktivieren
         description: Display the primary navigation menu
         default: true
       - type: string
