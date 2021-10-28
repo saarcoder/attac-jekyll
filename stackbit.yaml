@@ -197,7 +197,7 @@ models:
         description: The title of the primary navigation menu
       - type: list
         name: primary_nav_links
-        label: Primary navigation menu links
+        label: Links
         description: List of primary navigation links
         items:
           type: model
