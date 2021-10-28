@@ -1569,7 +1569,7 @@ models:
         description: 'The list of options, used only when the field type is "select"'
       - type: boolean
         name: is_required
-        label: Is the field required?
+        label: Ist das Feld erforderlich?
         default: false
   action:
     type: object
