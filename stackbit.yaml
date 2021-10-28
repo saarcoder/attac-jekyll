@@ -150,7 +150,7 @@ models:
         description: The text content of the announcement
       - type: enum
         name: anncmnt_align
-        label: horizontale Ausrichtung Announcement horizontal alignment
+        label: horizontale Ausrichtung Announcement
         options:
           - left
           - right
