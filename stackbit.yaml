@@ -483,7 +483,7 @@ models:
         description: The image of the section
       - type: string
         name: image_alt
-        label: Image alt text
+        label: Bild alt text
         description: The alt text of the section image
       - type: text
         name: video_embed_html
