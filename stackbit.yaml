@@ -888,7 +888,7 @@ models:
         description: Action buttons displayed below blog posts
       - type: enum
         name: blog_feed_cols
-        label: Blog feed columns
+        label: Blog-Feed
         options:
           - two
           - three
