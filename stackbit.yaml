@@ -1504,7 +1504,7 @@ models:
         description: The position of the image relative to the text content
       - type: enum
         name: image_width
-        label: Image container width
+        label: Breite Bild-Container
         options:
           - twenty-five
           - thirty-three
