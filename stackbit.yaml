@@ -789,7 +789,8 @@ models:
           action buttons)
       - type: enum
         name: padding_top
-        label: Section top padding
+        label: 
+
         options:
           - none
           - small
