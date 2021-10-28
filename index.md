@@ -480,17 +480,16 @@ sections:
       - title: Tamara Enhuber
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Sklaverei, sklavereiähnliche Bedingungen, Zwangsarbeit und
+          Menschenhandel existieren noch heute. Weltweit. Auch in Deutschland.
+          Deshalb haben
+
+          wir das „Saar-Bündnis und –Kampagne Sklaven*los*! Gegen globale
+          Sklaverei heute“ gegründet.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          [**Sklavenlos**](http://www.sklavenlos.de)
         content_align: left
         actions: []
         actions_align: left
