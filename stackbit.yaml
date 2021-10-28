@@ -252,7 +252,7 @@ models:
             - action
       - type: string
         name: content
-        label: Footer content
+        label: Inhalt Fußzeile
         description: The copyright text
       - type: list
         name: links
