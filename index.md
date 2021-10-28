@@ -411,7 +411,7 @@ sections:
           <http://www.sklavenlos.de/>
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: 'http://www.sklavenlos.de/'
             style: link
             has_icon: false
             icon: arrow-left
