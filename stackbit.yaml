@@ -408,7 +408,7 @@ models:
         description: The image displayed in the single post
       - type: string
         name: image_alt
-        label: Image alt text (single post)
+        label: Bild (Einzelbeitrag)
         description: The alt text of the single post image
       - type: enum
         name: image_position
