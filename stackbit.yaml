@@ -1622,7 +1622,7 @@ models:
         description: Select "center" to display icon only and hide the label
       - type: boolean
         name: new_window
-        label: Open in new tab/window
+        label: In neuem Tab/Fenster öffnen
         default: false
       - type: boolean
         name: no_follow
