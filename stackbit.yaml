@@ -547,7 +547,7 @@ models:
         description: Add section bottom border
       - type: enum
         name: background_color
-        label: Hintergrundfarbe
+        label: Hintergrund-Farbe
         options:
           - none
           - primary
