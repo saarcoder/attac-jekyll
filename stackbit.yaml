@@ -1076,7 +1076,7 @@ models:
         description: The position of action buttons relative to the text content
       - type: enum
         name: actions_width
-        label: Action-Buttons
+        label: Breite Action-Buttons
         options:
           - fourty
           - fifty
