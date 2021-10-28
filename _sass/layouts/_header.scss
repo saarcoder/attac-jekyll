@@ -115,7 +115,7 @@
 }
 
 @include media-breakpoint-up(md) {
-        .navbar__branding {
+    .navbar__branding {
         position: absolute;
     }
     .navbar__logo img {
