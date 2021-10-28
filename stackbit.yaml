@@ -947,7 +947,7 @@ models:
         default: false
       - type: boolean
         name: show_excerpt
-        label: Show excerpt
+        label: Zusammenfassung anzeigen
         description: Show the excerpt of the post
         default: false
       - type: boolean
