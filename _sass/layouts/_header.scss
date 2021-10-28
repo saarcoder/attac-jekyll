@@ -38,6 +38,9 @@
     .navbar__branding {
         position: absolute;
     }
+    .navbar__logo img {
+        max-height: 2.11111rem;
+    }
 	.navbar__container {
 		-webkit-backface-visibility: hidden;
 		backface-visibility: hidden;
