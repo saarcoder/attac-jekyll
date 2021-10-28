@@ -101,7 +101,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Titel
+        label: Titel Seitenkopf
         description: The title displayed in the header if logo image not specified
       - type: image
         name: logo
