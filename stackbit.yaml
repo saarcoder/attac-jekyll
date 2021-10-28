@@ -993,7 +993,7 @@ models:
         description: Add section bottom border
       - type: enum
         name: background_color
-        label: Background color
+        label: Hintergrund-Farbe
         options:
           - none
           - primary
