@@ -128,7 +128,7 @@ models:
             - action
       - type: boolean
         name: has_secondary_nav
-        label: Enable secondary navigation menu
+        label: Sekundärnavigation aktivieren
         description: Display the navigation menu on the right side
         default: true
       - type: list
