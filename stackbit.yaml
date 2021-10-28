@@ -1201,7 +1201,7 @@ models:
         description: The text content of the section
       - type: enum
         name: content_align
-        label: Content alignment
+        label: Ausrichtung Inhalt
         options:
           - left
           - right
