@@ -387,6 +387,14 @@ sections:
         image: images/klDSCF4168_500.jpg
         image_alt: Speaker 8 photo
         image_position: top
+        content: >+
+          Wenn die Industrie- und Schwellenländer ihren Treibhausgasausstoß
+          nicht drastisch senken, könnte die Durchschnittstemperatur auf der
+          Erde
+
+          bis zum Ende des Jahrhunderts um weitere vier Grad ansteigen. Dagegen
+          kämpft Greenpeace gemeinsam mit Attac.
+
       - title: Tamara Enhuber
         subtitle: 'Libris, USA'
         image_alt: Speaker 4 photo
