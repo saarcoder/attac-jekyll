@@ -477,7 +477,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/k2021_0821_11430400_500.jpg
-      - title: lorem-ipsum
+      - title: Tamara Enhuber
         subtitle: lorem-ipsum
         title_align: left
         content: >-
