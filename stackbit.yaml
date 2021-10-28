@@ -244,7 +244,7 @@ models:
         default: true
       - type: list
         name: social_links
-        label: Social links
+        label: Links zu Social-Networks
         description: List of social links
         items:
           type: model
