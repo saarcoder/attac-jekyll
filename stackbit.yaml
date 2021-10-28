@@ -1046,7 +1046,7 @@ models:
         description: Repeat the image to cover the whole area
   cta_section:
     type: object
-    label: CTA
+    label: Abschnitt CTA
     labelField: title
     fields:
       - type: string
