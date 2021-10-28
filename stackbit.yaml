@@ -361,7 +361,7 @@ models:
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Untertitel
         description: The subtitle of the post
       - type: date
         name: date
