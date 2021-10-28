@@ -1391,7 +1391,7 @@ models:
         description: The alt text of the feature image
       - type: text
         name: video_embed_html
-        label: Einbettungs-Code
+        label: Einbettungs-Code Video
         description: The HTML embed code for your video
       - type: enum
         name: media_position
