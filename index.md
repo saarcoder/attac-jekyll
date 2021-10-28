@@ -551,7 +551,7 @@ sections:
         content_align: left
         actions:
           - label: Kontakt
-            url: 'mailto:'
+            url: 'mailto:attac.saarland@gmail.com'
             style: primary
         actions_align: left
         actions_width: full-width
