@@ -104,7 +104,7 @@ sections:
       ausschließlich bei Diensten, die das zwingend erfordern. [Weitere
       Infos](https://www.attac.de/datenschutz)
     form_id: contactForm
-    form_action: /da
+    form_action: /danke
     form_fields:
       - input_type: select
         name: anrede
