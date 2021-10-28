@@ -1436,7 +1436,7 @@ models:
         description: The title of the item
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Untertitel
         description: The subtitle of the item displayed below the title
       - type: enum
         name: title_align
