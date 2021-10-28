@@ -473,6 +473,10 @@ sections:
         image: images/kl2021_0926_22505500_500.jpg
         image_alt: Speaker 5 photo
         image_position: top
+        content: >+
+          Genau wie ich hat sich Attac dem Fairen Handel und dem Fairen Handeln
+          verschrieben.
+
       - title: Stefan E. Winkler
         subtitle: 'React Awesome, USA'
         image: images/klDSCF9869_500.jpg
