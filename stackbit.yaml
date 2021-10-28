@@ -396,7 +396,7 @@ models:
         description: The excerpt of the post displayed in the blog feed
       - type: image
         name: thumb_image
-        label: Bild (Blog feed)
+        label: Bild (Blog-Feed)
         description: The image displayed in the blog feed
       - type: string
         name: thumb_image_alt
