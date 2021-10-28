@@ -404,7 +404,7 @@ models:
         description: The alt text of the blog feed image
       - type: image
         name: image
-        label: Alternativtext Bild (Einzelbeitrag)
+        label: Bild (Einzelbeitrag)
         description: The image displayed in the single post
       - type: string
         name: image_alt
