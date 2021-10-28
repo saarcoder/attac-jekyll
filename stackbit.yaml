@@ -305,7 +305,7 @@ models:
         description: 'The link to the category page, e.g. "blog/category/news"'
       - type: string
         name: title
-        label: Title
+        label: Titel
         required: true
         description: The title of the category
   tag:
