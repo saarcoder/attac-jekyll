@@ -210,7 +210,7 @@ models:
         default: true
       - type: string
         name: secondary_nav_title
-        label: Sekundärnavigation
+        label: Titel Sekundärnavigation
         description: The title of the secondary navigation menu
       - type: list
         name: secondary_nav_links
