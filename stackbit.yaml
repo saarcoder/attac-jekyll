@@ -365,7 +365,7 @@ models:
         description: The subtitle of the post
       - type: date
         name: date
-        label: Date
+        label: Datum
         description: The publish date of the post
         required: true
       - type: reference
