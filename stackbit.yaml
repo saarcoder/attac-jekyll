@@ -1248,7 +1248,7 @@ models:
           container
       - type: string
         name: form_id
-        label: Form ID
+        label: Formular
         description: A unique identifier of the form. Must not contain whitespace
         required: true
       - type: string
