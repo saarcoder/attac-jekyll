@@ -522,7 +522,7 @@ models:
         description: The horizontal alignment of the section content
       - type: enum
         name: padding_top
-        label: Abschnitts-Abstand nach oben
+        label: Abschnitts-Abstand oben
         options:
           - none
           - small
