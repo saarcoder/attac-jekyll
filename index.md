@@ -395,7 +395,6 @@ sections:
           kämpft Greenpeace gemeinsam mit Attac.
 
       - title: Tamara Enhuber
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           Sklaverei, sklavereiähnliche Bedingungen, Zwangsarbeit und
