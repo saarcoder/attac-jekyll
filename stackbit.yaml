@@ -1418,7 +1418,7 @@ models:
           "right"
       - type: enum
         name: align
-        label: Feature alignment
+        label: Feature
         options:
           - left
           - right
