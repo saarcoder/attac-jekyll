@@ -184,7 +184,7 @@ models:
         description: The logo image displayed on the left side
       - type: string
         name: logo_alt
-        label: Logo alt text
+        label: Alternativtext Logo
         description: The alt text of the logo image
       - type: boolean
         name: has_primary_nav
