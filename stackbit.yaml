@@ -120,7 +120,7 @@ models:
         default: true
       - type: list
         name: primary_nav_links
-        label: Primary navigation menu links
+        label: Menülinks Primärnavigation
         description: List of navigation links
         items:
           type: model
