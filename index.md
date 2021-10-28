@@ -438,7 +438,6 @@ sections:
           denn um die Ecke wartet bereits das nächste Privatisierungsprojekt.
 
       - title: Werner Langefeld
-        subtitle: 'Mailgun, USA'
         title_align: left
         content_align: left
         actions: []
