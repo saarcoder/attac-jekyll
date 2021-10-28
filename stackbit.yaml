@@ -285,7 +285,7 @@ models:
         label: Nachname
       - type: image
         name: photo
-        label: Image
+        label: Bild
       - type: string
         name: photo_alt
         label: Image alt text
