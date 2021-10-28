@@ -464,7 +464,7 @@ models:
         description: The title of the section
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Untertitel
         description: The subtitle of the section displayed below the title
       - type: markdown
         name: content
