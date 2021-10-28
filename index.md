@@ -590,7 +590,7 @@ sections:
           *   Andere inspirieren
         content_align: left
         actions:
-          - label: Kontakt
+          - label: Mitmachen
             url: /unterstuetzen
             style: primary
         actions_align: left
