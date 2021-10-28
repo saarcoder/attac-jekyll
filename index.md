@@ -412,7 +412,7 @@ sections:
         actions:
           - label: Sklavenlos.de
             url: 'http://www.sklavenlos.de/'
-            style: secondary
+            style: link
             has_icon: false
             icon: arrow-left
             icon_position: right
