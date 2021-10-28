@@ -1383,7 +1383,7 @@ models:
             - action
       - type: image
         name: image
-        label: Image
+        label: Bild
         description: The image of the feature
       - type: string
         name: image_alt
