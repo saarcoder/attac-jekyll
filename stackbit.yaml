@@ -911,7 +911,7 @@ models:
         required: true
       - type: number
         name: recent_count
-        label: Number of recent posts to show
+        label: Anzahl der letzten anzuzeigenden Beiträge
       - type: reference
         name: author
         label: Author filter
