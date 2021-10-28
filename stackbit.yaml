@@ -1281,7 +1281,7 @@ models:
           when the form position is set to "left" or "right"
       - type: enum
         name: padding_top
-        label: Section top padding
+        label: Abschnitts-Abstand oben
         options:
           - none
           - small
