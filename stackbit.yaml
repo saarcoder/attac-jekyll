@@ -324,7 +324,7 @@ models:
         description: 'The link to the tag page, e.g. "blog/tag/jamstack"'
       - type: string
         name: title
-        label: Title
+        label: Titel
         required: true
         description: The title of the tag
   page:
