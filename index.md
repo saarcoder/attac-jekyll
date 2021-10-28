@@ -417,7 +417,6 @@ sections:
         image_has_padding: false
         image: images/kl2021_0926_19443400_500.jpg
       - title: Eugen Georg
-        subtitle: 'Microsoft, USA'
         image_alt: Speaker 3 photo
         image_position: top
         image: images/kl2021_0926_19374400_500.jpg
