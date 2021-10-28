@@ -85,7 +85,7 @@ models:
         required: true
       - type: model
         name: header
-        label: Header configuration
+        label: Seitenkop
         models:
           - header
       - type: model
