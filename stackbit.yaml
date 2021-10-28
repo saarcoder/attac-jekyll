@@ -1266,7 +1266,7 @@ models:
             - form_field
       - type: string
         name: submit_label
-        label: Submit button label
+        label: Button-Label
         required: true
       - type: enum
         name: align_vert
