@@ -25,7 +25,7 @@ seo:
         content
 layout: page
 ---
-****![](images/attlogoaffe.jpg)
+****![Ein anderes Saarland ist möglich](images/attlogoaffe.jpg)
 
 ## **Globalisierung**
 
