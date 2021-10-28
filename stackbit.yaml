@@ -1490,7 +1490,7 @@ models:
         description: The image of the item
       - type: string
         name: image_alt
-        label: ImBildage alt text
+        label: Bild
         description: The alt text of the item image
       - type: enum
         name: image_position
