@@ -412,7 +412,7 @@ models:
         description: The alt text of the single post image
       - type: enum
         name: image_position
-        label: Image position (single post)
+        label: Bild-Position (single post)
         options:
           - left
           - right
