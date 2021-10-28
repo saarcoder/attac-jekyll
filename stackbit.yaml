@@ -920,7 +920,7 @@ models:
           - person
       - type: reference
         name: category
-        label: Category filter
+        label: Kategory filter
         description: Filter posts by a category
         models:
           - category
