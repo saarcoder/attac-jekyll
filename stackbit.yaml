@@ -629,7 +629,7 @@ models:
         description: The vertical spacing between section features
       - type: enum
         name: align
-        label: Section alignment
+        label: Ausrichtung Abschnitt
         options:
           - left
           - right
