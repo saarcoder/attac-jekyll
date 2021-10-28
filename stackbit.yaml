@@ -1197,7 +1197,7 @@ models:
         description: The horizontal alignment of the section title and subtitle
       - type: markdown
         name: content
-        label: Content
+        label: Inhalt
         description: The text content of the section
       - type: enum
         name: content_align
