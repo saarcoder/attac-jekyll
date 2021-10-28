@@ -227,7 +227,7 @@ models:
         default: true
       - type: string
         name: tertiary_nav_title
-        label: Tertiary navigation title
+        label: Titel Tertiärnavigation
         description: The title of the tertiary navigation menu
       - type: list
         name: tertiary_nav_links
