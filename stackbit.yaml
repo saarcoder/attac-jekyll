@@ -1596,7 +1596,7 @@ models:
         required: true
       - type: boolean
         name: has_icon
-        label: Show icon
+        label: Icon anzeigen
         default: false
       - type: enum
         name: icon
