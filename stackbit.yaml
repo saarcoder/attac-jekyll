@@ -468,7 +468,7 @@ models:
         description: The subtitle of the section displayed below the title
       - type: markdown
         name: content
-        label: Content
+        label: Inhalt
         description: The text content of the section
       - type: list
         name: actions
