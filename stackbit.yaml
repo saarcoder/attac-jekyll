@@ -260,6 +260,8 @@ models:
         description: Angabe Jahreszahl
       - type: string
         name: jahr
+        label: aktuelles Jahr
+        description: 
       - type: list
         name: links
         label: Links
