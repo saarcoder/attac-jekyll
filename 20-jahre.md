@@ -13,6 +13,10 @@ seo:
     - name: 'og:description'
       value: Jubiläumsveranstaltung im Saarbrücker Schloss
       keyName: property
+    - name: 'og:image'
+      value: /20-jahre/images/20-jahre.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
