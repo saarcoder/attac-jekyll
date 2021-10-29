@@ -254,6 +254,8 @@ models:
         name: content
         label: Inhalt Fußzeile
         description: The copyright text
+      - type: boolean
+        name: 
       - type: list
         name: links
         label: Links
