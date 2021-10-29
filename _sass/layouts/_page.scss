@@ -18,3 +18,10 @@
     color: $color-dark-body-text;
     padding: $spacer;
 }
+
+@include media-breakpoint-up(sm) {
+	.page__header,
+	.page__copy {
+		font-size: 1.125em;
+	}
+}
