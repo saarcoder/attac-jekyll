@@ -258,7 +258,8 @@ models:
         name: show_date
         label: Jahresangabe aktivieren
         description: Angabe Jahreszahl
-      - type: 
+      - type: string
+        name: jahr
       - type: list
         name: links
         label: Links
