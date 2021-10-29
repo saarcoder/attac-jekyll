@@ -723,7 +723,6 @@ sections:
 
           [Twitter](https://twitter.com/hashtag/attacsaar?src=hashtag_click)
       - title: Impressum & Datenschutz
-        subtitle: lorem-ipsum
         title_align: left
         content: |
           Impressum
