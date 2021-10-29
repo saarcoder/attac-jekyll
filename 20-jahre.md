@@ -19,6 +19,9 @@ seo:
       value: 20 Jahre Attac Saar
     - name: 'twitter:description'
       value: Jubiläumsveranstaltung im Saarbrücker Schloss
+    - name: 'twitter:image'
+      value: /20-jahre/images/20-jahre.jpg
+      relativeUrl: true
 layout: page
 ---
 ### Samstag, 30. Oktober 2021, 19:00-21:30 Uhr
