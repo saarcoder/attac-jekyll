@@ -28,13 +28,19 @@ layout: page
 ---
 ### Angaben gemäß § 5 TMG
 
-Attac Deutschland ist ein Projekt des Attac Trägerverein e.V.  
+Attac Saar ist eine Regionalgliederung von Attac Deutschland, einem Projekt des Attac Trägerverein e.V.  
 Der Verein ist beim Amtsgericht Frankfurt/Main unter der
 Vereinsregisternummer VR 12648 registriert.  
 Die Umsatzsteuer-ID gemäß §27 a Umsatzsteuergesetz lautet: DE 247862896  
 Die Steuernummer ist: 45 250 52429
 
 [**Satzung des Attac Trägervereins**](https://www.attac.de/fileadmin/user_upload/bundesebene/attac-strukturen/AttacTraegerverein-eV__Satzung_Sept2015.pdf)  
+
+
+## Anschrift Attac Saar  
+Haus der Umwelt  
+Evangelisch-Kirch-Str. 8  
+66111 Saarbrücken  
 
 ## Vertretungsberechtigte
 
@@ -55,7 +61,7 @@ BIC: GENODEM 1 GLS
 
 Über Fragen zum Webauftritt oder Hinweise zu Fehlern auf der Seite freut sich das Webteam: <attac.saarland@gmail.com>.  
 Web-Administrator und Webredakteur: Thomas Schulz, <attac.saarland@gmail.com>  
-Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Thomas Schulz (Anschrift wie oben)  
+Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Thomas Schulz (Anschrift wie oben, c/o Attac Saar), Tel. 01525 - 71 788 50  
 
 ## Haftungshinweis / Haftungsausschluss  
 
