@@ -257,7 +257,7 @@ models:
       - type: boolean
         name: show_date
         label: Jahresangabe aktivieren
-        description: 
+        description: Angabe Jahreszahl
       - type: list
         name: links
         label: Links
