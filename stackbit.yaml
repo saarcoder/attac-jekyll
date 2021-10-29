@@ -720,7 +720,7 @@ models:
         description: Repeat the image to cover the whole area
   grid_section:
     type: object
-    label: Abschnitt
+    label: Raster
     labelField: title
     fields:
       - type: string
