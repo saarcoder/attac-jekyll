@@ -727,9 +727,9 @@ sections:
         content: |
           Impressum
 
-          Datenschutz
+          [Datenschutz](/datenschutz)
 
-          Kontakt
+          [Kontakt](mailto:attac.saarland@gmail.com)
         content_align: left
         actions: []
         actions_align: left
@@ -744,9 +744,10 @@ sections:
     grid_gap_vert: large
     enable_cards: true
     align: center
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     background_color: none
+    has_border: false
 seo:
   title: 20 Jahre Attac Saar
   description: Ein Knoten im internationalen Attac-Netzwerk.

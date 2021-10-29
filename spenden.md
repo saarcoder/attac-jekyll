@@ -12,22 +12,23 @@ sections:
 
       [**Kampagnen**](https://www.attac.de/kampagnen) sind ein wichtiges Element
       unserer politischen Arbeit. Jede Kampagne bringt uns unseren Visionen ein
-      Stückchen näher. [Weitere Infos](https://www.attac.de/kampagnen)  
+      Stückchen näher. [Weitere Infos](https://www.attac.de/kampagnen)
 
+        
 
-
-      <br>
-      Bei Attac ist [**finanzielle
+        
+      <br> Bei Attac ist [**finanzielle
       Transparenz**](http://www.attac-netzwerk.de/index.php?id=1429)
       selbstverständlich – Mitglieder und Spender_innen haben ein Recht darauf
       zu erfahren, was mit ihrem Geld geschieht. Deshalb kann jede_r einen Blick
       auf unsere Finanzen werfen. [Weitere
       Infos](http://www.attac-netzwerk.de/index.php?id=1429)
     content: >
-      ![Finance for the
-      people](/spenden/images/finance-for-the-people-900.jpg)  
+      ![Finance for the people](/spenden/images/finance-for-the-people-900.jpg)
 
-      <br>Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac
+      <br>  
+      
+      Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac
       stark für Gerechtigkeit. Doch politische Arbeit kostet nicht nur Zeit und
       Engagement, sondern auch Geld. Wir wollen weiterhin unabhängig, kreativ
       und erfolgreich die politische Landschaft gestalten und den Mächtigen die
@@ -38,13 +39,16 @@ sections:
 
 
       Mit diesem Formular kannst Du uns bequem mit Deiner Spende unterstützen.
-      Eine Einzugsermächtigung spart Zeit und Geld! Alternativ kannst Du auch
-      eine Spende direkt auf unser Spendenkonto überweisen, telefonisch spenden
-      oder ein Spendenformular ausdrucken und uns per Fax oder Post zukommen
-      lassen.
+      Alle Spenden fließen direkt an Attac Deutschland, deren Regionalgruppe wir
+      sind. Eine Einzugsermächtigung spart Zeit und Geld! Alternativ kannst Du
+      auch eine Spende direkt auf das Spendenkonto von Attac Deutschland
+      überweisen, telefonisch spenden oder ein Spendenformular ausdrucken und
+      uns per Fax oder Post zukommen lassen.
 
 
       ##### **Vielen Dank für Deine Unterstützung!**
+
+      <br>  
 
 
       (Felder mit \* müssen ausgefüllt werden)
@@ -61,12 +65,18 @@ sections:
       BIC: GENODEM 1 GLS
 
 
-      GLS Gemeinschaftsbank
+      GLS Gemeinschaftsbank  
+
+
+
+      <br>
 
 
       Wichtig: Nach dem Urteil des Bundesfinanzhofs ist Attac aktuell nicht
       gemeinnützig, Spenden können somit steuerlich nicht geltend gemacht
-      werden.
+      werden.  
+
+      <br>
 
 
       Das Verfahren wurde zurückverwiesen an die erste Instanz, das Hessische
@@ -97,12 +107,12 @@ sections:
       Informationen dazu zusammengestellt. [Weitere
       Infos](https://www.attac.de/spenden/sepa)
 
+      <br>  
 
-      [**Datenschutz**](https://www.attac.de/datenschutz) ist uns wichtig. Wir
+      [**Datenschutz**](/datenschutz) ist uns wichtig. Wir
       machen jederzeit transparent, zu welchen Zwecken wir Deine Daten
       verwenden. Wir speichern niemals Daten ohne Dein Einverständnis und
-      ausschließlich bei Diensten, die das zwingend erfordern. [Weitere
-      Infos](https://www.attac.de/datenschutz)
+      ausschließlich bei Diensten, die das zwingend erfordern. 
     form_id: contactForm
     form_action: /danke
     form_fields:

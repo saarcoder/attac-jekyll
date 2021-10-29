@@ -229,11 +229,20 @@
         &__media img {
             margin: auto;
         }
+        &__subtitle {
+            text-align: center;
+        }
     }
     .feature {
         &__title {
         text-align: center;
         }
+    }
+    .cta__title {
+        text-align: center;
+    }
+    .cta__actions .btn--primary, .item__actions .btn--primary {
+        margin: auto;
     }
 }
 
