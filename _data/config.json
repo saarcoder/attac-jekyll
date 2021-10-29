@@ -61,7 +61,7 @@
     "footer": {
         "has_primary_nav": false,
         "has_secondary_nav": false,
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "has_social": false,
         "content": "Attac Saar",
         "show_date": true,
