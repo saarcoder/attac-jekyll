@@ -255,7 +255,9 @@ models:
         label: Inhalt Fußzeile
         description: The copyright text
       - type: boolean
-        name: 
+        name: show_date
+        label: Jahresangabe aktivieren
+        
       - type: list
         name: links
         label: Links
