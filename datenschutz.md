@@ -1,560 +1,201 @@
 ---
-title: Spendenaufruf
-hide_title: true
-sections:
-  - type: form_section
-    section_id: contact-form
-    title: Für eine starke Zivilgesellschaft!
-    subtitle: Unterstützen
-    gutzuwissen: >
-      ## Gut zu wissen
-
-
-      [**Kampagnen**](https://www.attac.de/kampagnen) sind ein wichtiges Element
-      unserer politischen Arbeit. Jede Kampagne bringt uns unseren Visionen ein
-      Stückchen näher. [Weitere Infos](https://www.attac.de/kampagnen)
-
-        
-
-        
-      <br> Bei Attac ist [**finanzielle
-      Transparenz**](http://www.attac-netzwerk.de/index.php?id=1429)
-      selbstverständlich – Mitglieder und Spender_innen haben ein Recht darauf
-      zu erfahren, was mit ihrem Geld geschieht. Deshalb kann jede_r einen Blick
-      auf unsere Finanzen werfen. [Weitere
-      Infos](http://www.attac-netzwerk.de/index.php?id=1429)
-    content: >
-      ![Finance for the people](/spenden/images/finance-for-the-people-900.jpg)
-
-      <br>  
-      
-      Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac
-      stark für Gerechtigkeit. Doch politische Arbeit kostet nicht nur Zeit und
-      Engagement, sondern auch Geld. Wir wollen weiterhin unabhängig, kreativ
-      und erfolgreich die politische Landschaft gestalten und den Mächtigen die
-      Stirn bieten. Damit uns das gelingt, sind wir auf Spenden angewiesen.
-
-
-      ##### **Mit Deiner tatkräftigen Hilfe können wir viel bewegen!**
-
-
-      Mit diesem Formular kannst Du uns bequem mit Deiner Spende unterstützen.
-      Alle Spenden fließen direkt an Attac Deutschland, deren Regionalgruppe wir
-      sind. Eine Einzugsermächtigung spart Zeit und Geld! Alternativ kannst Du
-      auch eine Spende direkt auf das Spendenkonto von Attac Deutschland
-      überweisen, telefonisch spenden oder ein Spendenformular ausdrucken und
-      uns per Fax oder Post zukommen lassen.
-
-
-      ##### **Vielen Dank für Deine Unterstützung!**
-
-      <br>  
-
-
-      (Felder mit \* müssen ausgefüllt werden)
-    spendenkonto: >
-      ## Spendenkonto
-
-
-      Attac Trägerverein e.V.
-
-
-      IBAN: DE57 43060967 0800100800
-
-
-      BIC: GENODEM 1 GLS
-
-
-      GLS Gemeinschaftsbank  
-
-
-
-      <br>
-
-
-      Wichtig: Nach dem Urteil des Bundesfinanzhofs ist Attac aktuell nicht
-      gemeinnützig, Spenden können somit steuerlich nicht geltend gemacht
-      werden.  
-
-      <br>
-
-
-      Das Verfahren wurde zurückverwiesen an die erste Instanz, das Hessische
-      Finanzgericht. Dessen erneute Entscheidung steht noch aus.
-
-
-      [Weitere Infos](https://www.attac.de/kampagnen/gemeinnuetzigkeit)
-    mitglieddaten: >
-      ## Mitglied werden - jetzt erst recht!
-
-
-      Eine Attac-Mitgliedschaft stärkt unsere politischen Alternativen auch mit
-      Deiner Stimme. Mit wenigen Klicks kannst Du hier [**Attac-Mitglied
-      werden**](https://www.attac.de/aktiv-werden/mitglied-werden) und unseren
-      Forderungen mehr Gewicht verleihen!
-
-
-      [Weitere Infos](https://www.attac.de/aktiv-werden/mitglied-werden)
-
-
-      ## Deine Daten
-
-
-      Ab Februar 2014 löst das sogenannte
-      [**SEPA-Verfahren**](https://www.attac.de/spenden/sepa) bisherige
-      Zahlungsverfahren ab. Es betrifft alle Zahlungsvorgänge – und damit auch
-      alle Überweisungen und Einzüge zugunsten von Attac. Wir haben einige
-      Informationen dazu zusammengestellt. [Weitere
-      Infos](https://www.attac.de/spenden/sepa)
-
-      <br>  
-
-      [**Datenschutz**](/datenschutz) ist uns wichtig. Wir
-      machen jederzeit transparent, zu welchen Zwecken wir Deine Daten
-      verwenden. Wir speichern niemals Daten ohne Dein Einverständnis und
-      ausschließlich bei Diensten, die das zwingend erfordern. 
-    form_id: contactForm
-    form_action: /danke
-    form_fields:
-      - input_type: select
-        name: anrede
-        label: Anrede *
-        default_value: Keine
-        options:
-          - Herr
-          - Frau
-        is_required: true
-      - input_type: text
-        name: name
-        label: Name (Vor- und Nachname) *
-        default_value: Ihr Name
-        is_required: true
-      - input_type: text
-        name: strasse
-        label: Straße und Hausnummer *
-        default_value: Straße
-        is_required: true
-      - input_type: text
-        name: plz
-        label: PLZ *
-        default_value: Ihre Postleitzahl
-        is_required: true
-      - input_type: text
-        name: ort
-        label: Ort *
-        default_value: Ihr Wohnort
-        is_required: true
-      - input_type: email
-        name: email
-        label: E-Mail
-        default_value: Ihre E-Mail-Adresse
-        is_required: false
-      - input_type: tel
-        name: phone
-        label: Telefonnummer *
-        default_value: Ihre Telefonnummer
-        is_required: true
-      - input_type: select
-        name: land
-        label: Land
-        default_value: Deutschland
-        options:
-          - Albanien
-          - Bosnien und Herzegowina
-          - Andorra
-          - Belgien
-          - Bulgarien
-          - Dänemark
-          - Estland
-          - Finnland
-          - Frankreich
-          - Kroatien
-          - Slowenien
-          - Griechenland
-          - Irland
-          - Island
-          - Italien
-          - Lettland
-          - Montenegro
-          - Liechtenstein
-          - Litauen
-          - Luxemburg
-          - Nordmazedonien
-          - Malta
-          - Moldau
-          - Monaco
-          - Niederlande
-          - Norwegen
-          - Kosovo
-          - Österreich
-          - Polen
-          - Portugal
-          - Rumänien
-          - Slowakei
-          - San Marino
-          - Schweden
-          - Schweiz
-          - Russische Föderation
-          - Spanien
-          - Türkei
-          - Tschechien
-          - Ungarn
-          - Ukraine
-          - Vatikanstadt
-          - Vereinigtes Königreich
-          - Weißrussland
-          - Serbien
-          - Zypern
-          - Algerien
-          - Angola
-          - Eritrea
-          - Äthiopien
-          - Lesotho
-          - Botsuana
-          - Benin
-          - Dschibuti
-          - Côte d’Ivoire
-          - Nigeria
-          - Simbabwe
-          - Gabun
-          - Gambia
-          - Ghana
-          - Mauretanien
-          - Cabo Verde
-          - Kenia
-          - Komoren
-          - Kongo
-          - 'Kongo, Demokratische Republik'
-          - Liberia
-          - Libyen
-          - Madagaskar
-          - Mali
-          - Marokko
-          - Mauritius
-          - Mosambik
-          - Niger
-          - Malawi
-          - Sambia
-          - Burkina Faso
-          - Guinea-Bissau
-          - Guinea
-          - Kamerun
-          - Südafrika
-          - Ruanda
-          - Namibia
-          - São Tomé und Príncipe
-          - Senegal
-          - Seychellen
-          - Sierra Leone
-          - Somalia
-          - Äquatorialguinea
-          - Sudan
-          - Südsudan
-          - Eswatini
-          - Tansania
-          - Togo
-          - Tschad
-          - Tunesien
-          - Uganda
-          - Ägypten
-          - Zentralafrikanische Republik
-          - Burundi
-          - Antigua und Barbuda
-          - Barbados
-          - Argentinien
-          - Bahamas
-          - Bolivien
-          - Brasilien
-          - Guyana
-          - Belize
-          - Chile
-          - Dominica
-          - Costa Rica
-          - Dominikanische Republik
-          - Ecuador
-          - El Salvador
-          - Grenada
-          - Guatemala
-          - Haiti
-          - Honduras
-          - Kanada
-          - Kolumbien
-          - Kuba
-          - Mexiko
-          - Nicaragua
-          - Jamaika
-          - Panama
-          - Paraguay
-          - Peru
-          - Suriname
-          - Uruguay
-          - St. Lucia
-          - Venezuela
-          - Vereinigte Staaten
-          - St. Vincent und die Grenadinen
-          - St. Kitts und Nevis
-          - Trinidad und Tobago
-          - Jemen
-          - Armenien
-          - Afghanistan
-          - Bahrain
-          - Aserbaidschan
-          - Bhutan
-          - Myanmar
-          - Brunei Darussalam
-          - Georgien
-          - Sri Lanka
-          - Vietnam
-          - 'Korea, Demokratische Volksrepublik'
-          - Indien
-          - Indonesien
-          - Irak
-          - Iran
-          - Israel
-          - Japan
-          - Kasachstan
-          - Jordanien
-          - Kambodscha
-          - Katar
-          - Kuwait
-          - Laos
-          - Kirgisistan
-          - Libanon
-          - Malediven
-          - Oman
-          - Mongolei
-          - Nepal
-          - Bangladesch
-          - Pakistan
-          - Philippinen
-          - 'Korea, Republik'
-          - Vereinigte Arabische Emirate
-          - Tadschikistan
-          - Turkmenistan
-          - Saudi-Arabien
-          - Singapur
-          - Syrien
-          - Thailand
-          - Usbekistan
-          - China
-          - Malaysia
-          - Timor-Leste
-          - Australien
-          - Salomonen
-          - Fidschi
-          - Cookinseln
-          - Kiribati
-          - Nauru
-          - Vanuatu
-          - Niue
-          - Neuseeland
-          - Palau
-          - Papua-Neuguinea
-          - Tuvalu
-          - Tonga
-          - Samoa
-          - Marshallinseln
-          - Mikronesien
-        is_required: false
-      - input_type: select
-        name: jahr
-        label: Geburtsjahr
-        options:
-          - 2015
-          - 2014
-          - 2013
-          - 2012
-          - 2011
-          - 2010
-          - 2009
-          - 2008
-          - 2007
-          - 2006
-          - 2005
-          - 2004
-          - 2003
-          - 2002
-          - 2001
-          - 2000
-          - 1999
-          - 1998
-          - 1997
-          - 1996
-          - 1995
-          - 1994
-          - 1993
-          - 1992
-          - 1991
-          - 1990
-          - 1989
-          - 1988
-          - 1987
-          - 1986
-          - 1985
-          - 1984
-          - 1983
-          - 1982
-          - 1981
-          - 1980
-          - 1979
-          - 1978
-          - 1977
-          - 1976
-          - 1975
-          - 1974
-          - 1973
-          - 1972
-          - 1971
-          - 1970
-          - 1969
-          - 1968
-          - 1967
-          - 1966
-          - 1965
-          - 1964
-          - 1963
-          - 1962
-          - 1961
-          - 1960
-          - 1959
-          - 1958
-          - 1957
-          - 1956
-          - 1955
-          - 1954
-          - 1953
-          - 1952
-          - 1951
-          - 1950
-          - 1949
-          - 1948
-          - 1947
-          - 1946
-          - 1945
-          - 1944
-          - 1943
-          - 1942
-          - 1941
-          - 1940
-          - 1939
-          - 1938
-          - 1937
-          - 1936
-          - 1935
-          - 1934
-          - 1933
-          - 1932
-          - 1931
-          - 1930
-          - 1929
-          - 1928
-          - 1927
-          - 1926
-          - 1925
-          - 1924
-          - 1923
-          - 1922
-          - 1921
-          - 1920
-          - 1919
-          - 1918
-          - 1917
-          - 1916
-          - 1915
-          - 1914
-          - 1913
-          - 1912
-          - 1911
-          - 1910
-          - 1909
-          - 1908
-          - 1907
-          - 1906
-          - 1905
-          - 1904
-          - 1903
-          - 1902
-          - 1901
-          - 1900
-        is_required: false
-      - input_type: radio
-        name: betrag
-        label: Betrag *
-        options:
-          - '10,-€'
-          - '25,-€'
-          - '50,-€'
-          - '75,-€'
-          - '100,-€'
-          - freier Betrag
-        is_required: true
-      - input_type: text
-        name: freibetrag
-        label: Freier Betrag
-        default_value: frei wählbarer runder Betrag ab 2 Euro
-        is_required: false
-      - input_type: textarea
-        name: message
-        label: Kommentar
-        default_value: Kommentar zur Spende
-        is_required: false
-      - input_type: text
-        name: iban
-        label: IBAN *
-        is_required: true
-      - input_type: text
-        name: bic
-        label: BIC *
-        is_required: true
-      - input_type: text
-        name: first
-        label: Vorname *
-        is_required: true
-      - input_type: text
-        name: last
-        label: Nachname *
-        is_required: true
-      - input_type: checkbox
-        name: newsletter
-        label: Ich möchte den Attac-Newsletter abonnieren.
-        is_required: false
-      - input_type: checkbox
-        name: post
-        label: Ich möchte mehr Infos über Attac per Post.
-        is_required: false
-      - input_type: checkbox
-        name: consent
-        label: >-
-          Ich habe die <a
-          href="https://www.attac.de/datenschutz">Datenschutzbestimmungen</a>
-          gelesen und erkenne sie an.
-        is_required: true
-    submit_label: Spenden
+title: Informationen zum Datenschutz bei Attac
+subtitle: ''
 seo:
-  title: Spende
-  description: Attac unterstützen
+  title: Informationen zum Datenschutz bei Attac
+  description: Datenschutzerklärung nach der DSGVO
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Spende
+      value: Informationen zum Datenschutz bei Attac
       keyName: property
     - name: 'og:description'
-      value: Attac unterstützen
+      value: Datenschutzerklärung nach der DSGVO
       keyName: property
-    - name: 'og:image'
-      value: /spenden/images/finance-for-the-people-900.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Spende
+      value: Informationen zum Datenschutz bei Attac
     - name: 'twitter:description'
-      value: Attac unterstützen
-    - name: 'twitter:image'
-      value: /spenden/images/finance-for-the-people-900.jpg
-      relativeUrl: true
-layout: advanced
+      value: Datenschutzerklärung nach der DSGVO
+layout: page
 ---
+Der Schutz Ihrer persönlichen Daten liegt uns sehr am Herzen. Zählen Sie auf uns!
+
+Attac Saar und Attac Deutschland unterliegen, wie jede Organisation und jedes Unternehmen, den gesetz­lichen Grundlagen gemäß Bundesdatenschutzgesetz und EU-Datenschutz-Grundverordnung (DSGVO). Diese Auflagen und Verpflichtungen nehmen wir sehr ernst; wir überwachen sie gemeinsam mit dem von Attac beauftragten unabhängigen Datenschutzbeauftragten.
+
+Über die gesetzliche Grundlage hinaus ist es für Attac selbstverständlich, politisch bewusst und umsichtig mit personenbezogenen Daten umzugehen. Wir tun alles, um die Privatsphäre unserer Mitglieder, Spender*innen, Aktiven, Interessierten und  Kund*innen zu schützen und die Sicherheit ihrer personenbezogenen Daten zu gewährleisten. Hierzu gehört auch die jeweils frühestmögliche Löschung aller personenbezogenen Daten.
+
+Sie finden hier die Aufstellung aller relevanten Informationen für Sie als Nutzer\*innen, gemäß den Anforderungen der DSGVO (Datenschutz-Grundverordnung der EU); darüber hinaus geben wir Ihnen noch weitere Informationen über unseren Umgang mit personenbezogenen Daten.
+
+### A) Informationen zum Datenschutz nach Art. 13 DSGVO (Datenschutz-Grundverordnung)
+
+I. Allgemeine Hinweise  
+
+Die am 25. Mai 2018 in Kraft getretene Datenschutzgrundverordnung (DSGVO) ist eine EU-weite Verordnung, die die Verarbeitung personenbezogener Daten regelt. Diese soll den Schutz personenbezogener Daten in der Europäischen Union sicherstellen.
+Der Schutz Ihrer Daten und Ihrer Privatsphäre ist uns sehr wichtig. Wir verarbeiten Ihre personenbezogenen Daten ausschließlich im Einklang mit den gesetzlichen Vorgaben.
+
+II. Verantwortliche Stelle  
+
+Attac Deutschland ist das Projekt des Attac Trägerverein e.V.  Verantwortlich für die Verarbeitung Ihrer personenbezogenen Daten ist der Attac Trägerverein e.V., Münchner Str. 48, 60329 Frankfurt. Telefonnummer: 069 900 281 40, E-Mail: info(at)attac.de
+
+III. Datenschutzbeauftragter  
+
+Unseren bestellten Datenschutzbeauftragten erreichen Sie unter Tel. 900 281 – 90 oder per Mail unter: datenschutzbeauftragter(at)attac.de
+
+IV.  Zwecke der Verarbeitung
+
+Wir verarbeiten die von Ihnen zur Verfügung gestellten personenbezogenen Daten zu folgenden Zwecken:
+
+a) Möchten Sie bei Attac Mitglied werden, so verarbeiten wir Ihre personenbezogen Daten zur Anbahnung, Durchführung und Beendigung des Mitgliedschaftsverhältnisses; Rechtsgrundlage: Art. 6 Abs. 1 (b) DSGVO
+
+b) Möchten Sie bei uns Informationen anfragen, verarbeiten wir Ihre Kontaktdaten, um die gewünschte Information im Rahmen Ihrer Einwilligung bereit zu stellen; außerdem senden wir Ihnen zur Wahrung unserer berechtigten Interessen an der regelmäßigen Benachrichtigung über unsere aktuelle Arbeit vier Attac-Rundbriefe und vier Informations-/Spendenbriefe zu, die dazu dienen, die satzungsmäßigen Vereinszwecke zu fördern; Rechtsgrundlage: Art. 6 Abs. 1 (f) DSGVO
+
+c) Möchten Sie in dem von uns betriebenen Webshop Waren bestellen, verarbeiten wir Ihre Daten zur Anbahnung, Durchführung und Beendigung des Kaufvertrages; Rechtsgrundlage: Art. 6 Abs. 1 (b) DSGVO
+
+d) Möchten Sie Attac eine Spende zukommen lassen, verarbeiten wir Ihre die Daten auch zur Anbahnung, Durchführung und Beendigung des Schenkungsvertrages; Rechtsgrundlage: Art. 6 Abs. 1 (b) DSGVO
+
+e) Möchten Sie unseren bundesweiten Newsletter abonnieren – oder andere Newsletter, die von Attac angeboten werden, verarbeiten wir Ihre E-Mail-Adresse gemäß Ihrer Einwilligung; Rechtsgrundlage: Art. 6 Abs. 1 (b) DSGVO
+
+f) Möchten Sie sich an einer von uns betriebenen Bettenbörse für eine Veranstaltung beteiligen, verarbeiten wir Ihre Daten gemäß des Vertrags nach Rechtsgrundlage: Art. 6 Abs. 1 (b) DSGVO
+
+g) Möchten Sie sich an einer von uns betriebenen Mitfahrbörse für eine Veranstaltung beteiligen, verarbeiten wir Ihre Daten gemäß des Vertrags nach Rechtsgrundlage: Art. 6 Abs. 1 (b) DSGVO
+
+h) Möchten Sie sich an einer von uns betriebenen elektronischen Abstimmung beteiligen, verarbeiten wir Ihre Daten gemäß des Vertrags nach Rechtsgrundlage: Art. 6 Abs. 1 (b) DSGVO
+
+Eine über die vorbenannten Zwecke hinausgehende Verarbeitung, insbesondere die Übermittlung Ihrer personenbezogenen Daten an Dritte, erfolgt nur, soweit Sie diesbezüglich ausdrücklich eingewilligt haben oder aber, soweit wir dazu gesetzlich oder durch richterlichen Beschluss verpflichtet werden (Art. 6 Abs. 1c DSGVO).
+
+h) Möchten Sie sich an einer von uns betriebenen Petition/Unterschriftensammlung teilnehmen,  verarbeiten wir Ihre Daten gemäß Ihrer Einwilligung nach Rechtsgrundlage: Art. 6 Abs. 1 (a) DSGVO.
+
+V.  Empfänger\*innen Ihrer Daten
+
+Ihre personenbezogenen Daten werden bei uns gepflegt und verarbeitet, wir achten dabei umfassend auf alle datenschutzrechtlichen Belange.
+
+Soweit Sie als Interessent\*in oder Mitglied eingewilligt haben, übermitteln wir Ihre Daten an die für sie zuständige Attac-Regionalgruppe. Sie können dieses Einverständnis jederzeit zurückziehen.
+
+Dienstleister (Auftragsverarbeiter nach Art. 28 DSGVO) können Ihre Daten erhalten (wie bspw. ein Lettershop oder ein IT-Service-Dienstleister). Alle unsere Dienstleister verarbeiten auftragsweise Daten ausschließlich innerhalb Deutschlands und werden vertraglich zu angemessenen technischen und organisatorischen Maßnahmen zur Gewährleistung des Datenschutzes Ihrer Daten, sowie zur Wahrung des Datengeheimnisses, verpflichtet. Eine Datenverarbeitung in einem sogenannten Drittstaat findet nicht statt.
+
+VI.  Dauer der Speicherung und Löschung der Daten
+
+Ihre Daten werden nur solange gespeichert, wie es für die vorgenannten Zwecke erforderlich ist, oder uns gesetzliche Aufbewahrungsfristen zur Speicherung verpflichten.
+
+a) Wenn Ihre Mitgliedschaft beendet wurde, werden Ihre Daten für eine weitere Verarbeitung und Nutzung gesperrt, bis wir diese löschen. Das Datum der Löschung berücksichtigt gesetzlich vorgegebene Aufbewahrungspflichten.
+
+b) Wenn Ihre Einwilligung durch Widerspruch oder durch Ablauf der Ein-Jahres-Frist (zur Zusendung von Informationen unsererseits) beendet wurde, werden Ihre Daten  für eine weitere Verarbeitung und Nutzung gesperrt, bis wir diese löschen. Das Datum der Löschung  berücksichtigt gesetzlich vorgegebene Aufbewahrungspflichten.
+
+c) Sofern Sie Waren bei uns bestellt haben, löschen wir Ihre personenbezogenen Daten, nachdem das Vertragsverhältnis beendet ist und keine gesetzlichen Aufbewahrungspflichten mehr bestehen.
+
+d) Wenn Sie uns gespendet haben, löschen wir Ihre personenbezogenen Daten, nachdem das Vertragsverhältnis beendet ist und keine gesetzlichen Aufbewahrungspflichten mehr bestehen.
+
+e) Wenn Sie den Bezug des bundesweiten Attac-Newsletters durch Abmeldung beenden, wird Ihre E-Mail-Adresse gelöscht, außer es liegt eine anderweitige Grundlage für die Verarbeitung dieses personenbezogenen Datums vor, beispielsweise beim Bestehen einer Mitgliedschaft (vgl. oben).
+
+f) Wenn Sie sich an einer von uns betriebenen Bettenbörse für eine Veranstaltung beteiligt haben, löschen wir Ihre Daten nach Ablauf der Veranstaltung mit einer Karenzzeit von einem Monat.
+
+g) Wenn Sie sich an einer von uns betriebenen Mitfahrbörse für eine Veranstaltung beteiligt haben, löschen wir Ihre Daten nach Ablauf der Veranstaltung mit einer Karenzzeit von einem Monat.
+
+h) Wenn der durch Ihre Einwilligung bestimmte Zweck der Verarbeitung Ihrer Daten beendet wurde (Beendigung Petition/Unterschriftensammlung/elektronische Abstimmung) löschen wir Ihre Daten spätestens nach zwei Monaten.
+
+VII.  Kein Profiling
+
+Ihre personenbezogenen Daten werden von uns nicht für eine Profilbildung verarbeitet. Zur Begründung und Durchführung des Vertragsverhältnisses nutzen wir grundsätzlich keine automatisierte Entscheidungsfindung.
+
+VIII.  Folgen der Nichtbereitstellung Ihrer personenbezogenen Daten
+
+Selbstverständlich sind Sie zu keiner Zeit verpflichtet, uns Ihre Daten zur Verfügung zu stellen. Allerdings befragen wir Sie in unseren Formularen nur nach den nötigsten Daten – wenn wir diese nicht verfügbar haben, können wir Ihren Anliegen (Mitgliedschaft, Newsletter, Spenden etc.) nicht nachkommen.
+
+9.  Ihre Rechte
+
+Das Datenschutzrecht sieht umfangreiche Betroffenenrechte vor, welche wir in jedem Stadium der Datenverarbeitung gewährleisten. Die nachfolgenden Rechte können Sie durch formlose Mitteilung uns gegenüber ausüben. Ergeben sich hier Beschwerden, können Sie diese auch an unseren bestellten Datenschutzbeauftragten richten unter: datenschutzbeauftragter(at)attac.de oder telefonisch: 069 900 281 90
+
+Auskunft, Berichtigung, Löschung etc.
+
+Sie haben das Recht auf Auskunft über die bei uns von Ihnen gespeicherten Daten, das Recht auf Berichtigung oder Löschung Ihrer Daten, das Recht auf Einschränkung der Verarbeitung sowie das Recht auf Datenübertragbarkeit.
+
+**Widerrufsrecht**
+
+Sofern die Verarbeitung Ihrer personenbezogenen Daten auf Grundlage einer Einwilligung erfolgt, haben Sie jederzeit das Recht, diese uns gegenüber zu widerrufen. Die Rechtsmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung wird dadurch nicht berührt.
+
+**Beschwerderecht bei einer Aufsichtsbehörde**
+
+Darüber hinaus haben Sie das Recht, sich mit einer Beschwerde an die zuständige Datenschutz-Aufsichtsbehörde zu wenden. Diese ist der Hessische Datenschutzbeauftragte, Gustav-Stresemann-Ring 1, 65021 Wiesbaden https://datenschutz.hessen.de oder telefonisch: 0611 1408-0
+
+### B) Datenverarbeitung bei der Nutzung von "BigBlueButton"
+
+Umfang der Datenverarbeitung
+
+Wenn Sie den von Attac zur Verfügung gestellten Dienst "BigBlueButton“ für die Durchführung von Video-Konferenzen, Online-Meetings und Webinaren nutzen, verarbeiten wir von Ihnen folgende Daten:
+
+1.  Angaben zum Benutzer: Vorname, Nachname, Nickname (Pseudonym), Benutzerkennung
+
+2.  Meeting-Metadaten: Thema, Beschreibung (optional), Teilnehmer-IP-Adressen, Geräte-/Hardware-Informationen
+
+3.  Meeting-Inhaltsdaten: Audio-, Video- und ggf. Textdaten (Chat) der Äußerungen, die Sie während eines Meetings tätigen
+
+4.  Meeting-Aufzeichnungen: Standardmäßig werden bei Audio- bzw. Video-Aufnahmen der Veranstaltungen die Kameras der Teilnehmer*innen ausgeschaltet. Die Fragen aus dem Publikum werden per Chat gestellt, sodass weder Audio- noch Videodaten der Teilnehmer*innen entstehen.
+    Sollte dies doch einmal der Fall sein, werden die Teilnehmer\*innen informiert und bekommen die Gelegenheit, ihr Einverständnis zu geben (im Chat, sodass das Einverständnis per Screenshot dokumentiert werden kann).
+
+**Zwecke der Datenverarbeitung**
+
+Die Verarbeitung Ihrer oben genannten personenbezogenen Daten dient dazu, Ihnen „BigBlueButton“ als Tool für die Durchführung von Video-Konferenzen, Online-Meetings und Webinaren zur Verfügung stellen zu können und die genannten Veranstaltungs-Formate über „BigBlueButton“ realisieren zu können.
+
+**Rechtsgrundlage für die Verarbeitung personenbezogener Daten**
+
+Soweit wir für Verarbeitungsvorgänge personenbezogener Daten im Rahmen der Nutzung von „BigBlueButton“ Ihre Einwilligung einholen, dient Art. 6 Abs. 1 lit. a DSGVO als Rechtsgrundlage für die Verarbeitung personenbezogener Daten.
+
+Weitere Empfänger Ihrer personenbezogenen Daten
+Ihre bei der Nutzung von „BigBlueButton“ erhobenen personenbezogenen Daten werden an folgende Empfänger\*innen weitergegeben:
+
+Empfänger innerhalb Attac:    Keine
+Empfänger außerhalb Attac:    Unser BBB-Provider: minuskelscreenpartner GmbH
+
+Die Minuskel Screenpartner GmbH hostet unser BBB auf einem gesicherten Server. Dort speichert Minuskel die IP Adressen der Nutzer*innen für maximal eine Woche, und löscht diese dann automatisch. Die anonymisierten und gekürzten IP Adressen der Nutzer*innen werden spätestens nach 4 Wochen gelöscht
+
+Dauer der Speicherung personenbezogener Daten
+Ihre personenbezogenen Daten, die wir im Rahmen Ihrer Verwendung der Videokonferenz-Software „BigBlueButton“ verarbeiten, werden von Attac grundsätzlich nach jeder Veranstaltung gelöscht, bzw. länger, wurde das Einverständnis für eine Aufzeichnung gegeben. Das Einverständnis kann jederzeit zurückgenommen werden.
+
+**Hinweis:**
+
+Attac Deutschland untersagt als Veranstalter ausdrücklich, personenbezogene Daten aus den von uns auf BBB realisierten Veranstaltungen zu speichern, weiterzugeben, oder zu verarbeiten. Dazu gehören Video- und Audioaufzeichnungen, sowie schriftliche Äußerungen im Chat.
+Für den Fall, dass der Veranstalter selbst Aufzeichnungen vornehmen möchte, muss er hierzu das Einverständnis aller Teilnehmer\*innen einholen. Dieses Einverständnis muss schriftlich erfolgen, im Chat oder in den Notizen.
+
+### C) Weitere Informationen zum Datenschutz bei Attac  
+
+Attac speichert keine personenbezogenen Daten, außer bei den Vorgängen, die dies explizit erfordern, und auch dann nur mit Ihrem Einverständnis (Spenden, Mitglied werden, Infos senden, etc.), oder im Rahmen von gesetzlichen Auflagen. Wenn Sie uns personenbezogene Daten aktiv zur Verfügung stellen, werden Ihre Daten gespeichert, die Speicherung erfolgt in elektronischer Form in einer geschützten Datenbank auf geschützten Servern.
+
+Zugang zu den personenbezogenen Daten haben in Attac ausschließlich einzelne Mitarbeiter*innen von Attac. Die Daten werden allein für die von den Nutzer*innen angegebenen Zwecke verwendet. Attac erstellt keinerlei Nutzer\*innenprofile.
+
+Alle personenbezogenen Daten werden standardmäßig über eine SSL-Verbindung übertragen. SSL gewährleistet eine sichere und verschlüsselte, von außen nicht zugängliche Datenübertragung (erkennbar am "s" im "https://" in der Adresszeile des Webbrowsers). Für E-Mails können wir die Sicherheit der gesendeten Daten auf dem Übertragungsweg nicht gewährleisten.
+
+
+**Fremde Web-Dienste**
+
+Wir setzen zum Einbinden von Videos den Anbieter YouTube (Google) / Google ein. Normalerweise wird bereits bei Aufruf einer Seite mit eingebetteten Videos Ihre IP-Adresse an YouTube gesendet und Cookies auf Ihrem Rechner installiert. Wir haben unsere YouTube-Videos jedoch mit dem erweiterten Datenschutzmodus eingebunden (in diesem Fall nimmt YouTube immer noch Kontakt zu dem Dienst Double Klick von Google auf, doch werden dabei laut der Datenschutzerklärung von Google personenbezogene Daten nicht ausgewertet). Dadurch werden von YouTube keine Informationen über die Besucher mehr gespeichert, es sei denn, sie sehen sich das Video an. Wenn Sie das Video anklicken, wird Ihre IP-Adresse an YouTube übermittelt und YouTube erfährt, dass Sie das Video angesehen haben. Sind Sie bei YouTube eingeloggt, wird diese Information auch Ihrem Benutzerkonto zugeordnet (dies können Sie verhindern, indem Sie sich vor dem Aufrufen des Videos bei YouTube ausloggen). Auf die Verwendung Ihrer Daten durch YouTube haben wir keinen Einfluss. Informationen über Datenschutz bei YouTube finden Sie in deren Datenschutzerklärung unter https://policies.google.com/privacy?hl=de
+
+Für die Verbreitung und Vermittlung unserer Themen und Inhalte nutzen wir auch den Nachrichtendienst Twitter. Twitter verwendet Technologien, um Informationen über die Nutzer\*innen zu sammeln. Auf die Verwendung Ihrer Daten durch Twitter haben wir keinen Einfluss. Informationen über den Datenschutz bei Twitter finden Sie in deren Datenschutzerklärung unter https://twitter.com/de/privacy
+
+Für die Verbreitung und Vermittlung unserer Themen und Inhalte nutzen wir auch Facebook. Facebook verwendet Technologien, um Informationen über die Nutzer\*innen zu sammeln. Auf die Verwendung Ihrer Daten durch Facebook haben wir keinen Einfluss. Informationen über den Datenschutz bei Facebook finden Sie in deren Datenschutzerklärung unter https://www.facebook.com/privacy/explanation
+
+Für die Durchführung von Webinaren, die aufgrund der Veranstaltungsgröße oder aus organisatorischen Gründen nicht über unseren Big Blue Button-Server durchgeführt werden können, nutzen wir ClickMeeting. ClickMeeting verwendet Technologien, um Informationen über die Nutzer\*innen zu sammeln. Auf die Verwendung Ihrer Daten durch ClickMeeting haben wir keinen Einfluss. Informationen über den Datenschutz bei ClickMeeting finden Sie in deren Datenschutzerklärung unter https://clickmeeting.com/de/legal​​​​​​​.
+
+**Auskunftsrecht und Kontaktdaten**
+
+Ihnen steht jederzeit ein umfassendes Auskunftsrecht bezüglich der über Sie bei uns gespeicherten personenbezogenen Daten zu, sowie das Recht auf Berichtigung unrichtiger Daten, deren Sperrung oder Löschung.
+
+Wenn Sie Auskunft über Ihre personenbezogenen Daten beziehungsweise deren Korrektur oder Löschung wünschen oder weitergehende Fragen über die Verwendung Ihrer uns überlassenen personenbezogenen Daten haben, kontaktieren Sie bitte: webadmin\[at]attac.de
+
+**Datenschutzbeauftragter**
+
+Bei Fragen zum Datenschutz bei Attac können Sie sich auch direkt an unseren Datenschutzbeauftragten wenden: datenschutzbeauftragter\[at]attac.de oder telefonisch: 069 900 281 90.
+
+Frankfurt, 22. Juni 2021
+www.attac.de
+
+Attac Deutschland
+Münchener Straße 48
+60329 Frankfurt
+Telefon:: +49 69 900 281 -10
+Telefax: +49 69 900 281-99
+E-Mail: info@attac.de
+Web: www.attac.de
