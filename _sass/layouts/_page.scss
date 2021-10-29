@@ -19,7 +19,7 @@
     padding: $spacer;
 }
 
-@include media-breakpoint-up(sm) {
+@include media-breakpoint-down(sm) {
 	.page__header,
 	.page__copy {
 		font-size: 1.125em;
