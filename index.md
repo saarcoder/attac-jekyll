@@ -722,7 +722,7 @@ sections:
 
 
           [Twitter](https://twitter.com/hashtag/attacsaar?src=hashtag_click)
-    grid_cols: three
+    grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: large
     enable_cards: true
