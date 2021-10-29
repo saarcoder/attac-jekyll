@@ -747,7 +747,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    has_border: true
+    has_border: false
 seo:
   title: 20 Jahre Attac Saar
   description: Ein Knoten im internationalen Attac-Netzwerk.
