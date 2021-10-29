@@ -254,6 +254,10 @@ models:
         name: content
         label: Inhalt Fußzeile
         description: The copyright text
+      - type: string
+        name: jahr
+        label: aktuelles Jahr
+        description: Jahr eintragen
       - type: list
         name: links
         label: Links
