@@ -261,7 +261,7 @@ models:
       - type: string
         name: jahr
         label: aktuelles Jahr
-        description: 
+        description: Jahr eintragen
       - type: list
         name: links
         label: Links
