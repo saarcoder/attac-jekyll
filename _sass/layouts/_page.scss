@@ -22,5 +22,6 @@
 @include media-breakpoint-down(sm) {
     .traeger {
         float: none;
+        margin-left: 0;
     }
 }
