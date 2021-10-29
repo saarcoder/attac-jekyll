@@ -64,8 +64,7 @@
         "has_tertiary_nav": false,
         "has_social": false,
         "content": "Attac Saar",
-        "show_date": true,
-        "jahr": 2021
+        "show_date": true
     },
     "domain": "https://attac-jekyll-6c6b9.netlify.app/"
 }
