@@ -727,7 +727,7 @@ sections:
         content: |
           Impressum
 
-          Datenschutz
+          [Datenschutz](/datenschutz)
 
           [Kontakt](mailto:attac.saarland@gmail.com)
         content_align: left
