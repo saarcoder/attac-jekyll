@@ -234,8 +234,12 @@
         }
     }
     .feature {
-        &__title {
-        text-align: center;
+        &__copy h3, &__copy h6, &__title {
+            text-align: center;
+        }
+        &__subtitle {
+            text-align: center;
+            margin-bottom: .5rem;
         }
     }
     .cta__title {
